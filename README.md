@@ -6,13 +6,17 @@
   - HF 官方组织新仓(Qwen/deepseek/zai/moonshot/minimax/01-ai/openai/meta/mistral/google/nvidia/microsoft/allenai/THUDM/internlm/TeleAI,48h 窗口)
   - HF trending 榜 + 质量门(下载>300 或 点赞>20,排除 GGUF/MLX/微调/镜像仓)
   - Reddit r/LocalLLaMA RSS(社区第一手讨论,标题关键词过滤)
-- GitHub Actions 每天 UTC 01:30(北京 09:30)跑 `scripts/collect.py` + `scripts/build_site.py`,结果提交回本仓
-- GitHub Pages 从 `docs/` 出静态站: 首页按天索引,单日页分三区(官方/trending/社区)
+- **部署评估**(assess.py): 每个新模型给出 参数量/MoE激活/Q4显存 + 两台目标机器的结论:
+  - Mac M4 Air 24GB (120GB/s, 16GB wired) — 能否装下、预期 tok/s
+  - DGX Spark GB10 (273GB/s, 95GB) — 单台或多台 TP 结论
+  - 速率公式: tok/s ≈ 带宽 ÷ 激活权重量(±50% 估算,Q4 超内存自动降档 Q3 建议)
+- GitHub Actions 每天 UTC 01:30(北京 09:30)跑 collect → assess → build,结果提交回本仓
+- GitHub Pages 从 `docs/` 出静态站: 首页按天索引,单日页含部署评估表 + 三区情报
 
 ## 本地跑
 
 ```bash
-python3 scripts/collect.py && python3 scripts/build_site.py
+python3 scripts/collect.py && python3 scripts/assess.py && python3 scripts/build_site.py
 # 打开 docs/index.html
 ```
 

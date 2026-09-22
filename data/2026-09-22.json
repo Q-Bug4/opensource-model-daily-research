@@ -1,6 +1,6 @@
 {
  "date": "2026-09-22",
- "generated_at": "2026-09-22T03:35:44.233259+00:00",
+ "generated_at": "2026-09-22T03:52:53.398489+00:00",
  "window_hours": 48,
  "hf_org": [
   {
@@ -31,7 +31,7 @@
    "repo": "Altworld/Hemmingway-1",
    "created": "2026-09-20T12:10:31.000Z",
    "downloads": 834,
-   "likes": 394,
+   "likes": 396,
    "pipeline": "text-generation",
    "url": "https://huggingface.co/Altworld/Hemmingway-1"
   },
@@ -41,7 +41,7 @@
    "repo": "XiaomiMiMo/MiMo-V2.6-Distill-Qwen-9B",
    "created": "2026-09-21T18:18:40.000Z",
    "downloads": 0,
-   "likes": 153,
+   "likes": 157,
    "pipeline": "image-text-to-text",
    "url": "https://huggingface.co/XiaomiMiMo/MiMo-V2.6-Distill-Qwen-9B"
   },
@@ -238,6 +238,104 @@
    "title": "Deterministic Kittens: fun with Qwen Image 2.1 on an M2 Macbook Pro",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wmb2ug/deterministic_kittens_fun_with_qwen_image_21_on/",
    "updated": "2026-09-21T12:14:42+00:00"
+  }
+ ],
+ "assessments": [
+  {
+   "repo": "Qwen/Qwen-Image-2.1-PE-I2I",
+   "params_b": 4.6,
+   "active_b": null,
+   "moe": false,
+   "precision": "bf16",
+   "q4_gb": 2.7,
+   "fp8_gb": 4.8,
+   "pipeline": null,
+   "mac": "✅ ~38 tok/s",
+   "spark": "✅ 1 台 ~86 tok/s"
+  },
+  {
+   "repo": "Qwen/Qwen-Image-2.1-PE-T2I",
+   "params_b": 4.6,
+   "active_b": null,
+   "moe": false,
+   "precision": "bf16",
+   "q4_gb": 2.7,
+   "fp8_gb": 4.8,
+   "pipeline": "text-to-image",
+   "mac": "✅  图像/嵌入模型",
+   "spark": "✅ 1 台"
+  },
+  {
+   "repo": "Altworld/Hemmingway-1",
+   "params_b": 13.1,
+   "active_b": null,
+   "moe": false,
+   "precision": "bf16",
+   "q4_gb": 7.6,
+   "fp8_gb": 13.8,
+   "pipeline": "text-generation",
+   "mac": "⚠️ ~15 tok/s",
+   "spark": "✅ 1 台 ~34 tok/s"
+  },
+  {
+   "repo": "XiaomiMiMo/MiMo-V2.6-Distill-Qwen-9B",
+   "params_b": 9.0,
+   "active_b": null,
+   "moe": false,
+   "precision": "bf16",
+   "q4_gb": 5.2,
+   "fp8_gb": 9.5,
+   "pipeline": "image-text-to-text",
+   "mac": "✅ ~21 tok/s",
+   "spark": "✅ 1 台 ~48 tok/s"
+  },
+  {
+   "repo": "Qwen/Qwen-Image-2.1-PE-I2I",
+   "params_b": 4.6,
+   "active_b": null,
+   "moe": false,
+   "precision": "bf16",
+   "q4_gb": 2.7,
+   "fp8_gb": 4.8,
+   "pipeline": null,
+   "mac": "✅ ~38 tok/s",
+   "spark": "✅ 1 台 ~86 tok/s"
+  },
+  {
+   "repo": "Qwen/Qwen-Image-2.1-PE-T2I",
+   "params_b": 4.6,
+   "active_b": null,
+   "moe": false,
+   "precision": "bf16",
+   "q4_gb": 2.7,
+   "fp8_gb": 4.8,
+   "pipeline": "text-to-image",
+   "mac": "✅  图像/嵌入模型",
+   "spark": "✅ 1 台"
+  },
+  {
+   "repo": "paradigma-inc/limite-1b-violetto",
+   "params_b": 1.0,
+   "active_b": null,
+   "moe": false,
+   "precision": "bf16",
+   "q4_gb": 0.6,
+   "fp8_gb": 1.1,
+   "pipeline": "text-generation",
+   "mac": "✅ ~111 tok/s",
+   "spark": "✅ 1 台 ~253 tok/s"
+  },
+  {
+   "repo": "pottokao/Qwen-Image-2.1-Text-Encoder-Heretic",
+   "params_b": 4.3,
+   "active_b": null,
+   "moe": false,
+   "precision": "bf16",
+   "q4_gb": 2.5,
+   "fp8_gb": 4.5,
+   "pipeline": null,
+   "mac": "✅ ~40 tok/s",
+   "spark": "✅ 1 台 ~92 tok/s"
   }
  ]
 }

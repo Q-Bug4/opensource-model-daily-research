@@ -17,6 +17,9 @@ jobs:
       - name: Collect new models from all sources
         run: python3 scripts/collect.py
 
+      - name: Assess deployment requirements
+        run: python3 scripts/assess.py
+
       - name: Build site
         run: python3 scripts/build_site.py
 

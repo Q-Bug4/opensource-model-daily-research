@@ -28,6 +28,10 @@ section h2{font-size:14px;text-transform:uppercase;letter-spacing:.06em;color:#6
 .page-nav{font-size:13px;margin-bottom:20px}
 .page-nav a{color:#1a4fa3;text-decoration:none}
 footer{margin-top:40px;color:#9ca3af;font-size:12px}
+table.assess{width:100%;background:#fff;border:1px solid #e5e7eb;border-radius:10px;border-collapse:collapse;margin-bottom:8px}
+table.assess th,table.assess td{padding:8px 12px;border-bottom:1px solid #f0f1f3;font-size:13.5px;text-align:left}
+table.assess th{font-size:11.5px;text-transform:uppercase;letter-spacing:.05em;color:#6b7280;background:#fafbfc}
+table.assess td.num{font-family:ui-monospace,monospace;white-space:nowrap}
 """
 
 def esc(s): return html.escape(str(s))
@@ -45,6 +49,34 @@ def item_html(it):
         meta = f"dl:{it.get('downloads',0):,} · ♥{it.get('likes',0)} · {it.get('pipeline') or '-'}"
     return (f'<div class="item"><span class="tag {tag[0]}">{tag[1]}</span>'
             f'{body}<span class="meta">{esc(meta)}</span></div>')
+
+
+def assess_html(data):
+    """部署评估表"""
+    rows = data.get("assessments") or []
+    if not rows:
+        return ""
+    seen, uniq = set(), []
+    for a in rows:
+        if a["repo"] not in seen:
+            seen.add(a["repo"])
+            uniq.append(a)
+    trs = []
+    for a in uniq:
+        act = f'<span class="meta">激活 {a["active_b"]}B</span>' if a.get("active_b") else ""
+        moe = ' <span class="tag trend">MoE</span>' if a.get("moe") else ""
+        trs.append(
+            f'<tr><td><a href="https://huggingface.co/{esc(a["repo"])}">{esc(a["repo"].split("/",1)[1])}</a>'
+            f'<span class="meta">{esc(a["repo"].split("/",1)[0])}</span>{moe}</td>'
+            f'<td class="num">{a["params_b"]}B {act}</td>'
+            f'<td class="num">{a["q4_gb"]}GB</td>'
+            f'<td>{esc(a["mac"])}</td>'
+            f'<td>{esc(a["spark"])}</td></tr>')
+    return ('<section><h2>部署评估 <span class="meta">估:带宽÷激活权重,±50% · '
+            'Mac=M4 Air 24GB(120GB/s,16GB wired) · Spark=单台GB10(273GB/s,95GB)</span></h2>'
+            '<table class="assess"><thead><tr><th>模型</th><th>参数</th>'
+            f'<th>Q4 显存</th><th>Mac M4 Air</th><th>DGX Spark</th></tr></thead>'
+            f'<tbody>{"".join(trs)}</tbody></table></section>')
 
 
 def day_card(day, data, link=True):
@@ -67,7 +99,8 @@ def page(title, body):
 
 
 def main():
-    days = sorted(f[:-5] for f in os.listdir("data") if f.endswith(".json"))
+    days = sorted(f[:-5] for f in os.listdir("data")
+                  if f.endswith(".json") and f[0].isdigit() and not f.startswith("assess"))
     os.makedirs("docs", exist_ok=True)
 
     # 首页: 每天一张卡片(条目折叠,点进单日页看全)
@@ -86,7 +119,8 @@ def main():
         data = json.load(open(f"data/{d}.json"))
         body = (f'<div class="page-nav"><a href="index.html">← 日报首页</a></div>'
                 f'<h1>{d}</h1>'
-                f'<div class="sub">窗口 {data["window_hours"]}h · 生成于 {data["generated_at"][:16]} UTC</div>')
+                f'<div class="sub">窗口 {data["window_hours"]}h · 生成于 {data["generated_at"][:16]} UTC</div>'
+                + assess_html(data))
         for key, label in [("hf_org", "官方组织新仓"), ("hf_trending", "trending 新模型"),
                            ("reddit", "社区讨论")]:
             if data[key]:
