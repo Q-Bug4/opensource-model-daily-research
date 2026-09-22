@@ -1,0 +1,243 @@
+{
+ "date": "2026-09-22",
+ "generated_at": "2026-09-22T03:35:44.233259+00:00",
+ "window_hours": 48,
+ "hf_org": [
+  {
+   "source": "hf-org",
+   "org": "Qwen",
+   "repo": "Qwen/Qwen-Image-2.1-PE-I2I",
+   "created": "2026-09-20T08:46:47.000Z",
+   "downloads": 4604,
+   "likes": 37,
+   "pipeline": null,
+   "url": "https://huggingface.co/Qwen/Qwen-Image-2.1-PE-I2I"
+  },
+  {
+   "source": "hf-org",
+   "org": "Qwen",
+   "repo": "Qwen/Qwen-Image-2.1-PE-T2I",
+   "created": "2026-09-20T08:45:29.000Z",
+   "downloads": 876,
+   "likes": 36,
+   "pipeline": "text-to-image",
+   "url": "https://huggingface.co/Qwen/Qwen-Image-2.1-PE-T2I"
+  }
+ ],
+ "hf_trending": [
+  {
+   "source": "hf-trending",
+   "org": "Altworld",
+   "repo": "Altworld/Hemmingway-1",
+   "created": "2026-09-20T12:10:31.000Z",
+   "downloads": 834,
+   "likes": 394,
+   "pipeline": "text-generation",
+   "url": "https://huggingface.co/Altworld/Hemmingway-1"
+  },
+  {
+   "source": "hf-trending",
+   "org": "XiaomiMiMo",
+   "repo": "XiaomiMiMo/MiMo-V2.6-Distill-Qwen-9B",
+   "created": "2026-09-21T18:18:40.000Z",
+   "downloads": 0,
+   "likes": 153,
+   "pipeline": "image-text-to-text",
+   "url": "https://huggingface.co/XiaomiMiMo/MiMo-V2.6-Distill-Qwen-9B"
+  },
+  {
+   "source": "hf-trending",
+   "org": "SupraLabs",
+   "repo": "SupraLabs/Supra2-IMG",
+   "created": "2026-09-21T14:05:35.000Z",
+   "downloads": 0,
+   "likes": 75,
+   "pipeline": "text-to-image",
+   "url": "https://huggingface.co/SupraLabs/Supra2-IMG"
+  },
+  {
+   "source": "hf-trending",
+   "org": "DoccyHealth",
+   "repo": "DoccyHealth/Solomon",
+   "created": "2026-09-21T01:38:48.000Z",
+   "downloads": 0,
+   "likes": 42,
+   "pipeline": "text-classification",
+   "url": "https://huggingface.co/DoccyHealth/Solomon"
+  },
+  {
+   "source": "hf-trending",
+   "org": "Qwen",
+   "repo": "Qwen/Qwen-Image-2.1-PE-I2I",
+   "created": "2026-09-20T08:46:47.000Z",
+   "downloads": 4604,
+   "likes": 37,
+   "pipeline": null,
+   "url": "https://huggingface.co/Qwen/Qwen-Image-2.1-PE-I2I"
+  },
+  {
+   "source": "hf-trending",
+   "org": "Qwen",
+   "repo": "Qwen/Qwen-Image-2.1-PE-T2I",
+   "created": "2026-09-20T08:45:29.000Z",
+   "downloads": 876,
+   "likes": 36,
+   "pipeline": "text-to-image",
+   "url": "https://huggingface.co/Qwen/Qwen-Image-2.1-PE-T2I"
+  },
+  {
+   "source": "hf-trending",
+   "org": "paradigma-inc",
+   "repo": "paradigma-inc/limite-1b-violetto",
+   "created": "2026-09-21T18:22:11.000Z",
+   "downloads": 0,
+   "likes": 33,
+   "pipeline": "text-generation",
+   "url": "https://huggingface.co/paradigma-inc/limite-1b-violetto"
+  },
+  {
+   "source": "hf-trending",
+   "org": "pottokao",
+   "repo": "pottokao/Qwen-Image-2.1-Text-Encoder-Heretic",
+   "created": "2026-09-20T16:39:14.000Z",
+   "downloads": 214,
+   "likes": 27,
+   "pipeline": null,
+   "url": "https://huggingface.co/pottokao/Qwen-Image-2.1-Text-Encoder-Heretic"
+  }
+ ],
+ "reddit": [
+  {
+   "source": "reddit",
+   "title": "Kev: tiny Jev-like decision models (0.8B/4B/9B) on Qwen3.5 you can train and run locally - the 9B fits a 32GB Mac",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wmxx9w/kev_tiny_jevlike_decision_models_08b4b9b_on/",
+   "updated": "2026-09-22T03:08:44+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "Model grafting: turning Qwen3.5-4B into a causal encoder-decoder after the fact",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wmw3qq/model_grafting_turning_qwen354b_into_a_causal/",
+   "updated": "2026-09-22T01:43:42+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "MiMo-V2.6 distilled themselves into Qwen 9B!",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wmtjqu/mimov26_distilled_themselves_into_qwen_9b/",
+   "updated": "2026-09-21T23:50:29+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "DeepSeek 4.1 Flash (as a System One model) vs Jev",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wmt5t9/deepseek_41_flash_as_a_system_one_model_vs_jev/",
+   "updated": "2026-09-21T23:33:58+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "Uncensor an LLM without touching weights: inject a tiny trained KV-cache bank (~18MB) and unload it anytime",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wms904/uncensor_an_llm_without_touching_weights_inject_a/",
+   "updated": "2026-09-21T22:55:57+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "Is Mimo 2.6 confusing to use for anyone else?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wmr9us/is_mimo_26_confusing_to_use_for_anyone_else/",
+   "updated": "2026-09-21T22:16:23+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "Which lab right now releases the best open models in your opinion? And your favorite open or closed lab?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wmqkuo/which_lab_right_now_releases_the_best_open_models/",
+   "updated": "2026-09-21T21:48:59+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "Mimo v2.6-Flash-RL vs open-weight models",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wmp5h2/mimo_v26flashrl_vs_openweight_models/",
+   "updated": "2026-09-21T20:54:52+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "XiaomiMiMo/MiMo-V2.6-Distill-Qwen-9B",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wmp2di/xiaomimimomimov26distillqwen9b/",
+   "updated": "2026-09-21T20:51:40+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "5090 + 3090, Qwen3.8 27B and Flash-Next at 60k–160k context tests with llama.cpp",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wmoqgz/5090_3090_qwen38_27b_and_flashnext_at_60k160k/",
+   "updated": "2026-09-21T20:39:39+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "XiaomiMiMo/MiMo-V2.6-Flash-RL · Hugging Face",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wmnw89/xiaomimimomimov26flashrl_hugging_face/",
+   "updated": "2026-09-21T20:09:12+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "XiaomiMiMo/MiMo-V2.6-Pro-RL · Hugging Face",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wmntwv/xiaomimimomimov26prorl_hugging_face/",
+   "updated": "2026-09-21T20:06:48+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "yandex/AliceAI-Foundation-80B-A3B-Base: Russian-developed competitor to Qwen 35B and DeepSeek V4 Flash",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wmmnrt/yandexaliceaifoundation80ba3bbase/",
+   "updated": "2026-09-21T19:24:34+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "REAP/MTP Qwen3.8-Flash-Next MLX builds — here are the measured trade-offs to Jundot",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wmlt6i/reapmtp_qwen38flashnext_mlx_builds_here_are_the/",
+   "updated": "2026-09-21T18:54:19+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "On a small pilot, Gemma 4 E2B's verbalized confidence put 99.6% of its judgments on 0.00, 1.00 or 0.50, and a separate judge (Jev &amp; Laya-type arch) ranked the same passages better, AUROC 0.926 vs 0.804, including the ones Gemma called certain",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wmkr01/on_a_small_pilot_gemma_4_e2bs_verbalized/",
+   "updated": "2026-09-21T18:16:56+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "Can a relatively small language model (Qwen 3.8 27B) understand visual style and not just describe it?I asked it to recreate 618 visual language of designers, artists, movements etc and then transfer those ideas into entirely new SVG artworks and pages. Here what we have:",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wmjpag/can_a_relatively_small_language_model_qwen_38_27b/",
+   "updated": "2026-09-21T17:39:06+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "Gemma loops when asked to output JSON",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wmfzzu/gemma_loops_when_asked_to_output_json/",
+   "updated": "2026-09-21T15:27:57+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "[MASSIVE RELEASE] Supra2-IMG - a tiny 100M text-to-image model - SOTA quality and open release!",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wmftr3/massive_release_supra2img_a_tiny_100m_texttoimage/",
+   "updated": "2026-09-21T15:21:45+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "Got jev-like api running natively on ninfer / qwen3.8 27b and results are quite decent",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wmev5u/got_jevlike_api_running_natively_on_ninfer_qwen38/",
+   "updated": "2026-09-21T14:46:43+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "Deepseek training 2T and plans 8T model",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wmblx1/deepseek_training_2t_and_plans_8t_model/",
+   "updated": "2026-09-21T12:38:08+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "[Splash Engine] Qwen3.8-27B in native 8-bit at 37–55 tok/s on Apple Silicon: Extending Splash to Q8, 256k context scaling, and the &quot;Reasoning Cliff&quot;",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wmbbf9/splash_engine_qwen3827b_in_native_8bit_at_3755/",
+   "updated": "2026-09-21T12:25:31+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "Deterministic Kittens: fun with Qwen Image 2.1 on an M2 Macbook Pro",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wmb2ug/deterministic_kittens_fun_with_qwen_image_21_on/",
+   "updated": "2026-09-21T12:14:42+00:00"
+  }
+ ]
+}
