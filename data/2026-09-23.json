@@ -1,0 +1,253 @@
+{
+ "date": "2026-09-23",
+ "generated_at": "2026-09-23T06:09:46.610284+00:00",
+ "window_hours": 48,
+ "hf_org": [
+  {
+   "source": "hf-org",
+   "org": "microsoft",
+   "repo": "microsoft/rho-roboeval",
+   "created": "2026-09-21T19:13:53.000Z",
+   "downloads": 0,
+   "likes": 2,
+   "pipeline": null,
+   "url": "https://huggingface.co/microsoft/rho-roboeval"
+  }
+ ],
+ "hf_trending": [
+  {
+   "source": "hf-trending",
+   "org": "XiaomiMiMo",
+   "repo": "XiaomiMiMo/MiMo-V2.6-Distill-Qwen-9B",
+   "created": "2026-09-21T18:18:40.000Z",
+   "downloads": 804,
+   "likes": 357,
+   "pipeline": "image-text-to-text",
+   "url": "https://huggingface.co/XiaomiMiMo/MiMo-V2.6-Distill-Qwen-9B"
+  },
+  {
+   "source": "hf-trending",
+   "org": "SupraLabs",
+   "repo": "SupraLabs/Supra2-IMG",
+   "created": "2026-09-21T14:05:35.000Z",
+   "downloads": 137,
+   "likes": 105,
+   "pipeline": "text-to-image",
+   "url": "https://huggingface.co/SupraLabs/Supra2-IMG"
+  },
+  {
+   "source": "hf-trending",
+   "org": "paradigma-inc",
+   "repo": "paradigma-inc/limite-1b-violetto",
+   "created": "2026-09-21T18:22:11.000Z",
+   "downloads": 904,
+   "likes": 52,
+   "pipeline": "text-generation",
+   "url": "https://huggingface.co/paradigma-inc/limite-1b-violetto"
+  },
+  {
+   "source": "hf-trending",
+   "org": "Viggle",
+   "repo": "Viggle/Qwen-Image-2.1-viggle-turbo",
+   "created": "2026-09-22T04:14:56.000Z",
+   "downloads": 0,
+   "likes": 46,
+   "pipeline": "text-to-image",
+   "url": "https://huggingface.co/Viggle/Qwen-Image-2.1-viggle-turbo"
+  },
+  {
+   "source": "hf-trending",
+   "org": "badtheorylabs",
+   "repo": "badtheorylabs/Tinfield-1",
+   "created": "2026-09-21T08:35:44.000Z",
+   "downloads": 427,
+   "likes": 30,
+   "pipeline": "image-text-to-text",
+   "url": "https://huggingface.co/badtheorylabs/Tinfield-1"
+  }
+ ],
+ "reddit": [
+  {
+   "source": "reddit",
+   "title": "Jev-style structured decisions with DiffusionGemma GGUF in TensorSharp — benchmarks vs. LocalJev",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wnw5iu/jevstyle_structured_decisions_with_diffusiongemma/",
+   "updated": "2026-09-23T04:37:49+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "DeepSeek and Moonshot AI face Beijing's probe over potential data leaks to Anthropic",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wnv85k/deepseek_and_moonshot_ai_face_beijings_probe_over/",
+   "updated": "2026-09-23T03:49:48+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "Is Qwen 4 27b expected to be faster than 3.8?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wnuh1x/is_qwen_4_27b_expected_to_be_faster_than_38/",
+   "updated": "2026-09-23T03:12:22+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "Nathan Lambert's written Congressional testimony on the state of open models - Chinese open-weight downloads now 2x America's, &gt;80% of OpenRouter open-model usage",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wnu53i/nathan_lamberts_written_congressional_testimony/",
+   "updated": "2026-09-23T02:56:39+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "Never ending slashes for Qwen 3.8 27b",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wno2ej/never_ending_slashes_for_qwen_38_27b/",
+   "updated": "2026-09-22T22:27:08+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "How many R9700's + 32GB DDR4 to hit 30-40t/s with Qwen3.8 Flash Next?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wnl2o0/how_many_r9700s_32gb_ddr4_to_hit_3040ts_with/",
+   "updated": "2026-09-22T20:31:08+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "Cloud-AI Cold-Turkey: Real Dev Work with Local AI (Ornith 1.5 35b-a3b and Qwen 3.8-27b; 8GB VRAM vs 32GB VRAM)",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wnkrt8/cloudai_coldturkey_real_dev_work_with_local_ai/",
+   "updated": "2026-09-22T20:20:07+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "MiMo-V2.6-Flash on vLLM: fixes for &quot;empty responses&quot; with thinking + tools, and a hidden 2,048-token output cap",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wnjbwn/mimov26flash_on_vllm_fixes_for_empty_responses/",
+   "updated": "2026-09-22T19:28:26+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "Qwen image 2.1 (Fast FP8) generates premium quality images",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wnhq8d/qwen_image_21_fast_fp8_generates_premium_quality/",
+   "updated": "2026-09-22T18:31:36+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "Does anyone here actually use Qwen Max after being impressed with the 27b?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wnhl8e/does_anyone_here_actually_use_qwen_max_after/",
+   "updated": "2026-09-22T18:26:29+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "To my surprise I found gemma4 much better at tool-calling than Qwen",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wnhji0/to_my_surprise_i_found_gemma4_much_better_at/",
+   "updated": "2026-09-22T18:24:46+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "Performance tune for gemma4-26b-a4b flash attention shape. by frobnitzem · Pull Request #28450 · ggml-org/llama.cpp · GitHub",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wng98w/performance_tune_for_gemma426ba4b_flash_attention/",
+   "updated": "2026-09-22T17:39:11+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "How long does it take for a new architecture breakthrough/innovation to make its way to a released model?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wnfq0j/how_long_does_it_take_for_a_new_architecture/",
+   "updated": "2026-09-22T17:20:16+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "What's the deal with Qwen4 with Ngram",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wnf59w/whats_the_deal_with_qwen4_with_ngram/",
+   "updated": "2026-09-22T17:00:11+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "People keep asking how I'm running Qwen3.8 27b @ 160k context on a 16 GB card, so here's the whole thing. No tricks, no 8-bit KV hacks, no CPU offload party trickery — just a quirk of the model's architecture and a couple of flag choices.",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wneyzi/people_keep_asking_how_im_running_qwen38_27b_160k/",
+   "updated": "2026-09-22T16:53:50+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "Does this mean Qwen 4 will be the last generation that offers a 27B model? After that its all in the trillion parameter range?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wneo3d/does_this_mean_qwen_4_will_be_the_last_generation/",
+   "updated": "2026-09-22T16:42:43+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "Qwen 3.8 27B at ~3 BPW on an RTX 3060: GSQ vs ByteShape IQ3-XXS 2.88BPW",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wnechu/qwen_38_27b_at_3_bpw_on_an_rtx_3060_gsq_vs/",
+   "updated": "2026-09-22T16:31:03+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "Mimo v2.6-Flash-RL Dual-Spark Recipes/experiences?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wnbp77/mimo_v26flashrl_dualspark_recipesexperiences/",
+   "updated": "2026-09-22T14:53:31+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "Mimo2.6-Flash on M5U early results",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wnb5f5/mimo26flash_on_m5u_early_results/",
+   "updated": "2026-09-22T14:32:38+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "How is Gemma4 12B for general everyday use?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wn9w6x/how_is_gemma4_12b_for_general_everyday_use/",
+   "updated": "2026-09-22T13:43:31+00:00"
+  }
+ ],
+ "assessments": [
+  {
+   "repo": "microsoft/rho-roboeval",
+   "params_b": 2.6,
+   "active_b": null,
+   "moe": false,
+   "precision": "bf16",
+   "q4_gb": 1.5,
+   "fp8_gb": 2.7,
+   "pipeline": null,
+   "mac": "✅ ~61 tok/s",
+   "spark": "✅ 1 台 ~138 tok/s"
+  },
+  {
+   "repo": "XiaomiMiMo/MiMo-V2.6-Distill-Qwen-9B",
+   "params_b": 9.0,
+   "active_b": null,
+   "moe": false,
+   "precision": "bf16",
+   "q4_gb": 5.2,
+   "fp8_gb": 9.5,
+   "pipeline": "image-text-to-text",
+   "mac": "✅ ~21 tok/s",
+   "spark": "✅ 1 台 ~48 tok/s"
+  },
+  {
+   "repo": "paradigma-inc/limite-1b-violetto",
+   "params_b": 1.0,
+   "active_b": null,
+   "moe": false,
+   "precision": "bf16",
+   "q4_gb": 0.6,
+   "fp8_gb": 1.1,
+   "pipeline": "text-generation",
+   "mac": "✅ ~111 tok/s",
+   "spark": "✅ 1 台 ~253 tok/s"
+  },
+  {
+   "repo": "Viggle/Qwen-Image-2.1-viggle-turbo",
+   "params_b": 3.5,
+   "active_b": null,
+   "moe": false,
+   "precision": "bf16",
+   "q4_gb": 2.0,
+   "fp8_gb": 3.6,
+   "pipeline": "text-to-image",
+   "mac": "✅  图像/嵌入模型",
+   "spark": "✅ 1 台"
+  },
+  {
+   "repo": "badtheorylabs/Tinfield-1",
+   "params_b": 87.8,
+   "active_b": null,
+   "moe": false,
+   "precision": "bf16",
+   "q4_gb": 50.9,
+   "fp8_gb": 92.2,
+   "pipeline": "image-text-to-text",
+   "mac": "❌  需 51GB > 16GB",
+   "spark": "❌ 1 台 ~5 tok/s"
+  }
+ ]
+}
