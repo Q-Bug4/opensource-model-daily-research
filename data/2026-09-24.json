@@ -1,0 +1,194 @@
+{
+ "date": "2026-09-24",
+ "generated_at": "2026-09-24T06:19:23.422735+00:00",
+ "window_hours": 48,
+ "hf_org": [],
+ "hf_trending": [
+  {
+   "source": "hf-trending",
+   "org": "bottlecapai",
+   "repo": "bottlecapai/ThinkingCap-Qwen3.8-27B",
+   "created": "2026-09-23T15:56:49.000Z",
+   "downloads": 0,
+   "likes": 57,
+   "pipeline": "image-text-to-text",
+   "url": "https://huggingface.co/bottlecapai/ThinkingCap-Qwen3.8-27B"
+  },
+  {
+   "source": "hf-trending",
+   "org": "black-forest-labs",
+   "repo": "black-forest-labs/flux-3-action-base",
+   "created": "2026-09-22T10:36:43.000Z",
+   "downloads": 0,
+   "likes": 53,
+   "pipeline": "robotics",
+   "url": "https://huggingface.co/black-forest-labs/flux-3-action-base"
+  },
+  {
+   "source": "hf-trending",
+   "org": "Kijai",
+   "repo": "Kijai/Ming-Image-ComfyUI",
+   "created": "2026-09-22T23:08:02.000Z",
+   "downloads": 0,
+   "likes": 47,
+   "pipeline": null,
+   "url": "https://huggingface.co/Kijai/Ming-Image-ComfyUI"
+  },
+  {
+   "source": "hf-trending",
+   "org": "FrontiersMind",
+   "repo": "FrontiersMind/Lumma-fev-0.6b",
+   "created": "2026-09-22T18:48:05.000Z",
+   "downloads": 363,
+   "likes": 45,
+   "pipeline": "text-classification",
+   "url": "https://huggingface.co/FrontiersMind/Lumma-fev-0.6b"
+  },
+  {
+   "source": "hf-trending",
+   "org": "e-n-v-y",
+   "repo": "e-n-v-y/Qwen-Image-2.1-Fix",
+   "created": "2026-09-22T20:00:09.000Z",
+   "downloads": 337,
+   "likes": 41,
+   "pipeline": "text-to-image",
+   "url": "https://huggingface.co/e-n-v-y/Qwen-Image-2.1-Fix"
+  }
+ ],
+ "reddit": [
+  {
+   "source": "reddit",
+   "title": "I made deepmoney a while back. My new side project: using the stock market as the label for a Jev-style news screener on Qwen3.8-27B",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wot9j5/i_made_deepmoney_a_while_back_my_new_side_project/",
+   "updated": "2026-09-24T05:38:39+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "MiMo 2.6 Pro: Reducing overthinking and second-guessing",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wopeqg/mimo_26_pro_reducing_overthinking_and/",
+   "updated": "2026-09-24T02:18:30+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "New DeepThink built on GLM",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1woo22j/new_deepthink_built_on_glm/",
+   "updated": "2026-09-24T01:15:02+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "Qwen 3.8 Flash Next q4_k_m, 130k context, q8 cache on 16GB VRAM ann 64GB RAM, 15-20 t/s on 4080",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wom3fe/qwen_38_flash_next_q4_k_m_130k_context_q8_cache/",
+   "updated": "2026-09-23T23:46:41+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "I made a Go adapter that gives local llama.cpp models a Jev-like decision API",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1woie1t/i_made_a_go_adapter_that_gives_local_llamacpp/",
+   "updated": "2026-09-23T21:11:27+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "Qwen FN vs 27B --- Think I'm saturated.",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1woi2ho/qwen_fn_vs_27b_think_im_saturated/",
+   "updated": "2026-09-23T20:58:59+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "TensorSharp: a local Jev-compatible API, extended to image analysis with DiffusionGemma GGUF",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wohl0q/tensorsharp_a_local_jevcompatible_api_extended_to/",
+   "updated": "2026-09-23T20:39:56+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "Weird thinking blocks in Qwen Flash Next from time to time",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wofway/weird_thinking_blocks_in_qwen_flash_next_from/",
+   "updated": "2026-09-23T19:35:43+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "BFL releases FLUX 3 Action: a 7B robot model",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wod7l0/bfl_releases_flux_3_action_a_7b_robot_model/",
+   "updated": "2026-09-23T17:56:52+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "DeepSeek-V4-Flash-0731 at ~40–50 tok/s on 2× Radeon AI PRO R9700 with the affinity engine (prebuilt quant + fixes)",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wod07t/deepseekv4flash0731_at_4050_toks_on_2_radeon_ai/",
+   "updated": "2026-09-23T17:49:14+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "Windows + NVIDIA + DeepSeek Harness smoke-test a GPU monitor plugin? (local inference)",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wobhs6/windows_nvidia_deepseek_harness_smoketest_a_gpu/",
+   "updated": "2026-09-23T16:53:40+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "Pi agent qwen 3.8 flash next plays Baldur's Gate 2",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wob8ej/pi_agent_qwen_38_flash_next_plays_baldurs_gate_2/",
+   "updated": "2026-09-23T16:44:15+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "MiMo-V2.6 (both Pro and Flash) is a benchmaxxed scam",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1woa5d3/mimov26_both_pro_and_flash_is_a_benchmaxxed_scam/",
+   "updated": "2026-09-23T16:05:14+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "Streaming Nemotron 3 Diarization",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wo8tr5/streaming_nemotron_3_diarization/",
+   "updated": "2026-09-23T15:16:30+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "Perhaps the highest quality mainline quants of Qwen3.8 27B?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wo7sfo/perhaps_the_highest_quality_mainline_quants_of/",
+   "updated": "2026-09-23T14:37:26+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "MiMo-V3 is getting a new architecture. The core of it, HySparse2, is out today.",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wo7mr6/mimov3_is_getting_a_new_architecture_the_core_of/",
+   "updated": "2026-09-23T14:31:12+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "I turned Qwen3.8-27B Q2_64 + llama.cpp into a fully TypeSafe AI-compatible Jev-like system. OpenAI API still intact! World’s first Vision-enabled Jev-like model! &lt;10 GB VRAM, 170 ms on an RTX 3090 and ~140 tok/s in chat. 76% vs. 88% Jev-1.13 Acc. on a diverse 22,000-request typed-decision benchmark",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wo6x7e/i_turned_qwen3827b_q2_64_llamacpp_into_a_fully/",
+   "updated": "2026-09-23T14:03:53+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "Deepseek V4.1 flash inside Codex is amazing",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wo6qcf/deepseek_v41_flash_inside_codex_is_amazing/",
+   "updated": "2026-09-23T13:56:43+00:00"
+  }
+ ],
+ "assessments": [
+  {
+   "repo": "bottlecapai/ThinkingCap-Qwen3.8-27B",
+   "params_b": 27.0,
+   "active_b": null,
+   "moe": false,
+   "precision": "bf16",
+   "q4_gb": 15.7,
+   "fp8_gb": 28.4,
+   "pipeline": "image-text-to-text",
+   "mac": "⚠️ ~10 tok/s Q4(16GB)超内存,需Q3(12GB)",
+   "spark": "✅ 1 台 ~17 tok/s"
+  },
+  {
+   "repo": "FrontiersMind/Lumma-fev-0.6b",
+   "params_b": 0.6,
+   "active_b": null,
+   "moe": false,
+   "precision": "bf16",
+   "q4_gb": 0.3,
+   "fp8_gb": 0.6,
+   "pipeline": "text-classification",
+   "mac": "✅ ~142 tok/s",
+   "spark": "✅ 1 台 ~322 tok/s"
+  }
+ ]
+}
