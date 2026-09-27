@@ -1,0 +1,203 @@
+{
+ "date": "2026-09-27",
+ "generated_at": "2026-09-27T06:42:38.918936+00:00",
+ "window_hours": 48,
+ "hf_org": [
+  {
+   "source": "hf-org",
+   "org": "internlm",
+   "repo": "internlm/Intern-Decision-4B",
+   "created": "2026-09-26T05:36:37.000Z",
+   "downloads": 0,
+   "likes": 28,
+   "pipeline": "image-text-to-text",
+   "url": "https://huggingface.co/internlm/Intern-Decision-4B"
+  },
+  {
+   "source": "hf-org",
+   "org": "internlm",
+   "repo": "internlm/Intern-Decision-2B",
+   "created": "2026-09-26T05:36:19.000Z",
+   "downloads": 0,
+   "likes": 6,
+   "pipeline": "image-text-to-text",
+   "url": "https://huggingface.co/internlm/Intern-Decision-2B"
+  },
+  {
+   "source": "hf-org",
+   "org": "internlm",
+   "repo": "internlm/Intern-Decision-0.8B",
+   "created": "2026-09-26T05:35:57.000Z",
+   "downloads": 0,
+   "likes": 9,
+   "pipeline": "image-text-to-text",
+   "url": "https://huggingface.co/internlm/Intern-Decision-0.8B"
+  }
+ ],
+ "hf_trending": [
+  {
+   "source": "hf-trending",
+   "org": "well9472",
+   "repo": "well9472/Nanosaur2-670M",
+   "created": "2026-09-25T14:54:41.000Z",
+   "downloads": 0,
+   "likes": 66,
+   "pipeline": null,
+   "url": "https://huggingface.co/well9472/Nanosaur2-670M"
+  }
+ ],
+ "reddit": [
+  {
+   "source": "reddit",
+   "title": "Koboldcpp v1.122 released",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wr3esw/koboldcpp_v1122_released/",
+   "updated": "2026-09-26T22:24:22+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "Run Qwen3.8+Flash-Next and tiny models on Apple Silicon up to 3x faster",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wr1qlz/run_qwen38flashnext_and_tiny_models_on_apple/",
+   "updated": "2026-09-26T21:10:37+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "Improved and fixed template for GPT-OSS (again). Includes preserve_thinking and fix for Unsloth-induced bug",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wr0wki/improved_and_fixed_template_for_gptoss_again/",
+   "updated": "2026-09-26T20:35:32+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "Back with another stupid experiment. MiMo V2.6 Flash running on 4x5090 + 3090 + 3090TI split in a cluster PORTED to Windows(sglang): NCCL 2.32.3, sgl-kernel under MSVC 19.44, POSIX global patch, Gloo rendesvous, a2a backend(EP via FusedMoE/Triton custom), MoE runner -&gt; Marlin.",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wr0wae/back_with_another_stupid_experiment_mimo_v26/",
+   "updated": "2026-09-26T20:35:11+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "I added Qwen-Image 2.1 + LoRA support to TensorSharp (GGUF, local inference)",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wr0p3n/i_added_qwenimage_21_lora_support_to_tensorsharp/",
+   "updated": "2026-09-26T20:26:36+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "Qwen 3.8 flash next is based on Qwen 4 architecture, if the announced Qwen 4 27b is also the same architecture with n-grams does it mean I can actually have faster inference on a single 3090 without tweaking much?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wqzx12/qwen_38_flash_next_is_based_on_qwen_4/",
+   "updated": "2026-09-26T19:54:27+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "85 GB DeepSeek-V4-Flash at ~3 tok/s on a 12 GB RTX 3060 + 64 GB DDR5 RAM - Overspill for FreeToken, inspired by Colibri",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wqwm3o/85_gb_deepseekv4flash_at_3_toks_on_a_12_gb_rtx/",
+   "updated": "2026-09-26T17:41:06+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "Splash 1.1.0 released, GGUF quants support, MLX import and more",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wqw9rn/splash_110_released_gguf_quants_support_mlx/",
+   "updated": "2026-09-26T17:27:22+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "PacMan, the bane of my Qwen(s)",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wqvb01/pacman_the_bane_of_my_qwens/",
+   "updated": "2026-09-26T16:49:16+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "Has anyone tried Qwen 3.8 27B using Splash on an M5 Ultra?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wqsp3x/has_anyone_tried_qwen_38_27b_using_splash_on_an/",
+   "updated": "2026-09-26T15:00:53+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "Where is MiMo V2.6 9B Distill RL?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wqrgo7/where_is_mimo_v26_9b_distill_rl/",
+   "updated": "2026-09-26T14:08:28+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "Qwen3.8-27B IQ3_XXS vs Qwen3.6-35B-A3B Q4_K_M",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wqqv3b/qwen3827b_iq3_xxs_vs_qwen3635ba3b_q4_k_m/",
+   "updated": "2026-09-26T13:41:44+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "CLM-v0.1-8B ported to MLX — frozen Qwen3-8B encoder for instant on-device decisions, 99% top-1 agreement with the original vLLM server",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wqokwd/clmv018b_ported_to_mlx_frozen_qwen38b_encoder_for/",
+   "updated": "2026-09-26T11:51:15+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "DeepSeek-V4.1-Flash split across M5 Ultra and 2× RTX PRO 6000",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wqndci/deepseekv41flash_split_across_m5_ultra_and_2_rtx/",
+   "updated": "2026-09-26T10:41:48+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "Qwen3.8 flash next + exllamav3 + hermes is amazing",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wqn378/qwen38_flash_next_exllamav3_hermes_is_amazing/",
+   "updated": "2026-09-26T10:24:40+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "internlm/Intern-Decision 4B and 0.8B",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wqloas/internlminterndecision_4b_and_08b/",
+   "updated": "2026-09-26T08:54:52+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "Best current Qwen Flash Next Q4-ish? + worth using?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wqln1c/best_current_qwen_flash_next_q4ish_worth_using/",
+   "updated": "2026-09-26T08:52:33+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "Swift 1.5 27b: Swift Qwen just got faster",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wqkb3v/swift_15_27b_swift_qwen_just_got_faster/",
+   "updated": "2026-09-26T07:28:27+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "Qwen3.8-27B Q4_K_M on 2x3060",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wqjr3f/qwen3827b_q4_k_m_on_2x3060/",
+   "updated": "2026-09-26T06:54:48+00:00"
+  }
+ ],
+ "assessments": [
+  {
+   "repo": "internlm/Intern-Decision-4B",
+   "params_b": 4.0,
+   "active_b": null,
+   "moe": false,
+   "precision": "bf16",
+   "q4_gb": 2.3,
+   "fp8_gb": 4.2,
+   "pipeline": "image-text-to-text",
+   "mac": "✅ ~43 tok/s",
+   "spark": "✅ 1 台 ~97 tok/s"
+  },
+  {
+   "repo": "internlm/Intern-Decision-2B",
+   "params_b": 2.0,
+   "active_b": null,
+   "moe": false,
+   "precision": "bf16",
+   "q4_gb": 1.2,
+   "fp8_gb": 2.1,
+   "pipeline": "image-text-to-text",
+   "mac": "✅ ~72 tok/s",
+   "spark": "✅ 1 台 ~164 tok/s"
+  },
+  {
+   "repo": "internlm/Intern-Decision-0.8B",
+   "params_b": 0.8,
+   "active_b": null,
+   "moe": false,
+   "precision": "bf16",
+   "q4_gb": 0.5,
+   "fp8_gb": 0.8,
+   "pipeline": "image-text-to-text",
+   "mac": "✅ ~124 tok/s",
+   "spark": "✅ 1 台 ~283 tok/s"
+  }
+ ]
+}
