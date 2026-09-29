@@ -1,0 +1,150 @@
+{
+ "date": "2026-09-29",
+ "generated_at": "2026-09-29T07:05:21.947372+00:00",
+ "window_hours": 48,
+ "hf_org": [],
+ "hf_trending": [
+  {
+   "source": "hf-trending",
+   "org": "NaiveAI",
+   "repo": "NaiveAI/Naive-N0.5-Flash",
+   "created": "2026-09-27T14:14:32.000Z",
+   "downloads": 605,
+   "likes": 98,
+   "pipeline": "text-generation",
+   "url": "https://huggingface.co/NaiveAI/Naive-N0.5-Flash"
+  },
+  {
+   "source": "hf-trending",
+   "org": "lilylilith",
+   "repo": "lilylilith/QI_2.1_AnyAngle",
+   "created": "2026-09-28T05:08:18.000Z",
+   "downloads": 0,
+   "likes": 59,
+   "pipeline": "image-to-image",
+   "url": "https://huggingface.co/lilylilith/QI_2.1_AnyAngle"
+  },
+  {
+   "source": "hf-trending",
+   "org": "FINAL-Bench",
+   "repo": "FINAL-Bench/Darwin-180B-RSI",
+   "created": "2026-09-28T03:15:04.000Z",
+   "downloads": 70,
+   "likes": 65,
+   "pipeline": "image-text-to-text",
+   "url": "https://huggingface.co/FINAL-Bench/Darwin-180B-RSI"
+  }
+ ],
+ "reddit": [
+  {
+   "source": "reddit",
+   "title": "First few days of qwen3.8-flash-next on 4x R9700 - it's been really interesting so far",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wsxgbo/first_few_days_of_qwen38flashnext_on_4x_r9700_its/",
+   "updated": "2026-09-29T01:52:32+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "nvidia/NVIDIA-Nemotron-Labs-3-Competitive-Coding-550B-A55B-NVFP4 · Hugging Face",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wsuqmb/nvidianvidianemotronlabs3competitivecoding550ba55b/",
+   "updated": "2026-09-28T23:45:33+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "Searching for 3.8 35B: Qwen3.6-35B-A3B (Testing 5 Finetunes vs. Base)",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wss436/searching_for_38_35b_qwen3635ba3b_testing_5/",
+   "updated": "2026-09-28T21:52:28+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "Swift 1.5 + HyperQwen = 37% less task completion time at 100+ tps w/ 150k context on RTX 3090",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wsqjku/swift_15_hyperqwen_37_less_task_completion_time/",
+   "updated": "2026-09-28T20:52:10+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "Qwen next 3.8 and 3.8 27b Vs Sonnet 5.5 low and Sonnet 5.5 medium.",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wsq6r5/qwen_next_38_and_38_27b_vs_sonnet_55_low_and/",
+   "updated": "2026-09-28T20:38:40+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "Trained locally: ultra-fast 0.8B/2B System 1 decision models that match Jev on benchmarks and Doom, ~30 ms per decision (open weights)",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wspn24/trained_locally_ultrafast_08b2b_system_1_decision/",
+   "updated": "2026-09-28T20:17:59+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "An UltraFast Qwen3.8 Flash recipe: 74 tok/s, 212 tok/s aggregate on one DGX Spark",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wspek9/an_ultrafast_qwen38_flash_recipe_74_toks_212_toks/",
+   "updated": "2026-09-28T20:09:20+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "Any way to run Qwen 3.8 Flash with a 7900XTX 24gb vram + 64gb ram?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wsodqf/any_way_to_run_qwen_38_flash_with_a_7900xtx_24gb/",
+   "updated": "2026-09-28T19:32:08+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "Qwen 3.8 is a workhorse",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wso6gn/qwen_38_is_a_workhorse/",
+   "updated": "2026-09-28T19:24:46+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "95+ TPS through 100K generated for qwen3.8 27b, 262K ctx, on a single 3090",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wsmtd4/95_tps_through_100k_generated_for_qwen38_27b_262k/",
+   "updated": "2026-09-28T18:35:43+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "What do you think about ToMoE v2 paper, converting dense model to MoE model at near lossless accuracy? I feel Qwen3.8-27B-A16B or something along those lines would be amazing, though there are architectural hurdles, as well as need folr training data.",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wsmsnx/what_do_you_think_about_tomoe_v2_paper_converting/",
+   "updated": "2026-09-28T18:35:00+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "A hybrid model of Gemma4 with a JEV-like decision head in multi-speaker voice conversation",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wslcum/a_hybrid_model_of_gemma4_with_a_jevlike_decision/",
+   "updated": "2026-09-28T17:42:48+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "Gevva0 - a Jev like decision engine on Gemma 26B via direct logit scoring",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wshwqz/gevva0_a_jev_like_decision_engine_on_gemma_26b/",
+   "updated": "2026-09-28T15:36:57+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "What model sits between Qwen 3.8 27b and Flash next for coding?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wsekkj/what_model_sits_between_qwen_38_27b_and_flash/",
+   "updated": "2026-09-28T13:25:23+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "You can just merge Qwen3.6 &amp; 3.8 27B to get decent performance with much fewer token generation",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wsdyd2/you_can_just_merge_qwen36_38_27b_to_get_decent/",
+   "updated": "2026-09-28T12:59:52+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "vulkan: fuse qwen4exp's SCALE -&gt; SIGMOID -&gt; SCALE -&gt; hc_post chain by fxgsell · Pull Request #29520 · ggml-org/llama.cpp",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wsdy6t/vulkan_fuse_qwen4exps_scale_sigmoid_scale_hc_post/",
+   "updated": "2026-09-28T12:59:41+00:00"
+  }
+ ],
+ "assessments": [
+  {
+   "repo": "FINAL-Bench/Darwin-180B-RSI",
+   "params_b": 180.0,
+   "active_b": null,
+   "moe": false,
+   "precision": "bf16",
+   "q4_gb": 104.4,
+   "fp8_gb": 189.0,
+   "pipeline": "image-text-to-text",
+   "mac": "❌  需 104GB > 16GB",
+   "spark": "❌ 2 台 TP ~5 tok/s"
+  }
+ ]
+}
