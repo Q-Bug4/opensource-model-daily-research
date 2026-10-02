@@ -1,0 +1,211 @@
+{
+ "date": "2026-10-02",
+ "generated_at": "2026-10-02T07:09:06.610226+00:00",
+ "window_hours": 48,
+ "hf_org": [
+  {
+   "source": "hf-org",
+   "org": "nvidia",
+   "repo": "nvidia/PixelUMM",
+   "created": "2026-10-01T21:40:34.000Z",
+   "downloads": 0,
+   "likes": 12,
+   "pipeline": "image-to-text",
+   "url": "https://huggingface.co/nvidia/PixelUMM"
+  },
+  {
+   "source": "hf-org",
+   "org": "nvidia",
+   "repo": "nvidia/PixelDiT2-ImageNet",
+   "created": "2026-10-01T21:26:49.000Z",
+   "downloads": 0,
+   "likes": 5,
+   "pipeline": null,
+   "url": "https://huggingface.co/nvidia/PixelDiT2-ImageNet"
+  }
+ ],
+ "hf_trending": [
+  {
+   "source": "hf-trending",
+   "org": "Cloudflare",
+   "repo": "Cloudflare/clef",
+   "created": "2026-09-30T21:15:35.000Z",
+   "downloads": 18,
+   "likes": 432,
+   "pipeline": "image-text-to-text",
+   "url": "https://huggingface.co/Cloudflare/clef"
+  },
+  {
+   "source": "hf-trending",
+   "org": "Cloudflare",
+   "repo": "Cloudflare/clef-flash",
+   "created": "2026-09-30T21:15:36.000Z",
+   "downloads": 18,
+   "likes": 147,
+   "pipeline": "image-text-to-text",
+   "url": "https://huggingface.co/Cloudflare/clef-flash"
+  },
+  {
+   "source": "hf-trending",
+   "org": "perplexity-ai",
+   "repo": "perplexity-ai/pplx-decider-v1-27b",
+   "created": "2026-10-01T21:24:11.000Z",
+   "downloads": 0,
+   "likes": 33,
+   "pipeline": "text-classification",
+   "url": "https://huggingface.co/perplexity-ai/pplx-decider-v1-27b"
+  },
+  {
+   "source": "hf-trending",
+   "org": "speach1sdef178",
+   "repo": "speach1sdef178/MiniMax-H3-X2-Detail-VAE",
+   "created": "2026-09-30T19:59:27.000Z",
+   "downloads": 120,
+   "likes": 32,
+   "pipeline": "image-to-video",
+   "url": "https://huggingface.co/speach1sdef178/MiniMax-H3-X2-Detail-VAE"
+  }
+ ],
+ "reddit": [
+  {
+   "source": "reddit",
+   "title": "Latest Gemini 4 is distilled from GLM 5.3 (or did they just finetuned it? :D)",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wvlucy/latest_gemini_4_is_distilled_from_glm_53_or_did/",
+   "updated": "2026-10-02T05:43:46+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "best open models from recent releases for math research?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wvkpiy/best_open_models_from_recent_releases_for_math/",
+   "updated": "2026-10-02T04:37:05+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "Guys... OpenAI API on VLLM and Llamacpp already supported grammar enforcer... (AKA JEV)",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wvjqy8/guys_openai_api_on_vllm_and_llamacpp_already/",
+   "updated": "2026-10-02T03:44:56+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "Gemma 4 31b on 32Gb of vram (3 cards)",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wvihh4/gemma_4_31b_on_32gb_of_vram_3_cards/",
+   "updated": "2026-10-02T02:37:37+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "Perplexity Decider 27B: Open weights decision model fine tune of Qwen3.8 27B",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wvfz9n/perplexity_decider_27b_open_weights_decision/",
+   "updated": "2026-10-02T00:35:39+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "Pi 1.0 released - MCP support now included by default",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wvffcr/pi_10_released_mcp_support_now_included_by_default/",
+   "updated": "2026-10-02T00:09:04+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "Gufo performance .... 70tps Qwen 3.8 27b but you need to read the fine print.",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wvbmi6/gufo_performance_70tps_qwen_38_27b_but_you_need/",
+   "updated": "2026-10-01T21:18:54+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "converting Qwen3.8-27B-pi GGUF to MLX?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wvbcm5/converting_qwen3827bpi_gguf_to_mlx/",
+   "updated": "2026-10-01T21:07:44+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "Running 95.5 GiB Qwen3.8-Flash-Next at 41–52 tok/s on a 64GB Mac (1.76x faster than llama.cpp): Slipstream release, 130k context scaling, + Swift variant",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wva7l2/running_955_gib_qwen38flashnext_at_4152_toks_on_a/",
+   "updated": "2026-10-01T20:21:42+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "Qwen3.8-27B Q4_K_M on one RTX 3090 + OpenCode: throughput, four coding tasks, and a reasoning-budget failure",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wv9rzc/qwen3827b_q4_k_m_on_one_rtx_3090_opencode/",
+   "updated": "2026-10-01T20:04:32+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "Clef: Open Weights decision model by Cloudflare",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wv4zzi/clef_open_weights_decision_model_by_cloudflare/",
+   "updated": "2026-10-01T17:04:38+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "Unsloth, Swift1.5, Peculiar-Ragdoll, ThinkingCap - Qwen3.8-27B",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wv1ico/unsloth_swift15_peculiarragdoll_thinkingcap/",
+   "updated": "2026-10-01T14:52:27+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "Pi extension: Skip reasoning with local Qwen 27B and proceed to answer right now",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wv1e60/pi_extension_skip_reasoning_with_local_qwen_27b/",
+   "updated": "2026-10-01T14:47:48+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "I built OpenBot: open-source AI teammates for your Mac that can run on local models with Ollama (MIT)",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wv195n/i_built_openbot_opensource_ai_teammates_for_your/",
+   "updated": "2026-10-01T14:42:15+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "FreeToken vs llama.cpp on one RTX 3090: llama.cpp is 2–3× faster when the MoE fits in VRAM. On gpt-oss-120b (63 GB), FreeToken gets the first token out 7× faster at 32 concurrent users.",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wv0h6l/freetoken_vs_llamacpp_on_one_rtx_3090_llamacpp_is/",
+   "updated": "2026-10-01T14:11:19+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "Choosing between Qwen 27B and Gemma 4 31B",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wv0gyv/choosing_between_qwen_27b_and_gemma_4_31b/",
+   "updated": "2026-10-01T14:11:04+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "Jeff-Qwen3.5-0.8B v1.2 + 9 LoRA adapters: put it in front of Qwen3.8-27B for 38× faster decisions and +8.7 points accuracy, for under 2 GB extra memory",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wv05u1/jeffqwen3508b_v12_9_lora_adapters_put_it_in_front/",
+   "updated": "2026-10-01T13:58:41+00:00"
+  }
+ ],
+ "assessments": [
+  {
+   "repo": "Cloudflare/clef",
+   "params_b": 13.3,
+   "active_b": null,
+   "moe": false,
+   "precision": "bf16",
+   "q4_gb": 7.7,
+   "fp8_gb": 14.0,
+   "pipeline": "image-text-to-text",
+   "mac": "⚠️ ~15 tok/s",
+   "spark": "✅ 1 台 ~33 tok/s"
+  },
+  {
+   "repo": "Cloudflare/clef-flash",
+   "params_b": 4.6,
+   "active_b": null,
+   "moe": false,
+   "precision": "bf16",
+   "q4_gb": 2.7,
+   "fp8_gb": 4.8,
+   "pipeline": "image-text-to-text",
+   "mac": "✅ ~38 tok/s",
+   "spark": "✅ 1 台 ~86 tok/s"
+  },
+  {
+   "repo": "perplexity-ai/pplx-decider-v1-27b",
+   "params_b": 27.0,
+   "active_b": null,
+   "moe": false,
+   "precision": "bf16",
+   "q4_gb": 15.7,
+   "fp8_gb": 28.4,
+   "pipeline": "text-classification",
+   "mac": "⚠️ ~10 tok/s Q4(16GB)超内存,需Q3(12GB)",
+   "spark": "✅ 1 台 ~17 tok/s"
+  }
+ ]
+}
