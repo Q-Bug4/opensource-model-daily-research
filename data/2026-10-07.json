@@ -1,0 +1,170 @@
+{
+ "date": "2026-10-07",
+ "generated_at": "2026-10-07T07:22:44.305181+00:00",
+ "window_hours": 48,
+ "hf_org": [],
+ "hf_trending": [
+  {
+   "source": "hf-trending",
+   "org": "Mia-AiLab",
+   "repo": "Mia-AiLab/GLM-5.3-Flash-EXL3-4bpw-TensorFold-Ablit",
+   "created": "2026-10-05T07:33:21.000Z",
+   "downloads": 1165,
+   "likes": 36,
+   "pipeline": "image-text-to-text",
+   "url": "https://huggingface.co/Mia-AiLab/GLM-5.3-Flash-EXL3-4bpw-TensorFold-Ablit"
+  },
+  {
+   "source": "hf-trending",
+   "org": "autotrust",
+   "repo": "autotrust/GLM5.3-Flash-E224-DGX-Spark",
+   "created": "2026-10-06T22:49:26.000Z",
+   "downloads": 0,
+   "likes": 29,
+   "pipeline": "image-text-to-text",
+   "url": "https://huggingface.co/autotrust/GLM5.3-Flash-E224-DGX-Spark"
+  }
+ ],
+ "reddit": [
+  {
+   "source": "reddit",
+   "title": "Single 3090 Qwen 27B user, considering buying 128GB of RAM because of the hype",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wzq2ts/single_3090_qwen_27b_user_considering_buying/",
+   "updated": "2026-10-07T07:14:41+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "MoE expansion , First HumanEval number on coding for Qwen3.6-35B-A3B — 90.9% at 4-bit on a RTX 2080 Ti, and an A/B of my &quot;MoE expansion&quot; routing patch vs stock 89.6%",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wzp3g7/moe_expansion_first_humaneval_number_on_coding/",
+   "updated": "2026-10-07T06:11:45+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "Qwen 3.8 flash next second guessing forever.",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wzn4sa/qwen_38_flash_next_second_guessing_forever/",
+   "updated": "2026-10-07T04:13:55+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "I tried 3 Qwen model Building apps as test",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wzmf23/i_tried_3_qwen_model_building_apps_as_test/",
+   "updated": "2026-10-07T03:33:59+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "Why is ik_llama.cpp said to be faster than Mainline? On my hybrid multi-GPU rig, Mainline easily beats it",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wzkywp/why_is_ik_llamacpp_said_to_be_faster_than/",
+   "updated": "2026-10-07T02:17:16+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "Ugh I didn't want to post this... Back to Qwen3.8 27B",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wzj990/ugh_i_didnt_want_to_post_this_back_to_qwen38_27b/",
+   "updated": "2026-10-07T00:51:13+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "I tested Gemma 3 27B and Qwen3 32B against two frontier models on financial analysis tasks. The small models answers are much less reliable",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wzi6o3/i_tested_gemma_3_27b_and_qwen3_32b_against_two/",
+   "updated": "2026-10-07T00:00:04+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "MiMo V2.6 Pro almost matched GPT-6 Astra at figuring out what a user actually wants",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wzi15b/mimo_v26_pro_almost_matched_gpt6_astra_at/",
+   "updated": "2026-10-06T23:52:34+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "Qwen3.8-27B with just 12GB VRAM + 8GB RAM - ~18 tok/sec",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wzha67/qwen3827b_with_just_12gb_vram_8gb_ram_18_toksec/",
+   "updated": "2026-10-06T23:16:08+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "Optimizations Claude did for Qwen 3.8 27B and Qwen Flash Next on dual and quad 7900xtx",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wzh32j/optimizations_claude_did_for_qwen_38_27b_and_qwen/",
+   "updated": "2026-10-06T23:06:40+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "Europe rejoins the fight with Chonky! Mistral Large 4 Released, Open weights end of month, who’s ready?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wzginu/europe_rejoins_the_fight_with_chonky_mistral/",
+   "updated": "2026-10-06T22:40:46+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "Qwen3.8-27B (Q6_K_XL) 110+ TPS at 256k context on a single RTX 5090, with a KV buffer decoupled from context size",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wzg75e/qwen3827b_q6_k_xl_110_tps_at_256k_context_on_a/",
+   "updated": "2026-10-06T22:26:29+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "Is everything alright with llama.cpp recently?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wzg1t1/is_everything_alright_with_llamacpp_recently/",
+   "updated": "2026-10-06T22:19:51+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "just my &quot;how I run qwen3.8 27b on 16GB&quot; experience and guide",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wzfv45/just_my_how_i_run_qwen38_27b_on_16gb_experience/",
+   "updated": "2026-10-06T22:11:33+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "(Self Promotion) Kimi vs. Claude vs. GPT vs. Gemini as teammates. Who actually coordinates?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wzftir/self_promotion_kimi_vs_claude_vs_gpt_vs_gemini_as/",
+   "updated": "2026-10-06T22:09:33+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "GLM 5.3 Flash less censored than other Chinese models?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wzev8g/glm_53_flash_less_censored_than_other_chinese/",
+   "updated": "2026-10-06T21:28:53+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "If you benchmark llama.cpp on AMD with the official ROCm builds, check that you're actually on the GPU",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wzdti3/if_you_benchmark_llamacpp_on_amd_with_the/",
+   "updated": "2026-10-06T20:46:48+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "I made an &quot;Opus 5.5 style&quot; code-rendered video — but on a local NVFP4 Qwen 3.8 27B",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wzdhwf/i_made_an_opus_55_style_coderendered_video_but_on/",
+   "updated": "2026-10-06T20:34:15+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "suppose I CPT qwen3.5-9B on 2B legal corpus, how will i turn it back into Instruct + thinking?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wzd6kf/suppose_i_cpt_qwen359b_on_2b_legal_corpus_how/",
+   "updated": "2026-10-06T20:21:48+00:00"
+  }
+ ],
+ "assessments": [
+  {
+   "repo": "Mia-AiLab/GLM-5.3-Flash-EXL3-4bpw-TensorFold-Ablit",
+   "params_b": 42.8,
+   "active_b": 3.4,
+   "moe": true,
+   "precision": "bf16",
+   "q4_gb": 24.8,
+   "fp8_gb": 45.0,
+   "pipeline": "image-text-to-text",
+   "mac": "❌  需 25GB > 16GB",
+   "spark": "✅ 1 台 ~110 tok/s"
+  },
+  {
+   "repo": "autotrust/GLM5.3-Flash-E224-DGX-Spark",
+   "params_b": 62.3,
+   "active_b": 5.0,
+   "moe": true,
+   "precision": "bf16",
+   "q4_gb": 36.1,
+   "fp8_gb": 65.4,
+   "pipeline": "image-text-to-text",
+   "mac": "❌  需 36GB > 16GB",
+   "spark": "✅ 1 台 ~81 tok/s"
+  }
+ ]
+}
