@@ -1,0 +1,213 @@
+{
+ "date": "2026-10-11",
+ "generated_at": "2026-10-11T07:25:21.560016+00:00",
+ "window_hours": 48,
+ "hf_org": [
+  {
+   "source": "hf-org",
+   "org": "nvidia",
+   "repo": "nvidia/agile_one_s_pick_ssd_n2_1120",
+   "created": "2026-10-10T00:20:17.000Z",
+   "downloads": 0,
+   "likes": 0,
+   "pipeline": null,
+   "url": "https://huggingface.co/nvidia/agile_one_s_pick_ssd_n2_1120"
+  },
+  {
+   "source": "hf-org",
+   "org": "nvidia",
+   "repo": "nvidia/agile_one_s_place_ssd_n2_1260",
+   "created": "2026-10-10T00:18:56.000Z",
+   "downloads": 0,
+   "likes": 0,
+   "pipeline": null,
+   "url": "https://huggingface.co/nvidia/agile_one_s_place_ssd_n2_1260"
+  },
+  {
+   "source": "hf-org",
+   "org": "nvidia",
+   "repo": "nvidia/agile_one_s_pickplace_ssd_n2_18200",
+   "created": "2026-10-10T00:17:13.000Z",
+   "downloads": 0,
+   "likes": 0,
+   "pipeline": "robotics",
+   "url": "https://huggingface.co/nvidia/agile_one_s_pickplace_ssd_n2_18200"
+  },
+  {
+   "source": "hf-org",
+   "org": "nvidia",
+   "repo": "nvidia/agile_one_s_place_ssd_n17_24050",
+   "created": "2026-10-09T08:29:13.000Z",
+   "downloads": 0,
+   "likes": 1,
+   "pipeline": "robotics",
+   "url": "https://huggingface.co/nvidia/agile_one_s_place_ssd_n17_24050"
+  },
+  {
+   "source": "hf-org",
+   "org": "nvidia",
+   "repo": "nvidia/agile_one_s_walk_n2_1680",
+   "created": "2026-10-09T08:28:59.000Z",
+   "downloads": 0,
+   "likes": 0,
+   "pipeline": "robotics",
+   "url": "https://huggingface.co/nvidia/agile_one_s_walk_n2_1680"
+  },
+  {
+   "source": "hf-org",
+   "org": "nvidia",
+   "repo": "nvidia/agile_one_s_pick_ssd_n17_58000",
+   "created": "2026-10-09T08:28:36.000Z",
+   "downloads": 0,
+   "likes": 0,
+   "pipeline": "robotics",
+   "url": "https://huggingface.co/nvidia/agile_one_s_pick_ssd_n17_58000"
+  },
+  {
+   "source": "hf-org",
+   "org": "nvidia",
+   "repo": "nvidia/agile_one_s_pick_ssd_n17_40000",
+   "created": "2026-10-09T08:28:25.000Z",
+   "downloads": 0,
+   "likes": 0,
+   "pipeline": "robotics",
+   "url": "https://huggingface.co/nvidia/agile_one_s_pick_ssd_n17_40000"
+  }
+ ],
+ "hf_trending": [],
+ "reddit": [
+  {
+   "source": "reddit",
+   "title": "Qwen 3.8 27B Q5 vs Qwen 3.8 Next Q3_S for document analysis",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x31ak8/qwen_38_27b_q5_vs_qwen_38_next_q3_s_for_document/",
+   "updated": "2026-10-11T06:52:26+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "Running Next Flash IQ3_XXS at ~70 tok/s with 100k context or 2 instances of Qwen 3.6 35B A3B IQ4 at ~145 tok/s with 256k all on $500 of ex mining BC-250 boards",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x2yv1b/running_next_flash_iq3_xxs_at_70_toks_with_100k/",
+   "updated": "2026-10-11T04:27:44+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "Qwen3.8 Flash Next fixed my GNOME extension",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x2xxql/qwen38_flash_next_fixed_my_gnome_extension/",
+   "updated": "2026-10-11T03:36:51+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "[vllm] Is it possible to run Qwen3.8-27B-FP8 on a 5090?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x2wcwg/vllm_is_it_possible_to_run_qwen3827bfp8_on_a_5090/",
+   "updated": "2026-10-11T02:12:24+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "local semantic file search for Linux (Rust, llama.cpp, EmbeddingGemma 2)",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x2vz3y/local_semantic_file_search_for_linux_rust/",
+   "updated": "2026-10-11T01:52:00+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "TensorSharp now supports Qwen Image 2.1 Turbo + LoRA",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x2u0x0/tensorsharp_now_supports_qwen_image_21_turbo_lora/",
+   "updated": "2026-10-11T00:11:26+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "OMG! If you have a Mac with 64GB, try Qwen3.8-Flash-Next-oQ4e-mtp with oMLX!",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x2tstj/omg_if_you_have_a_mac_with_64gb_try/",
+   "updated": "2026-10-11T00:00:40+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "Embedding Gemma 2 on LM Studio",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x2t895/embedding_gemma_2_on_lm_studio/",
+   "updated": "2026-10-10T23:32:38+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "Poll: when do you think you'll be able to run a model as smart as Qwen 3 27b on your phone at goodspeed?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x2rs6z/poll_when_do_you_think_youll_be_able_to_run_a/",
+   "updated": "2026-10-10T22:22:51+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "Qwen3.8-Flash-Next Strata pi beat Claude-code Opus 5.5 on a 5090",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x2r5jx/qwen38flashnext_strata_pi_beat_claudecode_opus_55/",
+   "updated": "2026-10-10T21:54:06+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "[Model] Support MiniCPM-V 4.7 by tc-mb · Pull Request #29416 · ggml-org/llama.cpp",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x2qsh3/model_support_minicpmv_47_by_tcmb_pull_request/",
+   "updated": "2026-10-10T21:37:21+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "Benefits of using bigger models than Qwen 3.8 flash next?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x2nn4b/benefits_of_using_bigger_models_than_qwen_38/",
+   "updated": "2026-10-10T19:21:28+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "Engineer / developer observations of Gemma4-31B, Qwen3.8-27B, and 6.1-Sol for software engineering work",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x2mw1o/engineer_developer_observations_of_gemma431b/",
+   "updated": "2026-10-10T18:49:52+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "Possible to run Qwen3.8-Flash-Next-4bit on Mac with 64GB?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x2mhso/possible_to_run_qwen38flashnext4bit_on_mac_with/",
+   "updated": "2026-10-10T18:33:13+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "I asked 3 Qwen 3.8 models to solve recent AtCoder problems at 4 thinking efforts",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x2ly4g/i_asked_3_qwen_38_models_to_solve_recent_atcoder/",
+   "updated": "2026-10-10T18:10:24+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "Is anyone running Qwen3.8 Flash Next with a 1M context?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x2lgca/is_anyone_running_qwen38_flash_next_with_a_1m/",
+   "updated": "2026-10-10T17:49:48+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "qwen3.6-35b-a3b on the Strix Halo with 64GB of memory",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x2jf0y/qwen3635ba3b_on_the_strix_halo_with_64gb_of_memory/",
+   "updated": "2026-10-10T16:25:13+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "48Gb VRAM speed AND quality ! (Qwen 3.8 27B Swift 1.5 W8A16)",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x2j3gx/48gb_vram_speed_and_quality_qwen_38_27b_swift_15/",
+   "updated": "2026-10-10T16:11:34+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "Is there a better option than llama.cpp for 4GB VRAM for Higher tokens/sec?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x2f194/is_there_a_better_option_than_llamacpp_for_4gb/",
+   "updated": "2026-10-10T13:14:30+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "Qwen3.8-27B on a single 3090: 140 tok/s on code with a custom megakernel",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x2erdj/qwen3827b_on_a_single_3090_140_toks_on_code_with/",
+   "updated": "2026-10-10T13:01:23+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "Open-source Mac app that runs EmbeddingGemma 2 locally to search your files by what’s in them",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x2eeds/opensource_mac_app_that_runs_embeddinggemma_2/",
+   "updated": "2026-10-10T12:43:33+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "Strata with Qwen3.8 Flash Next UD-Q4_K_XL",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x2bbx6/strata_with_qwen38_flash_next_udq4_k_xl/",
+   "updated": "2026-10-10T09:50:37+00:00"
+  }
+ ],
+ "assessments": []
+}
