@@ -1,0 +1,184 @@
+{
+ "date": "2026-10-12",
+ "generated_at": "2026-10-12T07:33:34.112286+00:00",
+ "window_hours": 48,
+ "hf_org": [],
+ "hf_trending": [
+  {
+   "source": "hf-trending",
+   "org": "vllm-sr",
+   "repo": "vllm-sr/d3",
+   "created": "2026-10-10T09:38:30.000Z",
+   "downloads": 130,
+   "likes": 54,
+   "pipeline": "zero-shot-classification",
+   "url": "https://huggingface.co/vllm-sr/d3"
+  },
+  {
+   "source": "hf-trending",
+   "org": "autotrust",
+   "repo": "autotrust/JEV-35B",
+   "created": "2026-10-11T01:22:03.000Z",
+   "downloads": 360,
+   "likes": 83,
+   "pipeline": "text-classification",
+   "url": "https://huggingface.co/autotrust/JEV-35B"
+  },
+  {
+   "source": "hf-trending",
+   "org": "autotrust",
+   "repo": "autotrust/JEV-35B-NVFP4",
+   "created": "2026-10-11T03:05:28.000Z",
+   "downloads": 103,
+   "likes": 45,
+   "pipeline": "text-classification",
+   "url": "https://huggingface.co/autotrust/JEV-35B-NVFP4"
+  },
+  {
+   "source": "hf-trending",
+   "org": "vllm-sr",
+   "repo": "vllm-sr/d3-flash",
+   "created": "2026-10-10T17:23:15.000Z",
+   "downloads": 69,
+   "likes": 29,
+   "pipeline": "zero-shot-classification",
+   "url": "https://huggingface.co/vllm-sr/d3-flash"
+  }
+ ],
+ "reddit": [
+  {
+   "source": "reddit",
+   "title": "QLoRA on ExLlamaV3 Quants - Train @ 2-8bpw",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x3viem/qlora_on_exllamav3_quants_train_28bpw/",
+   "updated": "2026-10-12T07:30:10+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "Bit-exact speculative decoding on Qwen3.8-27B: 106 t/s on one RTX PRO 6000",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x3sx3d/bitexact_speculative_decoding_on_qwen3827b_106_ts/",
+   "updated": "2026-10-12T04:53:57+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "VectorDash: A full Windows search replacement incorporating Embeddinggemma-2",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x3sqxc/vectordash_a_full_windows_search_replacement/",
+   "updated": "2026-10-12T04:44:16+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "AuroraIMG-6M Releases!",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x3lzmk/auroraimg6m_releases/",
+   "updated": "2026-10-11T22:56:03+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "I ran Qwen 3.8 Flash-Next on my AMD 7900 XTX at 500k context. All local and what a shift it has been.",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x3ker0/i_ran_qwen_38_flashnext_on_my_amd_7900_xtx_at/",
+   "updated": "2026-10-11T21:44:02+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "I tested different Qwen 3.8 27B quants",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x3ij13/i_tested_different_qwen_38_27b_quants/",
+   "updated": "2026-10-11T20:24:54+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "Gemma4 E4B EXL3 - Alternative to Llama.cpp on Jetson Orin",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x3hkw2/gemma4_e4b_exl3_alternative_to_llamacpp_on_jetson/",
+   "updated": "2026-10-11T19:47:19+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "&quot;Strata&quot; for GLM5.3 Flash is here for some! Project Maya",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x3fxzj/strata_for_glm53_flash_is_here_for_some_project/",
+   "updated": "2026-10-11T18:42:01+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "vllm-ascend updates (GLM5.3-flash) on dual 310p Ascend cards",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x3dpv3/vllmascend_updates_glm53flash_on_dual_310p_ascend/",
+   "updated": "2026-10-11T17:14:40+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "UPDATE: Qwen 3.8 27B 140 tok/s on single RTX 3090 Megakernel: KL divergence 0.0009 vs llama.cpp",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x37q7b/update_qwen_38_27b_140_toks_on_single_rtx_3090/",
+   "updated": "2026-10-11T13:04:42+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "Standard evals can't tell my local quants apart. My own agentic bench can (Qwen3.8 27B / Flash-Next, Q3 to Q8)",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x357dq/standard_evals_cant_tell_my_local_quants_apart_my/",
+   "updated": "2026-10-11T10:51:10+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "Final revision of zzpanic vllm-radiance for 1 x R9700 GPU, qwen3.8-27b",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x3368a/final_revision_of_zzpanic_vllmradiance_for_1_x/",
+   "updated": "2026-10-11T08:47:40+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "Local Voice Assistant based on Qwen3.5 4B with skills/toolcalling. No dedicated GPU. Local STT+TTS",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x32pqp/local_voice_assistant_based_on_qwen35_4b_with/",
+   "updated": "2026-10-11T08:18:55+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "Qwen 3.8 27B Q5 vs Qwen 3.8 Next Q3_S for document analysis",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x31ak8/qwen_38_27b_q5_vs_qwen_38_next_q3_s_for_document/",
+   "updated": "2026-10-11T06:52:26+00:00"
+  }
+ ],
+ "assessments": [
+  {
+   "repo": "vllm-sr/d3",
+   "params_b": 12.7,
+   "active_b": null,
+   "moe": false,
+   "precision": "bf16",
+   "q4_gb": 7.4,
+   "fp8_gb": 13.4,
+   "pipeline": "zero-shot-classification",
+   "mac": "✅ ~15 tok/s",
+   "spark": "✅ 1 台 ~35 tok/s"
+  },
+  {
+   "repo": "autotrust/JEV-35B",
+   "params_b": 35.0,
+   "active_b": 2.8,
+   "moe": true,
+   "precision": "bf16",
+   "q4_gb": 20.3,
+   "fp8_gb": 36.8,
+   "pipeline": "text-classification",
+   "mac": "⚠️ ~69 tok/s Q4(20GB)超内存,需Q3(15GB)",
+   "spark": "✅ 1 台 ~129 tok/s"
+  },
+  {
+   "repo": "autotrust/JEV-35B-NVFP4",
+   "params_b": 35.0,
+   "active_b": 2.8,
+   "moe": true,
+   "precision": "nvfp4",
+   "q4_gb": 20.3,
+   "fp8_gb": 36.8,
+   "pipeline": "text-classification",
+   "mac": "⚠️ ~69 tok/s Q4(20GB)超内存,需Q3(15GB)",
+   "spark": "✅ 1 台 ~129 tok/s"
+  },
+  {
+   "repo": "vllm-sr/d3-flash",
+   "params_b": 4.1,
+   "active_b": null,
+   "moe": false,
+   "precision": "bf16",
+   "q4_gb": 2.4,
+   "fp8_gb": 4.3,
+   "pipeline": "zero-shot-classification",
+   "mac": "✅ ~42 tok/s",
+   "spark": "✅ 1 台 ~95 tok/s"
+  }
+ ]
+}
