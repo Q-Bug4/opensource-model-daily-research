@@ -1,0 +1,93 @@
+{
+ "date": "2026-10-13",
+ "generated_at": "2026-10-13T07:53:06.037916+00:00",
+ "window_hours": 48,
+ "hf_org": [],
+ "hf_trending": [
+  {
+   "source": "hf-trending",
+   "org": "AuroraAI-Research",
+   "repo": "AuroraAI-Research/AuroraIMG-6M",
+   "created": "2026-10-11T11:42:15.000Z",
+   "downloads": 33,
+   "likes": 29,
+   "pipeline": "text-to-image",
+   "url": "https://huggingface.co/AuroraAI-Research/AuroraIMG-6M"
+  }
+ ],
+ "reddit": [
+  {
+   "source": "reddit",
+   "title": "Building Llama cpp for both CUDA and HIP - 2 binaries?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x4mua3/building_llama_cpp_for_both_cuda_and_hip_2/",
+   "updated": "2026-10-13T04:04:19+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "Anthropic is doing free publicity for GLM again",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x4ii8e/anthropic_is_doing_free_publicity_for_glm_again/",
+   "updated": "2026-10-13T00:27:09+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "Qwen 3.8 Flash Next Q3 S - Benchmark creation",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x4h1c2/qwen_38_flash_next_q3_s_benchmark_creation/",
+   "updated": "2026-10-12T23:18:32+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "Explore DNA with DeepMind’s AlphaGenome and in-browser MedGemma 1.5 4B via WebGPU",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x4ec7b/explore_dna_with_deepminds_alphagenome_and/",
+   "updated": "2026-10-12T21:20:33+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "llama.cpp optimizations for specific hardware and models",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x4cwiy/llamacpp_optimizations_for_specific_hardware_and/",
+   "updated": "2026-10-12T20:24:57+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "Running unsloth/Qwen3.8-27B-UD-IQ4_XS 262k q4_0 KV + vision on 16GB VRAM @ 80t/s and 1500pp",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x4cmfc/running_unslothqwen3827budiq4_xs_262k_q4_0_kv/",
+   "updated": "2026-10-12T20:14:03+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "Once again anthropic doing free marketing for open weight models",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x4cm73/once_again_anthropic_doing_free_marketing_for/",
+   "updated": "2026-10-12T20:13:48+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "Qwen3.8-27B vs Frontier vs Others",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x49pmn/qwen3827b_vs_frontier_vs_others/",
+   "updated": "2026-10-12T18:26:32+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "Boole-1.7B: A 1-bit Qwen3-1.7B model that outperforms Bonsai-1.7B",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x452zj/boole17b_a_1bit_qwen317b_model_that_outperforms/",
+   "updated": "2026-10-12T15:35:58+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "NVIDIA RTX 5080 24GB reportedly launching in Q1 2027, board partners still waiting for details",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x41n6l/nvidia_rtx_5080_24gb_reportedly_launching_in_q1/",
+   "updated": "2026-10-12T13:18:23+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "Qwen released QwenGyre - RL framework for training AI agents on extremely long complex tasks",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x41myz/qwen_released_qwengyre_rl_framework_for_training/",
+   "updated": "2026-10-12T13:18:10+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "Gewell v0.2 - 26B-A4B, 46k tok/s prefill, and full-precision EmbeddingGemma 2 in 1.13 GiB",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x41lxm/gewell_v02_26ba4b_46k_toks_prefill_and/",
+   "updated": "2026-10-12T13:16:57+00:00"
+  }
+ ],
+ "assessments": []
+}
