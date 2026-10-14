@@ -1,0 +1,135 @@
+{
+ "date": "2026-10-14",
+ "generated_at": "2026-10-14T06:19:35.935527+00:00",
+ "window_hours": 48,
+ "hf_org": [
+  {
+   "source": "hf-org",
+   "org": "nvidia",
+   "repo": "nvidia/GR00T-N1.7-AppleToPlate-cosine40k-checkpoint-15000",
+   "created": "2026-10-13T20:23:12.000Z",
+   "downloads": 0,
+   "likes": 0,
+   "pipeline": null,
+   "url": "https://huggingface.co/nvidia/GR00T-N1.7-AppleToPlate-cosine40k-checkpoint-15000"
+  }
+ ],
+ "hf_trending": [
+  {
+   "source": "hf-trending",
+   "org": "lightx2v",
+   "repo": "lightx2v/Qwen-Image-2.1-Lightning",
+   "created": "2026-10-13T12:50:58.000Z",
+   "downloads": 0,
+   "likes": 35,
+   "pipeline": "text-to-image",
+   "url": "https://huggingface.co/lightx2v/Qwen-Image-2.1-Lightning"
+  }
+ ],
+ "reddit": [
+  {
+   "source": "reddit",
+   "title": "Koboldcpp v1.123 released",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x5im9u/koboldcpp_v1123_released/",
+   "updated": "2026-10-14T05:04:37+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "Anyone else notice Chinese model releases slowed way down after distillation protections went in place?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x5id4c/anyone_else_notice_chinese_model_releases_slowed/",
+   "updated": "2026-10-14T04:50:00+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "My local Qwen3.8FN agent is significantly cheaper than cloud",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x5blg4/my_local_qwen38fn_agent_is_significantly_cheaper/",
+   "updated": "2026-10-13T23:07:45+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "Someone is running Qwen 27B at ~20 tok/s on a jailbroken PS5's GPU",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x5ak2n/someone_is_running_qwen_27b_at_20_toks_on_a/",
+   "updated": "2026-10-13T22:21:00+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "Thank-you post for DeepSeek-V4-Flash-0731 with DSpark",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x592dl/thankyou_post_for_deepseekv4flash0731_with_dspark/",
+   "updated": "2026-10-13T21:18:18+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "Why AnythingLLM is moving from Ollama to Lemonade and llama.cpp",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x5720r/why_anythingllm_is_moving_from_ollama_to_lemonade/",
+   "updated": "2026-10-13T19:59:31+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "Instead of waiting for an M5 Ultra 512 GB: pairing a new M5 Ultra 256 GB with my M3 Ultra 512 GB for disaggregated prefill/decode (GLM-5.3-Flash, MLX, Thunderbolt 5 RDMA)",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x56c4c/instead_of_waiting_for_an_m5_ultra_512_gb_pairing/",
+   "updated": "2026-10-13T19:32:15+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "is worth going from 7800xt to 7900xtx for Qwen 3.8 27b?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x56bqa/is_worth_going_from_7800xt_to_7900xtx_for_qwen_38/",
+   "updated": "2026-10-13T19:31:48+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "Quartermaster 1.7 update now lets you run llama.cpp's new decision models (/v1/systemone) with a playground tab",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x53ob3/quartermaster_17_update_now_lets_you_run/",
+   "updated": "2026-10-13T17:54:13+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "&quot;New AI fake text generator may be too dangerous to release, say creators&quot; (2019 Guardian headline)",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x52lsb/new_ai_fake_text_generator_may_be_too_dangerous/",
+   "updated": "2026-10-13T17:15:27+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "Should i try moving from Qwen 3.8 27B Q6_K swift 1.5 to QFN Swift 1.5 IQ3_XXS GSQ RCO?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x50d7y/should_i_try_moving_from_qwen_38_27b_q6_k_swift/",
+   "updated": "2026-10-13T15:53:16+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "Basalt: Fast Blackwell inference engine for Qwen 3.8 Flash Next (and how we got vision for free)",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x4xmxb/basalt_fast_blackwell_inference_engine_for_qwen/",
+   "updated": "2026-10-13T14:08:21+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "An 80B MoE (Qwen3-Next, 48 GB GGUF) answering in a Chrome tab: llama.cpp's WebGPU backend, experts paged in from disk",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x4xjuh/an_80b_moe_qwen3next_48_gb_gguf_answering_in_a/",
+   "updated": "2026-10-13T14:04:51+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "Built an open-source Cotypist/Granola hybrid: autocomplete on Gemma 4 E2B (~50 ms/suggestion on M4 Max) using your own meeting notes as context",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x4x5km/built_an_opensource_cotypistgranola_hybrid/",
+   "updated": "2026-10-13T13:49:31+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "Horsey challenge | Strata Fork | Qwen 3.8 FN NVFP4",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x4uipn/horsey_challenge_strata_fork_qwen_38_fn_nvfp4/",
+   "updated": "2026-10-13T11:50:07+00:00"
+  }
+ ],
+ "assessments": [
+  {
+   "repo": "nvidia/GR00T-N1.7-AppleToPlate-cosine40k-checkpoint-15000",
+   "params_b": 1.5,
+   "active_b": null,
+   "moe": false,
+   "precision": "bf16",
+   "q4_gb": 0.9,
+   "fp8_gb": 1.6,
+   "pipeline": null,
+   "mac": "✅ ~86 tok/s",
+   "spark": "✅ 1 台 ~196 tok/s"
+  }
+ ]
+}
