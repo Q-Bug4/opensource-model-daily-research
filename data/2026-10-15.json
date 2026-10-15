@@ -1,0 +1,191 @@
+{
+ "date": "2026-10-15",
+ "generated_at": "2026-10-15T06:01:07.173759+00:00",
+ "window_hours": 48,
+ "hf_org": [
+  {
+   "source": "hf-org",
+   "org": "microsoft",
+   "repo": "microsoft/UserRepGen-4B",
+   "created": "2026-10-14T20:30:00.000Z",
+   "downloads": 0,
+   "likes": 4,
+   "pipeline": "text-generation",
+   "url": "https://huggingface.co/microsoft/UserRepGen-4B"
+  }
+ ],
+ "hf_trending": [
+  {
+   "source": "hf-trending",
+   "org": "inclusionAI",
+   "repo": "inclusionAI/Ling-3.1-flash",
+   "created": "2026-10-13T11:16:41.000Z",
+   "downloads": 8,
+   "likes": 80,
+   "pipeline": "text-generation",
+   "url": "https://huggingface.co/inclusionAI/Ling-3.1-flash"
+  },
+  {
+   "source": "hf-trending",
+   "org": "lightx2v",
+   "repo": "lightx2v/Qwen-Image-2.1-Lightning",
+   "created": "2026-10-13T12:50:58.000Z",
+   "downloads": 586,
+   "likes": 58,
+   "pipeline": "text-to-image",
+   "url": "https://huggingface.co/lightx2v/Qwen-Image-2.1-Lightning"
+  },
+  {
+   "source": "hf-trending",
+   "org": "qnguyen3",
+   "repo": "qnguyen3/QUAN-Transcribe-1.0",
+   "created": "2026-10-14T01:58:15.000Z",
+   "downloads": 33,
+   "likes": 42,
+   "pipeline": "automatic-speech-recognition",
+   "url": "https://huggingface.co/qnguyen3/QUAN-Transcribe-1.0"
+  }
+ ],
+ "reddit": [
+  {
+   "source": "reddit",
+   "title": "Did someone use/try the Qwen flash 3.8 next &quot;coder&quot; model on some work?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x6an4v/did_someone_usetry_the_qwen_flash_38_next_coder/",
+   "updated": "2026-10-15T02:58:58+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "Qwen 3.8 Flash-Next compared to GLM 5.3 Flash",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x6533a/qwen_38_flashnext_compared_to_glm_53_flash/",
+   "updated": "2026-10-14T22:29:11+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "Anyone using Open Weight models running Locally for actual development?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x642sf/anyone_using_open_weight_models_running_locally/",
+   "updated": "2026-10-14T21:46:18+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "176 t/s decode and 6,450 t/s prefill with Q4 Qwen-3.8 Flash-Next on 2xR9700 + 64GB DDR5 using Deadcode's Radiance engine",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x640u6/176_ts_decode_and_6450_ts_prefill_with_q4_qwen38/",
+   "updated": "2026-10-14T21:44:00+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "Prediction: now that Photoshop was cloned, frontier AIs will be catastrophically crippled in a few months. Local AI will be the underground of advanced coding.",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x63qs7/prediction_now_that_photoshop_was_cloned_frontier/",
+   "updated": "2026-10-14T21:32:20+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "Sabi-Noema: A capability and efficiency focused fine-tune of Qwen 3.8 27B",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x62zrz/sabinoema_a_capability_and_efficiency_focused/",
+   "updated": "2026-10-14T21:01:32+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "Qwen 3.8 Flash Next, DeepSeekV4 Flash and Time",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x61xas/qwen_38_flash_next_deepseekv4_flash_and_time/",
+   "updated": "2026-10-14T20:18:25+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "Qwen 3.8 27B vs Flash Next 125B on the same threat-monitoring project: code review, tests, and where both failed",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x61ebf/qwen_38_27b_vs_flash_next_125b_on_the_same/",
+   "updated": "2026-10-14T19:58:15+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "Tessera-27B-B-CJK, Zellige AIs new finetune of Qwen with novel approaches to how we think about token savings",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x5xm28/tessera27bbcjk_zellige_ais_new_finetune_of_qwen/",
+   "updated": "2026-10-14T17:35:08+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "Using Absorbing Markov Chains + EmbeddingGemma 2 as a Decision Engine: ~2ms inference with 100% GTO Parity on Vegas Blackjack",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x5wjps/using_absorbing_markov_chains_embeddinggemma_2_as/",
+   "updated": "2026-10-14T16:55:08+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "New model from Telperion: Qwen3.8-27B-MLA &amp; Qwen3.8-27B-GLA-g2. 4x smaller KV cache, smarter, and more efficient reasoning.",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x5wcnz/new_model_from_telperion_qwen3827bmla/",
+   "updated": "2026-10-14T16:47:46+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "qwen3.8-flash-next-iq3_s vs -27B-GGUF:UD-Q4_K_XL",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x5vfs2/qwen38flashnextiq3_s_vs_27bggufudq4_k_xl/",
+   "updated": "2026-10-14T16:13:14+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "Qwen 3.8 flash running at 12vram+32 ram",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x5uvjf/qwen_38_flash_running_at_12vram32_ram/",
+   "updated": "2026-10-14T15:52:37+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "NVIDIA Nemotron Bolt 3.5 74B A9B releases Oct. 15th",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x5t1tm/nvidia_nemotron_bolt_35_74b_a9b_releases_oct_15th/",
+   "updated": "2026-10-14T14:42:30+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "cuda, hip: GDN chunked kernel by am17an · Pull Request #29353 · ggml-org/llama.cpp",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x5skta/cuda_hip_gdn_chunked_kernel_by_am17an_pull/",
+   "updated": "2026-10-14T14:23:13+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "The AI race: China's open-weight models trail US closed models by just 7 months",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x5pjv7/the_ai_race_chinas_openweight_models_trail_us/",
+   "updated": "2026-10-14T12:10:53+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "common : add --spec-draft-n-ubatch by ggerganov · Pull Request #30459 · ggml-org/llama.cpp",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x5odh2/common_add_specdraftnubatch_by_ggerganov_pull/",
+   "updated": "2026-10-14T11:08:21+00:00"
+  }
+ ],
+ "assessments": [
+  {
+   "repo": "microsoft/UserRepGen-4B",
+   "params_b": 4.0,
+   "active_b": null,
+   "moe": false,
+   "precision": "bf16",
+   "q4_gb": 2.3,
+   "fp8_gb": 4.2,
+   "pipeline": "text-generation",
+   "mac": "✅ ~43 tok/s",
+   "spark": "✅ 1 台 ~97 tok/s"
+  },
+  {
+   "repo": "inclusionAI/Ling-3.1-flash",
+   "params_b": 279.1,
+   "active_b": 22.3,
+   "moe": true,
+   "precision": "bf16",
+   "q4_gb": 161.9,
+   "fp8_gb": 293.0,
+   "pipeline": "text-generation",
+   "mac": "❌  需 162GB > 16GB",
+   "spark": "✅ 2 台 TP ~41 tok/s"
+  },
+  {
+   "repo": "qnguyen3/QUAN-Transcribe-1.0",
+   "params_b": 0.0,
+   "active_b": null,
+   "moe": false,
+   "precision": "bf16",
+   "q4_gb": 0.0,
+   "fp8_gb": 0.1,
+   "pipeline": "automatic-speech-recognition",
+   "mac": "✅ ~150 tok/s",
+   "spark": "✅ 1 台 ~341 tok/s"
+  }
+ ]
+}
