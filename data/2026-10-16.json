@@ -1,0 +1,323 @@
+{
+ "date": "2026-10-16",
+ "generated_at": "2026-10-16T05:59:29.028846+00:00",
+ "window_hours": 48,
+ "hf_org": [
+  {
+   "source": "hf-org",
+   "org": "mistralai",
+   "repo": "mistralai/Timestral-123M",
+   "created": "2026-10-14T17:51:04.000Z",
+   "downloads": 5,
+   "likes": 18,
+   "pipeline": "time-series-forecasting",
+   "url": "https://huggingface.co/mistralai/Timestral-123M"
+  },
+  {
+   "source": "hf-org",
+   "org": "mistralai",
+   "repo": "mistralai/Timestral-28M",
+   "created": "2026-10-14T17:50:53.000Z",
+   "downloads": 5,
+   "likes": 14,
+   "pipeline": "time-series-forecasting",
+   "url": "https://huggingface.co/mistralai/Timestral-28M"
+  },
+  {
+   "source": "hf-org",
+   "org": "mistralai",
+   "repo": "mistralai/Timestral-5M",
+   "created": "2026-10-14T13:41:13.000Z",
+   "downloads": 7,
+   "likes": 17,
+   "pipeline": "time-series-forecasting",
+   "url": "https://huggingface.co/mistralai/Timestral-5M"
+  },
+  {
+   "source": "hf-org",
+   "org": "mistralai",
+   "repo": "mistralai/Timestral-209M",
+   "created": "2026-10-14T08:52:36.000Z",
+   "downloads": 11,
+   "likes": 35,
+   "pipeline": "time-series-forecasting",
+   "url": "https://huggingface.co/mistralai/Timestral-209M"
+  },
+  {
+   "source": "hf-org",
+   "org": "nvidia",
+   "repo": "nvidia/Muse-Spark-Open-816B-A42B-DFlash2",
+   "created": "2026-10-16T04:40:26.000Z",
+   "downloads": 0,
+   "likes": 0,
+   "pipeline": "image-text-to-text",
+   "url": "https://huggingface.co/nvidia/Muse-Spark-Open-816B-A42B-DFlash2"
+  },
+  {
+   "source": "hf-org",
+   "org": "nvidia",
+   "repo": "nvidia/Nemotron-3.5-Rerank-8B-BF16",
+   "created": "2026-10-15T08:42:42.000Z",
+   "downloads": 439,
+   "likes": 5,
+   "pipeline": "text-ranking",
+   "url": "https://huggingface.co/nvidia/Nemotron-3.5-Rerank-8B-BF16"
+  },
+  {
+   "source": "hf-org",
+   "org": "microsoft",
+   "repo": "microsoft/UserRepGen-4B",
+   "created": "2026-10-14T20:30:00.000Z",
+   "downloads": 481,
+   "likes": 7,
+   "pipeline": "text-generation",
+   "url": "https://huggingface.co/microsoft/UserRepGen-4B"
+  }
+ ],
+ "hf_trending": [
+  {
+   "source": "hf-trending",
+   "org": "black-forest-labs",
+   "repo": "black-forest-labs/flux-3-image-klein-comfy",
+   "created": "2026-10-14T12:00:13.000Z",
+   "downloads": 39,
+   "likes": 267,
+   "pipeline": "image-to-image",
+   "url": "https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy"
+  },
+  {
+   "source": "hf-trending",
+   "org": "mistralai",
+   "repo": "mistralai/Timestral-209M",
+   "created": "2026-10-14T08:52:36.000Z",
+   "downloads": 11,
+   "likes": 35,
+   "pipeline": "time-series-forecasting",
+   "url": "https://huggingface.co/mistralai/Timestral-209M"
+  },
+  {
+   "source": "hf-trending",
+   "org": "black-forest-labs",
+   "repo": "black-forest-labs/flux-3-image-klein-pup",
+   "created": "2026-10-14T20:40:29.000Z",
+   "downloads": 13,
+   "likes": 31,
+   "pipeline": "image-text-to-text",
+   "url": "https://huggingface.co/black-forest-labs/flux-3-image-klein-pup"
+  }
+ ],
+ "reddit": [
+  {
+   "source": "reddit",
+   "title": "ALoDLM 8b looped diffusion language model: ~3x inference speed vs its base model qwen3-8b with better benchmark results",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x75bme/alodlm_8b_looped_diffusion_language_model_3x/",
+   "updated": "2026-10-16T03:09:36+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "nvidia/Nemotron-3.5-Embed-1B-BF16 · Hugging Face",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x70qhu/nvidianemotron35embed1bbf16_hugging_face/",
+   "updated": "2026-10-15T23:22:20+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "**DeepSeek-V4-Flash-0731 on 4x Radeon AI PRO R9700 with affinity: the &quot;refused&quot; 4-card config works, ~79 tok/s on real cards**",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x70e5r/deepseekv4flash0731_on_4x_radeon_ai_pro_r9700/",
+   "updated": "2026-10-15T23:06:40+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "model: add Muse Spark Open (text, vision and audio) by ServeurpersoCom · Pull Request #30616 · ggml-org/llama.cpp",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x6youd/model_add_muse_spark_open_text_vision_and_audio/",
+   "updated": "2026-10-15T21:51:31+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "Ternary Bonsai 2 Family: 2B, 4B, &amp; 9B based on Qwen 3.5",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x6yk1f/ternary_bonsai_2_family_2b_4b_9b_based_on_qwen_35/",
+   "updated": "2026-10-15T21:45:44+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "anyone running good open weight models for development in 48GB, 64GB or 96GB of RAM?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x6x5tk/anyone_running_good_open_weight_models_for/",
+   "updated": "2026-10-15T20:47:59+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "Qwen3.8FN vLLM vs. llama.cpp vs Ninfer6000",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x6wtqd/qwen38fn_vllm_vs_llamacpp_vs_ninfer6000/",
+   "updated": "2026-10-15T20:34:35+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "capy-flash: Qwen3.8-Flash-Next (125B MoE) in full NVFP4 on two 16 GB consumer GPUs",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x6wh1z/capyflash_qwen38flashnext_125b_moe_in_full_nvfp4/",
+   "updated": "2026-10-15T20:20:40+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "Ternary Bonsai 2 (2B, 4B, and 9B) just released on Hugging Face. The 2B can run entirely locally in the browser at up to 500 tok/s on an M4 Max with custom WebGPU kernels.",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x6w658/ternary_bonsai_2_2b_4b_and_9b_just_released_on/",
+   "updated": "2026-10-15T20:09:00+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "FP4 QAD quant of Qwen3.8-Flash-Next from Nvidia",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x6vqft/fp4_qad_quant_of_qwen38flashnext_from_nvidia/",
+   "updated": "2026-10-15T19:52:44+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "RTX Spark: Qwen 3.8 27B Q4 at 4 t/s",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x6ud3k/rtx_spark_qwen_38_27b_q4_at_4_ts/",
+   "updated": "2026-10-15T19:00:07+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "QUASAR 4-bit QAT checkpoints for Qwen3.5, Gemma 4 and Muse Glimmer: closer to BF16 than Google’s and NVIDIA’s 4-bit releases",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x6u8pi/quasar_4bit_qat_checkpoints_for_qwen35_gemma_4/",
+   "updated": "2026-10-15T18:55:28+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "Thanks to you r/LocalLLaMA! I’m Launching Decision Models in Observer! 🚀 The local open-source screen-watching tool you guys asked for is now 4x faster!",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x6thg3/thanks_to_you_rlocalllama_im_launching_decision/",
+   "updated": "2026-10-15T18:27:16+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "FLUX.3 Image Klein just got weights published on hugging face",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x6t5fc/flux3_image_klein_just_got_weights_published_on/",
+   "updated": "2026-10-15T18:14:35+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "MS/Windows continues developing Windows ML to embrace llama.cpp and gguf",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x6run0/mswindows_continues_developing_windows_ml_to/",
+   "updated": "2026-10-15T17:25:08+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "Introducing Muse Spark Open: the most capable US open-weight model to date",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x6r9pz/introducing_muse_spark_open_the_most_capable_us/",
+   "updated": "2026-10-15T17:03:45+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "The space is moving quick. 2x 4060 Tensor Parallel main weights. RPC offload the drafters to amd strix. Got +2-3GB Vram for context at no perf cost.",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x6qq0j/the_space_is_moving_quick_2x_4060_tensor_parallel/",
+   "updated": "2026-10-15T16:43:07+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "Nemotron 3.5 Bolt vs Nemo 3.5 Super vs Qwen 3.8 27B/FN",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x6qc3j/nemotron_35_bolt_vs_nemo_35_super_vs_qwen_38_27bfn/",
+   "updated": "2026-10-15T16:28:32+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "mistralai/Timestral",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x6ouoy/mistralaitimestral/",
+   "updated": "2026-10-15T15:32:45+00:00"
+  }
+ ],
+ "assessments": [
+  {
+   "repo": "mistralai/Timestral-123M",
+   "params_b": 0.1,
+   "active_b": null,
+   "moe": false,
+   "precision": "bf16",
+   "q4_gb": 0.0,
+   "fp8_gb": 0.1,
+   "pipeline": "time-series-forecasting",
+   "mac": "✅ ~150 tok/s",
+   "spark": "✅ 1 台 ~341 tok/s"
+  },
+  {
+   "repo": "mistralai/Timestral-28M",
+   "params_b": 0.0,
+   "active_b": null,
+   "moe": false,
+   "precision": "bf16",
+   "q4_gb": 0.0,
+   "fp8_gb": 0.0,
+   "pipeline": "time-series-forecasting",
+   "mac": "✅ ~150 tok/s",
+   "spark": "✅ 1 台 ~341 tok/s"
+  },
+  {
+   "repo": "mistralai/Timestral-209M",
+   "params_b": 0.1,
+   "active_b": null,
+   "moe": false,
+   "precision": "bf16",
+   "q4_gb": 0.1,
+   "fp8_gb": 0.1,
+   "pipeline": "time-series-forecasting",
+   "mac": "✅ ~150 tok/s",
+   "spark": "✅ 1 台 ~341 tok/s"
+  },
+  {
+   "repo": "nvidia/Muse-Spark-Open-816B-A42B-DFlash2",
+   "params_b": 2.1,
+   "active_b": 42.0,
+   "moe": true,
+   "precision": "bf16",
+   "q4_gb": 1.2,
+   "fp8_gb": 2.2,
+   "pipeline": "image-text-to-text",
+   "mac": "❌ ~5 tok/s",
+   "spark": "⚠️ 1 台 ~11 tok/s"
+  },
+  {
+   "repo": "nvidia/Nemotron-3.5-Rerank-8B-BF16",
+   "params_b": 8.0,
+   "active_b": 0.6,
+   "moe": true,
+   "precision": "bf16",
+   "q4_gb": 4.6,
+   "fp8_gb": 8.4,
+   "pipeline": "text-ranking",
+   "mac": "✅ ~138 tok/s",
+   "spark": "✅ 1 台 ~313 tok/s"
+  },
+  {
+   "repo": "microsoft/UserRepGen-4B",
+   "params_b": 4.0,
+   "active_b": null,
+   "moe": false,
+   "precision": "bf16",
+   "q4_gb": 2.3,
+   "fp8_gb": 4.2,
+   "pipeline": "text-generation",
+   "mac": "✅ ~43 tok/s",
+   "spark": "✅ 1 台 ~97 tok/s"
+  },
+  {
+   "repo": "mistralai/Timestral-209M",
+   "params_b": 0.1,
+   "active_b": null,
+   "moe": false,
+   "precision": "bf16",
+   "q4_gb": 0.1,
+   "fp8_gb": 0.1,
+   "pipeline": "time-series-forecasting",
+   "mac": "✅ ~150 tok/s",
+   "spark": "✅ 1 台 ~341 tok/s"
+  },
+  {
+   "repo": "black-forest-labs/flux-3-image-klein-pup",
+   "params_b": 4.6,
+   "active_b": null,
+   "moe": false,
+   "precision": "bf16",
+   "q4_gb": 2.7,
+   "fp8_gb": 4.8,
+   "pipeline": "image-text-to-text",
+   "mac": "✅ ~38 tok/s",
+   "spark": "✅ 1 台 ~86 tok/s"
+  }
+ ]
+}
