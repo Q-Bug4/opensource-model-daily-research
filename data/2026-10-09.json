@@ -1,0 +1,146 @@
+{
+ "date": "2026-10-09",
+ "generated_at": "2026-10-09T07:33:46.116133+00:00",
+ "window_hours": 48,
+ "hf_org": [],
+ "hf_trending": [
+  {
+   "source": "hf-trending",
+   "org": "ConwayResearch",
+   "repo": "ConwayResearch/Underdog-Saluki-27B-1.0",
+   "created": "2026-10-08T01:47:26.000Z",
+   "downloads": 142,
+   "likes": 132,
+   "pipeline": "text-generation",
+   "url": "https://huggingface.co/ConwayResearch/Underdog-Saluki-27B-1.0"
+  },
+  {
+   "source": "hf-trending",
+   "org": "Phocinae",
+   "repo": "Phocinae/Phocinae-Largha-150M-v1",
+   "created": "2026-10-08T00:30:10.000Z",
+   "downloads": 0,
+   "likes": 77,
+   "pipeline": "text-classification",
+   "url": "https://huggingface.co/Phocinae/Phocinae-Largha-150M-v1"
+  }
+ ],
+ "reddit": [
+  {
+   "source": "reddit",
+   "title": "What features do i unlock by switching rx6700xt 12gb (AMD) to 3060 12gb (NVIDIA) in llama.cpp?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x1dyno/what_features_do_i_unlock_by_switching_rx6700xt/",
+   "updated": "2026-10-09T06:23:55+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "Release: Qwen-2B-RCOL Dynamic Low-Bit Quantization (IQ1_M, IQ2_M, IQ3_M)",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x1dt7q/release_qwen2brcol_dynamic_lowbit_quantization/",
+   "updated": "2026-10-09T06:14:39+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "Running the uncensored Qwen3.8-27B (HauhauCS) on a 4090 at 262K context and ~130 tok/s",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x1d0u4/running_the_uncensored_qwen3827b_hauhaucs_on_a/",
+   "updated": "2026-10-09T05:27:28+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "LoRA over GGUF: Train Qwen3.8-Flash-Next in 40G VRAM",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x1bdvl/lora_over_gguf_train_qwen38flashnext_in_40g_vram/",
+   "updated": "2026-10-09T03:54:39+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "How is it possible to enable tool calling like file read/write/execute in Strata (Qwen3.8-next-flash) web ui?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x1ayz2/how_is_it_possible_to_enable_tool_calling_like/",
+   "updated": "2026-10-09T03:32:08+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "Qwen3.8-27B: 159 tok/s on R9700, 64 tok/s on Strix Halo",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x18e95/qwen3827b_159_toks_on_r9700_64_toks_on_strix_halo/",
+   "updated": "2026-10-09T01:20:39+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "Quantization of Linear-Attention (Qwen &amp; Kimi)",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x18bsm/quantization_of_linearattention_qwen_kimi/",
+   "updated": "2026-10-09T01:17:13+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "Qwen 3.6 35B appreciation post",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x17brf/qwen_36_35b_appreciation_post/",
+   "updated": "2026-10-09T00:27:06+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "GLM 5.3 Flash decided it's Claude, then lectured me about admitting when it doesn't know something lol",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x157uu/glm_53_flash_decided_its_claude_then_lectured_me/",
+   "updated": "2026-10-08T22:48:51+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "Staging quantized weights to FP8 instead of fp16: 2× M6 matrix path, +40% MLX prefill (+ int8 on M5)",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x13fo2/staging_quantized_weights_to_fp8_instead_of_fp16/",
+   "updated": "2026-10-08T21:31:17+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "I put together some text-only Qwen3.5 2B, 4B and 9B MLX 4-bit packages (including abliterated variants) perfect for local use — have at 'em. :)",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x12vox/i_put_together_some_textonly_qwen35_2b_4b_and_9b/",
+   "updated": "2026-10-08T21:09:07+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "Qwen 3.8 Flash Next is smarter than the new Siri",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x11awu/qwen_38_flash_next_is_smarter_than_the_new_siri/",
+   "updated": "2026-10-08T20:07:32+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "I was doing some testing on Strata. vs llama vs. runner and was missing something",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x102lo/i_was_doing_some_testing_on_strata_vs_llama_vs/",
+   "updated": "2026-10-08T19:21:00+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "$2800 rig with 8x Radeon Pro V620 (256 GB VRAM) + custom vLLM fork = Qwen3.8-Flash-Next at 60 to 100 t/s decode and 3000+ t/s prefill",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x0wnz1/2800_rig_with_8x_radeon_pro_v620_256_gb_vram/",
+   "updated": "2026-10-08T17:12:46+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "Eron v1.4: A native iOS client for Ollama &amp; local models with zero-buffer streaming, thinking tokens, and local Apple Home/Calendar tools",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x0vu9w/eron_v14_a_native_ios_client_for_ollama_local/",
+   "updated": "2026-10-08T16:41:23+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "MTP in llama.cpp now decodes competitively with ds4 using GLM 5.3 Flash",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x0unn5/mtp_in_llamacpp_now_decodes_competitively_with/",
+   "updated": "2026-10-08T15:56:19+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "Thank you :) Swift Models hit 2.2 million+ downloads / Early Access to New Models, Free Compute for Researchers",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x0ui6f/thank_you_swift_models_hit_22_million_downloads/",
+   "updated": "2026-10-08T15:50:21+00:00"
+  }
+ ],
+ "assessments": [
+  {
+   "repo": "Phocinae/Phocinae-Largha-150M-v1",
+   "params_b": 0.1,
+   "active_b": null,
+   "moe": false,
+   "precision": "bf16",
+   "q4_gb": 0.0,
+   "fp8_gb": 0.1,
+   "pipeline": "text-classification",
+   "mac": "✅ ~150 tok/s",
+   "spark": "✅ 1 台 ~341 tok/s"
+  }
+ ]
+}

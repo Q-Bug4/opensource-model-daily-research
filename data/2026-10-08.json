@@ -1,0 +1,136 @@
+{
+ "date": "2026-10-08",
+ "generated_at": "2026-10-08T07:37:59.178732+00:00",
+ "window_hours": 48,
+ "hf_org": [],
+ "hf_trending": [
+  {
+   "source": "hf-trending",
+   "org": "autotrust",
+   "repo": "autotrust/GLM5.3-Flash-E224-DGX-Spark",
+   "created": "2026-10-06T22:49:26.000Z",
+   "downloads": 68,
+   "likes": 96,
+   "pipeline": "image-text-to-text",
+   "url": "https://huggingface.co/autotrust/GLM5.3-Flash-E224-DGX-Spark"
+  }
+ ],
+ "reddit": [
+  {
+   "source": "reddit",
+   "title": "Some recent decision models &lt;=3B on internal benchmarks vs fine-tuned embedding model",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x0jsdv/some_recent_decision_models_3b_on_internal/",
+   "updated": "2026-10-08T06:35:26+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "Qwen Flash Q2_0 vs IQ2_XS GSQ-RCO using Strata",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x0j0ae/qwen_flash_q2_0_vs_iq2_xs_gsqrco_using_strata/",
+   "updated": "2026-10-08T05:47:30+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "Can any open-weight models handle a decomp/recomp project yet?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x0iygt/can_any_openweight_models_handle_a_decomprecomp/",
+   "updated": "2026-10-08T05:44:23+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "DeepSeek V4.1 Flash beat Haiku 5.5 as my research sub-agent and title model (small eval)",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x0ixh6/deepseek_v41_flash_beat_haiku_55_as_my_research/",
+   "updated": "2026-10-08T05:42:42+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "Comparing Qwen3.8-27B fine-tunes and baselining vs. frontier",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x0gaqv/comparing_qwen3827b_finetunes_and_baselining_vs/",
+   "updated": "2026-10-08T03:14:59+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "29 UI languages for the DeepSeek Harness desktop app (MIT)",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x0e9tx/29_ui_languages_for_the_deepseek_harness_desktop/",
+   "updated": "2026-10-08T01:33:02+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "I have single 3090 and 32GB of ram are there any engines like strata, ninfer that run Qwen/Qwen3.6-35B-A3B at Q8 fast on my hardware",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x08bns/i_have_single_3090_and_32gb_of_ram_are_there_any/",
+   "updated": "2026-10-07T21:05:23+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "Qwen 3.8 Flash-Next on 64GB RAM + 16GB VRAM, worth it over a fully-loaded 3.6 35B-A3B?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x07qlh/qwen_38_flashnext_on_64gb_ram_16gb_vram_worth_it/",
+   "updated": "2026-10-07T20:43:17+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "llama.cpp on the stage",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x079wc/llamacpp_on_the_stage/",
+   "updated": "2026-10-07T20:25:51+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "llama : add a GPU cache for MoE experts kept in host memory by am17an · Pull Request #29887 · ggml-org/llama.cpp",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x03xkc/llama_add_a_gpu_cache_for_moe_experts_kept_in/",
+   "updated": "2026-10-07T18:15:14+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "A 341 GB DeepSeek on a 128 GB Mac: 2x decode and first token in 0.2 s instead of 2.5 s, streaming from two SSDs, same tokens as stock ds4. The trick wasn't a kernel: I made the codebase small enough for an agent",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x02t8t/a_341_gb_deepseek_on_a_128_gb_mac_2x_decode_and/",
+   "updated": "2026-10-07T17:33:38+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "Qwen3.8-Flash-Next on 6x3090 / 6x4090 without NVLink: prefill 8-10x faster and long-context decode 2-3x faster than stock llama.cpp, binaries included",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x023z4/qwen38flashnext_on_6x3090_6x4090_without_nvlink/",
+   "updated": "2026-10-07T17:06:50+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "My Ollama Model-Pull Script - Anti-Stall when downloading models",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wzz07h/my_ollama_modelpull_script_antistall_when/",
+   "updated": "2026-10-07T15:08:31+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "Is Alibaba moving Away from Permissive OSS with models like Qwen3.8-Flash-Next?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wzxehx/is_alibaba_moving_away_from_permissive_oss_with/",
+   "updated": "2026-10-07T14:04:25+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "Local Qwen 3.8 27B vs DeepSeek Flash API: Is local good enough?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wzvs45/local_qwen_38_27b_vs_deepseek_flash_api_is_local/",
+   "updated": "2026-10-07T12:54:55+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "feat: add GLM5Next MTP, optimize by pwilkin · Pull Request #29928 · ggml-org/llama.cpp",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wzvdqe/feat_add_glm5next_mtp_optimize_by_pwilkin_pull/",
+   "updated": "2026-10-07T12:36:13+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "New LFM to be released today",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wzuto0/new_lfm_to_be_released_today/",
+   "updated": "2026-10-07T12:08:41+00:00"
+  }
+ ],
+ "assessments": [
+  {
+   "repo": "autotrust/GLM5.3-Flash-E224-DGX-Spark",
+   "params_b": 62.3,
+   "active_b": 5.0,
+   "moe": true,
+   "precision": "bf16",
+   "q4_gb": 36.1,
+   "fp8_gb": 65.4,
+   "pipeline": "image-text-to-text",
+   "mac": "❌  需 36GB > 16GB",
+   "spark": "✅ 1 台 ~81 tok/s"
+  }
+ ]
+}

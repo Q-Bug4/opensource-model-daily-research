@@ -1,0 +1,181 @@
+{
+ "date": "2026-10-06",
+ "generated_at": "2026-10-06T07:42:11.101866+00:00",
+ "window_hours": 48,
+ "hf_org": [
+  {
+   "source": "hf-org",
+   "org": "google",
+   "repo": "google/DiarizationLM-Gemma-4-E4B-v1",
+   "created": "2026-10-04T13:06:04.000Z",
+   "downloads": 880,
+   "likes": 42,
+   "pipeline": "image-text-to-text",
+   "url": "https://huggingface.co/google/DiarizationLM-Gemma-4-E4B-v1"
+  }
+ ],
+ "hf_trending": [
+  {
+   "source": "hf-trending",
+   "org": "google",
+   "repo": "google/DiarizationLM-Gemma-4-E4B-v1",
+   "created": "2026-10-04T13:06:04.000Z",
+   "downloads": 880,
+   "likes": 42,
+   "pipeline": "image-text-to-text",
+   "url": "https://huggingface.co/google/DiarizationLM-Gemma-4-E4B-v1"
+  },
+  {
+   "source": "hf-trending",
+   "org": "Mia-AiLab",
+   "repo": "Mia-AiLab/GLM-5.3-Flash-EXL3-4bpw-TensorFold-Ablit",
+   "created": "2026-10-05T07:33:21.000Z",
+   "downloads": 0,
+   "likes": 28,
+   "pipeline": "image-text-to-text",
+   "url": "https://huggingface.co/Mia-AiLab/GLM-5.3-Flash-EXL3-4bpw-TensorFold-Ablit"
+  }
+ ],
+ "reddit": [
+  {
+   "source": "reddit",
+   "title": "Gemma 4 26B-A4B and a 37 GB Qwen3.6 MoE running in a browser tab on a 24 GB Mac — experts streamed from disk, output matches llama.cpp",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wyvo42/gemma_4_26ba4b_and_a_37_gb_qwen36_moe_running_in/",
+   "updated": "2026-10-06T06:41:26+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "metal : few-row MMA mat-mul and batched copies for speculative decoding by pratiknarola-t · Pull Request #29869 · ggml-org/llama.cpp",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wyurmi/metal_fewrow_mma_matmul_and_batched_copies_for/",
+   "updated": "2026-10-06T05:44:26+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "We’re using GLM-5.3 Flash instead of frontier models on a massive production codebase",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wyuqha/were_using_glm53_flash_instead_of_frontier_models/",
+   "updated": "2026-10-06T05:42:30+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "unsloth/Qwen3.8-Flash-Next-GGUF is being updated",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wyuoht/unslothqwen38flashnextgguf_is_being_updated/",
+   "updated": "2026-10-06T05:39:02+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "I just learned something nifty about the Qwen models, especially 27B that explains a lot",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wysbur/i_just_learned_something_nifty_about_the_qwen/",
+   "updated": "2026-10-06T03:24:38+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "Wrote a 3MB standalone C runner for Gemma-2B. Caught a Layer 15 hallucination drop.",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wyrvlk/wrote_a_3mb_standalone_c_runner_for_gemma2b/",
+   "updated": "2026-10-06T03:00:51+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "One chat for everything: a DeepSeek Harness plugin that works out which project each message belongs to",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wyr4gi/one_chat_for_everything_a_deepseek_harness_plugin/",
+   "updated": "2026-10-06T02:20:59+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "Tonight I'm putting Qwen3, Kimi K2.6, Llama 3 70B and GPT-OSS 120B in a live world war against Claude, GPT, Grok, Gemini, DeepSeek and Mistral",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wyqvkn/tonight_im_putting_qwen3_kimi_k26_llama_3_70b_and/",
+   "updated": "2026-10-06T02:08:23+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "Swift1.5 Qwen3.8 Flash Next - Tailored for the 96GB Mac Studio with M5 Ultra",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wyqgl6/swift15_qwen38_flash_next_tailored_for_the_96gb/",
+   "updated": "2026-10-06T01:47:42+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "MI50 ROCm 10.2 TheRock vs Vulkan Mesa 26.2 llama.cpp benchmarks",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wyq8r7/mi50_rocm_102_therock_vs_vulkan_mesa_262_llamacpp/",
+   "updated": "2026-10-06T01:36:50+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "Qwen 3.8 27b just feels… ok?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wyp4n2/qwen_38_27b_just_feels_ok/",
+   "updated": "2026-10-06T00:41:42+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "Qwen 27B and Flash Next on 2× RX 7900 XT: am I missing something?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wyoco0/qwen_27b_and_flash_next_on_2_rx_7900_xt_am_i/",
+   "updated": "2026-10-06T00:04:56+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "k_llama.cpp MoE Optimizations: Expert Residency, Hybrid CPU/GPU Execution, Q2_0 Support",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wynomx/k_llamacpp_moe_optimizations_expert_residency/",
+   "updated": "2026-10-05T23:33:54+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "A benchmark for LLMs playing Civilization V. GLM-5.3 is ahead of Opus-5.5, and Qwen-3.8-27B holds up surprisingly well.",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wynbvq/a_benchmark_for_llms_playing_civilization_v_glm53/",
+   "updated": "2026-10-05T23:16:48+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "Qwen image 2.1 newer than Qwen image 3.0?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wym5ce/qwen_image_21_newer_than_qwen_image_30/",
+   "updated": "2026-10-05T22:23:21+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "Why is Qwen3.8 refusing to write any actual code locally? It's just going round and round repeating design decisions, structure and a bunch of stuff. It will write a bit of code on screen but not to the project folder. Maddening!",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wylplv/why_is_qwen38_refusing_to_write_any_actual_code/",
+   "updated": "2026-10-05T22:04:23+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "Will Qwen 27B run on this machine?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wykkjk/will_qwen_27b_run_on_this_machine/",
+   "updated": "2026-10-05T21:16:46+00:00"
+  }
+ ],
+ "assessments": [
+  {
+   "repo": "google/DiarizationLM-Gemma-4-E4B-v1",
+   "params_b": 4.0,
+   "active_b": null,
+   "moe": false,
+   "precision": "bf16",
+   "q4_gb": 2.3,
+   "fp8_gb": 4.2,
+   "pipeline": "image-text-to-text",
+   "mac": "✅ ~43 tok/s",
+   "spark": "✅ 1 台 ~97 tok/s"
+  },
+  {
+   "repo": "google/DiarizationLM-Gemma-4-E4B-v1",
+   "params_b": 4.0,
+   "active_b": null,
+   "moe": false,
+   "precision": "bf16",
+   "q4_gb": 2.3,
+   "fp8_gb": 4.2,
+   "pipeline": "image-text-to-text",
+   "mac": "✅ ~43 tok/s",
+   "spark": "✅ 1 台 ~97 tok/s"
+  },
+  {
+   "repo": "Mia-AiLab/GLM-5.3-Flash-EXL3-4bpw-TensorFold-Ablit",
+   "params_b": 42.8,
+   "active_b": 3.4,
+   "moe": true,
+   "precision": "bf16",
+   "q4_gb": 24.8,
+   "fp8_gb": 45.0,
+   "pipeline": "image-text-to-text",
+   "mac": "❌  需 25GB > 16GB",
+   "spark": "✅ 1 台 ~110 tok/s"
+  }
+ ]
+}

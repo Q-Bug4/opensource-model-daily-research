@@ -1,0 +1,129 @@
+{
+ "date": "2026-09-30",
+ "generated_at": "2026-09-30T06:55:19.730256+00:00",
+ "window_hours": 48,
+ "hf_org": [
+  {
+   "source": "hf-org",
+   "org": "internlm",
+   "repo": "internlm/AdvancedMathBench-AutoVerifier",
+   "created": "2026-09-29T06:53:37.000Z",
+   "downloads": 0,
+   "likes": 0,
+   "pipeline": "image-text-to-text",
+   "url": "https://huggingface.co/internlm/AdvancedMathBench-AutoVerifier"
+  }
+ ],
+ "hf_trending": [
+  {
+   "source": "hf-trending",
+   "org": "PSRben",
+   "repo": "PSRben/VisionHOPE",
+   "created": "2026-09-29T07:28:16.000Z",
+   "downloads": 0,
+   "likes": 142,
+   "pipeline": "image-classification",
+   "url": "https://huggingface.co/PSRben/VisionHOPE"
+  }
+ ],
+ "reddit": [
+  {
+   "source": "reddit",
+   "title": "Qwen3.8 flash next ISTA-DASLab GGUF 50t/s TG and 1500t/s PP with 12GB VRAM and 64GB RAM Laptop on 'Strata' engine",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wtv43r/qwen38_flash_next_istadaslab_gguf_50ts_tg_and/",
+   "updated": "2026-09-30T04:01:09+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "Qwen-family LLMs are quietly becoming the backbone of modern audio models; One chart for the architectures of 100+ audio models",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wtpntt/qwenfamily_llms_are_quietly_becoming_the_backbone/",
+   "updated": "2026-09-29T23:35:16+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "Are you worried about a potential ban of Chinese open weight models?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wtp9x4/are_you_worried_about_a_potential_ban_of_chinese/",
+   "updated": "2026-09-29T23:17:54+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "Jev at home, but it can see: typed yes/no, pick-one and rubric answers with per-label probabilities from Gemma 4 31B on a 4090, images included",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wtmz2p/jev_at_home_but_it_can_see_typed_yesno_pickone/",
+   "updated": "2026-09-29T21:38:32+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "Local Q2_K model dunked on DeepSeek V4-Flash, a frontier AI, during my mini test &amp; ngl I’m still processing this 😅😅",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wtkzc5/local_q2_k_model_dunked_on_deepseek_v4flash_a/",
+   "updated": "2026-09-29T20:20:24+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "Anthropic just dropped the greatest advertisement for GLM ever.",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wth4iz/anthropic_just_dropped_the_greatest_advertisement/",
+   "updated": "2026-09-29T17:55:48+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "Deepseek Harness app is out now!!!",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wtg1hs/deepseek_harness_app_is_out_now/",
+   "updated": "2026-09-29T17:15:12+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "GLM-5.3 and the Spread of Advanced Cyber Capabilities \\ Anthropic",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wtg0vd/glm53_and_the_spread_of_advanced_cyber/",
+   "updated": "2026-09-29T17:14:32+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "Thanks to you r/LocalLLaMA, my mom was able to use my app! The open-source app that can watch your screen and trigger actions. It is now easy to use, thanks to your feedback.",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wtelk8/thanks_to_you_rlocalllama_my_mom_was_able_to_use/",
+   "updated": "2026-09-29T16:21:45+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "Swift-1.5-Qwen3.8-27b-oQ8e-mtp on Apple M5 Max — 34.8 tok/s — llm-bench.io",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wte7n0/swift15qwen3827boq8emtp_on_apple_m5_max_348_toks/",
+   "updated": "2026-09-29T16:07:22+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "Reflection 70B was released two years ago (September 2024)",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wt7e94/reflection_70b_was_released_two_years_ago/",
+   "updated": "2026-09-29T11:18:20+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "Qwen 3.8 27B Q4 with 100K context on a 16 GB RX 7800 XT guide",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wt7e8l/qwen_38_27b_q4_with_100k_context_on_a_16_gb_rx/",
+   "updated": "2026-09-29T11:18:19+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "I’m building an open-source browser agent that can run locally with LM Studio/Ollama — including a 450M browser VLM",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wt5m69/im_building_an_opensource_browser_agent_that_can/",
+   "updated": "2026-09-29T09:33:23+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "[Release] GSQ-RCO GGUFs for Qwen3.8-Flash-Next, plus a 50% expert-pruned Coder build at ~1.89 bpw",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wt4s88/release_gsqrco_ggufs_for_qwen38flashnext_plus_a/",
+   "updated": "2026-09-29T08:40:34+00:00"
+  }
+ ],
+ "assessments": [
+  {
+   "repo": "internlm/AdvancedMathBench-AutoVerifier",
+   "params_b": 17.5,
+   "active_b": 1.4,
+   "moe": true,
+   "precision": "bf16",
+   "q4_gb": 10.2,
+   "fp8_gb": 18.4,
+   "pipeline": "image-text-to-text",
+   "mac": "✅ ~91 tok/s",
+   "spark": "✅ 1 台 ~208 tok/s"
+  }
+ ]
+}

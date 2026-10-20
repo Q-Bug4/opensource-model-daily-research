@@ -1,0 +1,208 @@
+{
+ "date": "2026-09-25",
+ "generated_at": "2026-09-25T06:14:50.544760+00:00",
+ "window_hours": 48,
+ "hf_org": [],
+ "hf_trending": [
+  {
+   "source": "hf-trending",
+   "org": "orcarouter",
+   "repo": "orcarouter/OrcaSAQ-2-27B",
+   "created": "2026-09-24T03:44:51.000Z",
+   "downloads": 0,
+   "likes": 99,
+   "pipeline": "text-generation",
+   "url": "https://huggingface.co/orcarouter/OrcaSAQ-2-27B"
+  },
+  {
+   "source": "hf-trending",
+   "org": "fastino",
+   "repo": "fastino/GLiNER2.5-Decide",
+   "created": "2026-09-23T14:56:12.000Z",
+   "downloads": 7,
+   "likes": 87,
+   "pipeline": "token-classification",
+   "url": "https://huggingface.co/fastino/GLiNER2.5-Decide"
+  },
+  {
+   "source": "hf-trending",
+   "org": "bottlecapai",
+   "repo": "bottlecapai/ThinkingCap-Qwen3.8-27B",
+   "created": "2026-09-23T15:56:49.000Z",
+   "downloads": 128,
+   "likes": 88,
+   "pipeline": "image-text-to-text",
+   "url": "https://huggingface.co/bottlecapai/ThinkingCap-Qwen3.8-27B"
+  },
+  {
+   "source": "hf-trending",
+   "org": "PrunaAI",
+   "repo": "PrunaAI/Pruna-Qwen-Image-2.1",
+   "created": "2026-09-23T07:30:42.000Z",
+   "downloads": 2,
+   "likes": 53,
+   "pipeline": "text-to-image",
+   "url": "https://huggingface.co/PrunaAI/Pruna-Qwen-Image-2.1"
+  }
+ ],
+ "reddit": [
+  {
+   "source": "reddit",
+   "title": "M5 Ultra 80Core GLM-5.3-Flash on DwarfStar Speeds",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wpkz0o/m5_ultra_80core_glm53flash_on_dwarfstar_speeds/",
+   "updated": "2026-09-25T02:45:45+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "CachyOS Qwen 3.8 27b on 2x 5090 vLLM",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wpinky/cachyos_qwen_38_27b_on_2x_5090_vllm/",
+   "updated": "2026-09-25T00:50:15+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "What's the benefit of larger models, id you have a smaller one with internet access?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wpi6mx/whats_the_benefit_of_larger_models_id_you_have_a/",
+   "updated": "2026-09-25T00:27:11+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "Is Qwen Flash Next at like Q2 better than 27B at Q4?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wpgyfh/is_qwen_flash_next_at_like_q2_better_than_27b_at/",
+   "updated": "2026-09-24T23:28:53+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "7900 XTX — two &quot;low-thinking&quot; Qwen 3.8 27B quants (Swift + ThinkingCap) vs the regular quant",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wpg32w/7900_xtx_two_lowthinking_qwen_38_27b_quants_swift/",
+   "updated": "2026-09-24T22:49:08+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "Introducing textclf/Qwen3.8-27B-TQ-4bit from TextCLF Quant Factory",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wpfkmg/introducing_textclfqwen3827btq4bit_from_textclf/",
+   "updated": "2026-09-24T22:26:21+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "Qwen3.8 27b practical modeling for 3d printing",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wpet4j/qwen38_27b_practical_modeling_for_3d_printing/",
+   "updated": "2026-09-24T21:54:01+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "Qwen3.8-Flash-Next, on 5090+64gb, with Llama.cpp - Seems to not use ram?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wpe83z/qwen38flashnext_on_509064gb_with_llamacpp_seems/",
+   "updated": "2026-09-24T21:30:05+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "launcher concept",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wpdl4l/launcher_concept/",
+   "updated": "2026-09-24T21:04:20+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "Qwen 3.8 27b be like...",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wpdho8/qwen_38_27b_be_like/",
+   "updated": "2026-09-24T21:00:38+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "Built a self-hosted control panel for local AI on your own GPU box. Run llama.cpp chat, stable-diffusion.cpp images, and audio.cpp speech/music from one browser tab; Optimizes, benchmarks, fits, abliterates, scales, and educates. DavidAU qwen3.8-27b guffs as baseline, reproducable quants at speed.",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wp9kpu/built_a_selfhosted_control_panel_for_local_ai_on/",
+   "updated": "2026-09-24T18:29:00+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "Qwen3.8-Flash-Next on 12GB VRAM - 65 tokens per second",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wp7zyb/qwen38flashnext_on_12gb_vram_65_tokens_per_second/",
+   "updated": "2026-09-24T17:30:44+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "Would this be super fast for Qwen 27b &amp; next? 32GB isn't much overhead for Q8 + 256k context",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wp75t0/would_this_be_super_fast_for_qwen_27b_next_32gb/",
+   "updated": "2026-09-24T16:59:41+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "ThinkingCap 3.8-27B vs. Swift 3.8-27B vs. Qwen 3.8-27B Benchmarks",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wp5vqr/thinkingcap_3827b_vs_swift_3827b_vs_qwen_3827b/",
+   "updated": "2026-09-24T16:11:15+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "If Qwen4 completely abandons open-weight small LLMs (≤14B), who could step up to take Qwen’s place as the next standard-bearer for local small models?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wp5u0p/if_qwen4_completely_abandons_openweight_small/",
+   "updated": "2026-09-24T16:09:30+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "I built an open-weight alternative to Jev / TypeSafe - introducing OpenJudgement-4B (early preview)",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wp2xpn/i_built_an_openweight_alternative_to_jev_typesafe/",
+   "updated": "2026-09-24T14:19:34+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "R9V Update: Created and adopted KVA projections based on Deepseek V4.1 Flash + HySparse2/MiMo-V3 for Qwen3.8 Flash Next. This is a game changer for models that don't natively implement it. 1.45-1.85x speedup in prefill to 3k+ at a small deficit to perplexity. [2x R9700, 128GB DDR5]",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wp2hqk/r9v_update_created_and_adopted_kva_projections/",
+   "updated": "2026-09-24T14:02:24+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "vulkan: int8 coopmat1 matmul implementation for AMD RDNA3 and RDNA4 (… · ggml-org/llama.cpp@70c4e15",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wp1vex/vulkan_int8_coopmat1_matmul_implementation_for/",
+   "updated": "2026-09-24T13:37:39+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "Qwen-3.8-27B is good enough that I stopped using API",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wp0z3i/qwen3827b_is_good_enough_that_i_stopped_using_api/",
+   "updated": "2026-09-24T12:59:28+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "MiniMax M3.1 (Space Bunny Alpha) thinks in caveman mode",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wp0c0t/minimax_m31_space_bunny_alpha_thinks_in_caveman/",
+   "updated": "2026-09-24T12:29:36+00:00"
+  }
+ ],
+ "assessments": [
+  {
+   "repo": "orcarouter/OrcaSAQ-2-27B",
+   "params_b": 3.3,
+   "active_b": null,
+   "moe": false,
+   "precision": "bf16",
+   "q4_gb": 1.9,
+   "fp8_gb": 3.5,
+   "pipeline": "text-generation",
+   "mac": "✅ ~50 tok/s",
+   "spark": "✅ 1 台 ~113 tok/s"
+  },
+  {
+   "repo": "fastino/GLiNER2.5-Decide",
+   "params_b": 0.2,
+   "active_b": null,
+   "moe": false,
+   "precision": "bf16",
+   "q4_gb": 0.1,
+   "fp8_gb": 0.2,
+   "pipeline": "token-classification",
+   "mac": "✅ ~150 tok/s",
+   "spark": "✅ 1 台 ~341 tok/s"
+  },
+  {
+   "repo": "bottlecapai/ThinkingCap-Qwen3.8-27B",
+   "params_b": 27.0,
+   "active_b": null,
+   "moe": false,
+   "precision": "bf16",
+   "q4_gb": 15.7,
+   "fp8_gb": 28.4,
+   "pipeline": "image-text-to-text",
+   "mac": "⚠️ ~10 tok/s Q4(16GB)超内存,需Q3(12GB)",
+   "spark": "✅ 1 台 ~17 tok/s"
+  }
+ ]
+}

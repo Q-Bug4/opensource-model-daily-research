@@ -1,0 +1,105 @@
+{
+ "date": "2026-09-26",
+ "generated_at": "2026-09-26T06:14:33.885143+00:00",
+ "window_hours": 48,
+ "hf_org": [],
+ "hf_trending": [
+  {
+   "source": "hf-trending",
+   "org": "Comfy-Org",
+   "repo": "Comfy-Org/Ming-Image",
+   "created": "2026-09-24T07:13:14.000Z",
+   "downloads": 20125,
+   "likes": 30,
+   "pipeline": null,
+   "url": "https://huggingface.co/Comfy-Org/Ming-Image"
+  }
+ ],
+ "reddit": [
+  {
+   "source": "reddit",
+   "title": "Got 85.6tok/s MTP with Qwen3.8:27b. Single RTX 5090",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wqhti5/got_856toks_mtp_with_qwen3827b_single_rtx_5090/",
+   "updated": "2026-09-26T05:03:33+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "Qwen3.8-27B - base or a finetune?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wqfk6r/qwen3827b_base_or_a_finetune/",
+   "updated": "2026-09-26T03:01:51+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "Custom Models in Oh My Pi: vLLM, llama.cpp, SGLang and More",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wqcki2/custom_models_in_oh_my_pi_vllm_llamacpp_sglang/",
+   "updated": "2026-09-26T00:31:03+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "vLLM Recipe for Qwen38 Flash Next NVFP4 TP=2 for RTX Pro 5000 72g",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wqag5e/vllm_recipe_for_qwen38_flash_next_nvfp4_tp2_for/",
+   "updated": "2026-09-25T22:53:49+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "How long can I expect to wait until the local ~30B A3B frontier catches up to GLM 5.3 Flash quality?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wq8e5u/how_long_can_i_expect_to_wait_until_the_local_30b/",
+   "updated": "2026-09-25T21:24:54+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "4-5 days replacing Claude w Qwen 3.8 Next",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wq7e74/45_days_replacing_claude_w_qwen_38_next/",
+   "updated": "2026-09-25T20:44:10+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "Qwen3.8-27B: Using KV Cache Transplants to Boost Output Quality",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wq76f6/qwen3827b_using_kv_cache_transplants_to_boost/",
+   "updated": "2026-09-25T20:35:28+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "Dspark for GLM 5.3 Flash",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wq75vk/dspark_for_glm_53_flash/",
+   "updated": "2026-09-25T20:34:52+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "Swift1.5-Qwen3.8-Flash-Next is phenomenal vs. base 3.8-Flash!",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wq56pf/swift15qwen38flashnext_is_phenomenal_vs_base/",
+   "updated": "2026-09-25T19:16:34+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "Built a self-hosted local AI control plane that fits models to your actual hardware and workload. Runs llama.cpp, image, audio &amp; ONNX workloads, benchmarks, auto-optimizes, requantizes, manages power, catches regressions, supports MCP/Hermes and scales across multiple GPU boxes.",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wq23dh/built_a_selfhosted_local_ai_control_plane_that/",
+   "updated": "2026-09-25T17:15:06+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "I compared diarization models on 15 clinical conversations: Nemotron 3, Pyannote, Sortformer and VibeVoice",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wq1as8/i_compared_diarization_models_on_15_clinical/",
+   "updated": "2026-09-25T16:44:28+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "Gemma4 best flags please??",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wq041h/gemma4_best_flags_please/",
+   "updated": "2026-09-25T15:59:01+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "Qwengram-0.8B: I transferred Qwen3.8 Flash-Next’s n-gram memory into Qwen3.5-0.8B — 5.05% lower validation perplexity",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wpvep4/qwengram08b_i_transferred_qwen38_flashnexts_ngram/",
+   "updated": "2026-09-25T12:46:00+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "Qwen3.8 FLASH Next iq4 VRAM usage",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wpv63n/qwen38_flash_next_iq4_vram_usage/",
+   "updated": "2026-09-25T12:34:46+00:00"
+  }
+ ],
+ "assessments": []
+}

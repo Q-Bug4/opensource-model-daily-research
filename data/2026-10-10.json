@@ -1,0 +1,317 @@
+{
+ "date": "2026-10-10",
+ "generated_at": "2026-10-10T07:20:59.674693+00:00",
+ "window_hours": 48,
+ "hf_org": [
+  {
+   "source": "hf-org",
+   "org": "Qwen",
+   "repo": "Qwen/Qwen-Image-2.1-Turbo",
+   "created": "2026-10-09T04:50:01.000Z",
+   "downloads": 0,
+   "likes": 349,
+   "pipeline": "text-to-image",
+   "url": "https://huggingface.co/Qwen/Qwen-Image-2.1-Turbo"
+  },
+  {
+   "source": "hf-org",
+   "org": "mistralai",
+   "repo": "mistralai/LIDstral-Arabic",
+   "created": "2026-10-08T11:37:05.000Z",
+   "downloads": 0,
+   "likes": 5,
+   "pipeline": "text-classification",
+   "url": "https://huggingface.co/mistralai/LIDstral-Arabic"
+  },
+  {
+   "source": "hf-org",
+   "org": "mistralai",
+   "repo": "mistralai/Voxtral-Mini-4B-Realtime-Arabic",
+   "created": "2026-10-08T11:36:06.000Z",
+   "downloads": 0,
+   "likes": 6,
+   "pipeline": "automatic-speech-recognition",
+   "url": "https://huggingface.co/mistralai/Voxtral-Mini-4B-Realtime-Arabic"
+  },
+  {
+   "source": "hf-org",
+   "org": "nvidia",
+   "repo": "nvidia/agile_one_s_pick_ssd_n2_1120",
+   "created": "2026-10-10T00:20:17.000Z",
+   "downloads": 0,
+   "likes": 0,
+   "pipeline": null,
+   "url": "https://huggingface.co/nvidia/agile_one_s_pick_ssd_n2_1120"
+  },
+  {
+   "source": "hf-org",
+   "org": "nvidia",
+   "repo": "nvidia/agile_one_s_place_ssd_n2_1260",
+   "created": "2026-10-10T00:18:56.000Z",
+   "downloads": 0,
+   "likes": 0,
+   "pipeline": null,
+   "url": "https://huggingface.co/nvidia/agile_one_s_place_ssd_n2_1260"
+  },
+  {
+   "source": "hf-org",
+   "org": "nvidia",
+   "repo": "nvidia/agile_one_s_pickplace_ssd_n2_18200",
+   "created": "2026-10-10T00:17:13.000Z",
+   "downloads": 0,
+   "likes": 0,
+   "pipeline": "robotics",
+   "url": "https://huggingface.co/nvidia/agile_one_s_pickplace_ssd_n2_18200"
+  },
+  {
+   "source": "hf-org",
+   "org": "nvidia",
+   "repo": "nvidia/agile_one_s_place_ssd_n17_24050",
+   "created": "2026-10-09T08:29:13.000Z",
+   "downloads": 0,
+   "likes": 1,
+   "pipeline": "robotics",
+   "url": "https://huggingface.co/nvidia/agile_one_s_place_ssd_n17_24050"
+  },
+  {
+   "source": "hf-org",
+   "org": "nvidia",
+   "repo": "nvidia/agile_one_s_walk_n2_1680",
+   "created": "2026-10-09T08:28:59.000Z",
+   "downloads": 0,
+   "likes": 0,
+   "pipeline": "robotics",
+   "url": "https://huggingface.co/nvidia/agile_one_s_walk_n2_1680"
+  },
+  {
+   "source": "hf-org",
+   "org": "nvidia",
+   "repo": "nvidia/agile_one_s_pick_ssd_n17_58000",
+   "created": "2026-10-09T08:28:36.000Z",
+   "downloads": 0,
+   "likes": 0,
+   "pipeline": "robotics",
+   "url": "https://huggingface.co/nvidia/agile_one_s_pick_ssd_n17_58000"
+  },
+  {
+   "source": "hf-org",
+   "org": "nvidia",
+   "repo": "nvidia/agile_one_s_pick_ssd_n17_40000",
+   "created": "2026-10-09T08:28:25.000Z",
+   "downloads": 0,
+   "likes": 0,
+   "pipeline": "robotics",
+   "url": "https://huggingface.co/nvidia/agile_one_s_pick_ssd_n17_40000"
+  }
+ ],
+ "hf_trending": [
+  {
+   "source": "hf-trending",
+   "org": "Qwen",
+   "repo": "Qwen/Qwen-Image-2.1-Turbo",
+   "created": "2026-10-09T04:50:01.000Z",
+   "downloads": 0,
+   "likes": 349,
+   "pipeline": "text-to-image",
+   "url": "https://huggingface.co/Qwen/Qwen-Image-2.1-Turbo"
+  },
+  {
+   "source": "hf-trending",
+   "org": "tencent",
+   "repo": "tencent/Youtu-Parsing-Omni",
+   "created": "2026-10-09T06:42:18.000Z",
+   "downloads": 50,
+   "likes": 50,
+   "pipeline": "image-text-to-text",
+   "url": "https://huggingface.co/tencent/Youtu-Parsing-Omni"
+  },
+  {
+   "source": "hf-trending",
+   "org": "Cloudflare",
+   "repo": "Cloudflare/clef-omni",
+   "created": "2026-10-09T04:10:22.000Z",
+   "downloads": 2,
+   "likes": 39,
+   "pipeline": "image-text-to-text",
+   "url": "https://huggingface.co/Cloudflare/clef-omni"
+  }
+ ],
+ "reddit": [
+  {
+   "source": "reddit",
+   "title": "Qwen 3.6 35B A3B: 131K context + vision on 6GB VRAM",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x27au9/qwen_36_35b_a3b_131k_context_vision_on_6gb_vram/",
+   "updated": "2026-10-10T05:41:18+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "Been a while since I posted about my harness OpenLumara.. I only post when a huge new feature releases. I think this is one of them!",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x26vvo/been_a_while_since_i_posted_about_my_harness/",
+   "updated": "2026-10-10T05:16:45+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "I have an ESC4000 G3 with 8x T4s in it - what is the fastest way I can deploy Qwen3.5-9B for about 10-15 users concurrently: currently using llama.cpp",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x252xy/i_have_an_esc4000_g3_with_8x_t4s_in_it_what_is/",
+   "updated": "2026-10-10T03:35:42+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "Qwen Flash Next @ 137 tok/s &amp; 3,497 tok/s Prefill w/ 512k context on a 5090, 192gb ram, Windows Build, comparing Strata and Infernix",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x217go/qwen_flash_next_137_toks_3497_toks_prefill_w_512k/",
+   "updated": "2026-10-10T00:14:28+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "What does LocalLLaMA think of REA?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x212iv/what_does_localllama_think_of_rea/",
+   "updated": "2026-10-10T00:07:55+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "Qwen3.8-27B UD-IQ4_XS Heretic + MTP on a 16 GB card with 55-68 tok/s (24gb and 12gb versions available too)",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x1zhnx/qwen3827b_udiq4_xs_heretic_mtp_on_a_16_gb_card/",
+   "updated": "2026-10-09T22:54:37+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "Qwen3.8 27b with 200K ctx + MTP on 12GB Ampere Cards",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x1xt1x/qwen38_27b_with_200k_ctx_mtp_on_12gb_ampere_cards/",
+   "updated": "2026-10-09T21:39:32+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "Strata for GLM 5.3 Flash",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x1wxdt/strata_for_glm_53_flash/",
+   "updated": "2026-10-09T21:02:07+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "Just another purely open-weight models benchmark",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x1tf1t/just_another_purely_openweight_models_benchmark/",
+   "updated": "2026-10-09T18:43:54+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "Qwen 3.8 Flash Next-GSQ-RCO-IQ2_XS at ~21 tok/s on just an RTX 3060 12GB + 16GB DDR4 RAM(No gate pruning, 100% bit-exact)",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x1tclb/qwen_38_flash_nextgsqrcoiq2_xs_at_21_toks_on_just/",
+   "updated": "2026-10-09T18:41:18+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "LlamaTale v0.43.0 - MCP Server for story creation",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x1s09m/llamatale_v0430_mcp_server_for_story_creation/",
+   "updated": "2026-10-09T17:49:31+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "GLM 5.3 Flash opensource @ the top of Artificial Analysis Cyber Index over Claude.",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x1rwof/glm_53_flash_opensource_the_top_of_artificial/",
+   "updated": "2026-10-09T17:45:37+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "Which Image Gen model is best for infographics?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x1pg53/which_image_gen_model_is_best_for_infographics/",
+   "updated": "2026-10-09T16:10:26+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "Started an open source project on Reddit 18 months ago that blew up into one of the most popular MCP servers in the world, just released v2!",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x1nflp/started_an_open_source_project_on_reddit_18/",
+   "updated": "2026-10-09T14:52:18+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "Qwen3.8-Flash-Next-GSQ-RCO (IQ3_S): ~20-30 tok/sec decode &amp; 300-90k tok/sec prefill on 12GB VRAM + 32GB RAM + NVME",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x1mzsg/qwen38flashnextgsqrco_iq3_s_2030_toksec_decode/",
+   "updated": "2026-10-09T14:34:14+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "Qwen/Qwen-Image-2.1-Turbo · Hugging Face",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x1ldef/qwenqwenimage21turbo_hugging_face/",
+   "updated": "2026-10-09T13:28:14+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "Qwen-Image-2.1-Turbo released!",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x1lclx/qwenimage21turbo_released/",
+   "updated": "2026-10-09T13:27:18+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "rtx 4090 + huawei atlas duo for qwen flash next ?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x1jlek/rtx_4090_huawei_atlas_duo_for_qwen_flash_next/",
+   "updated": "2026-10-09T12:05:05+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "Qwen3.8: Flash Next iq3 xxs is dumber than 27B iq3 xxs?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x1h6tv/qwen38_flash_next_iq3_xxs_is_dumber_than_27b_iq3/",
+   "updated": "2026-10-09T09:50:42+00:00"
+  }
+ ],
+ "assessments": [
+  {
+   "repo": "Qwen/Qwen-Image-2.1-Turbo",
+   "params_b": 3.5,
+   "active_b": null,
+   "moe": false,
+   "precision": "bf16",
+   "q4_gb": 2.0,
+   "fp8_gb": 3.6,
+   "pipeline": "text-to-image",
+   "mac": "✅  图像/嵌入模型",
+   "spark": "✅ 1 台"
+  },
+  {
+   "repo": "mistralai/Voxtral-Mini-4B-Realtime-Arabic",
+   "params_b": 4.0,
+   "active_b": null,
+   "moe": false,
+   "precision": "bf16",
+   "q4_gb": 2.3,
+   "fp8_gb": 4.2,
+   "pipeline": "automatic-speech-recognition",
+   "mac": "✅ ~43 tok/s",
+   "spark": "✅ 1 台 ~97 tok/s"
+  },
+  {
+   "repo": "Qwen/Qwen-Image-2.1-Turbo",
+   "params_b": 3.5,
+   "active_b": null,
+   "moe": false,
+   "precision": "bf16",
+   "q4_gb": 2.0,
+   "fp8_gb": 3.6,
+   "pipeline": "text-to-image",
+   "mac": "✅  图像/嵌入模型",
+   "spark": "✅ 1 台"
+  },
+  {
+   "repo": "tencent/Youtu-Parsing-Omni",
+   "params_b": 2.6,
+   "active_b": null,
+   "moe": false,
+   "precision": "bf16",
+   "q4_gb": 1.5,
+   "fp8_gb": 2.7,
+   "pipeline": "image-text-to-text",
+   "mac": "✅ ~60 tok/s",
+   "spark": "✅ 1 台 ~136 tok/s"
+  },
+  {
+   "repo": "Cloudflare/clef-omni",
+   "params_b": 17.2,
+   "active_b": 1.4,
+   "moe": true,
+   "precision": "bf16",
+   "q4_gb": 10.0,
+   "fp8_gb": 18.1,
+   "pipeline": "image-text-to-text",
+   "mac": "✅ ~92 tok/s",
+   "spark": "✅ 1 台 ~210 tok/s"
+  }
+ ]
+}

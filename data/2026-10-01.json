@@ -1,0 +1,128 @@
+{
+ "date": "2026-10-01",
+ "generated_at": "2026-10-01T07:20:18.560536+00:00",
+ "window_hours": 48,
+ "hf_org": [],
+ "hf_trending": [
+  {
+   "source": "hf-trending",
+   "org": "PSRben",
+   "repo": "PSRben/VisionHOPE",
+   "created": "2026-09-29T07:28:16.000Z",
+   "downloads": 137,
+   "likes": 351,
+   "pipeline": "image-classification",
+   "url": "https://huggingface.co/PSRben/VisionHOPE"
+  },
+  {
+   "source": "hf-trending",
+   "org": "BAAI",
+   "repo": "BAAI/AREX-2",
+   "created": "2026-09-29T17:56:21.000Z",
+   "downloads": 40,
+   "likes": 37,
+   "pipeline": "image-text-to-text",
+   "url": "https://huggingface.co/BAAI/AREX-2"
+  }
+ ],
+ "reddit": [
+  {
+   "source": "reddit",
+   "title": "Qwen Flash Next MTP work restarted",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wur4lt/qwen_flash_next_mtp_work_restarted/",
+   "updated": "2026-10-01T05:27:13+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "Two open-weights releases: Victoria (Qwen3.8-Flash-Next with 44% of experts cut, 70% Terminal-Bench 2.1, GGUF included) and Maple (a Canada-first fine-tune)",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wujph3/two_openweights_releases_victoria_qwen38flashnext/",
+   "updated": "2026-09-30T23:10:03+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "I don't understand whether uncesored/abliterated/heretic/fusion/bla-bla models give any value for the open-weight community",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wujd9a/i_dont_understand_whether/",
+   "updated": "2026-09-30T22:54:41+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "Open source inference engine (like LM Studio or Unsloth Desktop) that optimizes itself for your exact hardware. Compiles and tunes its kernels on your device, so open models run up to 2x faster than llama.cpp. Works on Apple Silicon, NVIDIA, AMD or nothing but a CPU.",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wuj70v/open_source_inference_engine_like_lm_studio_or/",
+   "updated": "2026-09-30T22:46:30+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "peculiar-ragdoll's Dirk-Qwen 3.8-27B vs. UkisAI Swift-1.5 Qwen3.8-27B",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wuigui/peculiarragdolls_dirkqwen_3827b_vs_ukisai_swift15/",
+   "updated": "2026-09-30T22:14:19+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "M5 Ultra - Qwen3.8 Flash Next vs Laguna S 2.1",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wugx2e/m5_ultra_qwen38_flash_next_vs_laguna_s_21/",
+   "updated": "2026-09-30T21:09:48+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "Qwen3.8-27B-pi: Effort-Ordered Reasoning for Agentic Coding",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wufzrh/qwen3827bpi_effortordered_reasoning_for_agentic/",
+   "updated": "2026-09-30T20:32:41+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "What runs Qwen 3.8 Flash Next faster? Strix Halo or a Pile of GPUs(2x5070tis, 2x7900xtxes and 2x5060tis 16GB).",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wufk3y/what_runs_qwen_38_flash_next_faster_strix_halo_or/",
+   "updated": "2026-09-30T20:15:36+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "Update: Strix Halo + R9700 with llama-halo-hybrid - now beats DGX Spark",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wuet5g/update_strix_halo_r9700_with_llamahalohybrid_now/",
+   "updated": "2026-09-30T19:46:31+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "You can now run Qwen 3.8 27B on AMD NPUs via FastFlowLM (at a killer 1 tps decode)",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wud77g/you_can_now_run_qwen_38_27b_on_amd_npus_via/",
+   "updated": "2026-09-30T18:45:42+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "How smart is the IQ3 family of Qwen 3.8 Flash Next for coding tasks?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wuark9/how_smart_is_the_iq3_family_of_qwen_38_flash_next/",
+   "updated": "2026-09-30T17:15:07+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "[Release &amp; Deep Dive] ATX-Swift-1.5-Qwen3.8-27B-Uncensored-MTP (i1-Q5_K_M): Sustaining 50-65+ t/s Across a FULL 128k (131,072) Context on a Single 24GB RTX 3090",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wu9vdw/release_deep_dive/",
+   "updated": "2026-09-30T16:42:01+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "add GLM-5.3-Flash (GLM5-Next) support (#27773) · ggml-org/llama.cpp@649dcb1",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wu3wxu/add_glm53flash_glm5next_support_27773/",
+   "updated": "2026-09-30T12:41:58+00:00"
+  },
+  {
+   "source": "reddit",
+   "title": "Tensorfold runs Qwen3.8-27B really well on m5 pro mac mini, tps beats MTPLX",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wu3s0v/tensorfold_runs_qwen3827b_really_well_on_m5_pro/",
+   "updated": "2026-09-30T12:35:37+00:00"
+  }
+ ],
+ "assessments": [
+  {
+   "repo": "BAAI/AREX-2",
+   "params_b": 13.3,
+   "active_b": null,
+   "moe": false,
+   "precision": "bf16",
+   "q4_gb": 7.7,
+   "fp8_gb": 14.0,
+   "pipeline": "image-text-to-text",
+   "mac": "⚠️ ~15 tok/s",
+   "spark": "✅ 1 台 ~33 tok/s"
+  }
+ ]
+}
