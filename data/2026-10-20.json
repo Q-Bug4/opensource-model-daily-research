@@ -1,6 +1,6 @@
 {
  "date": "2026-10-20",
- "generated_at": "2026-10-20T03:31:47.711432+00:00",
+ "generated_at": "2026-10-20T07:57:55.706857+00:00",
  "window_hours": 48,
  "hf_org": [],
  "hf_trending": [
@@ -10,7 +10,7 @@
    "repo": "lodestones/Kromoss",
    "created": "2026-10-19T01:34:35.000Z",
    "downloads": 264,
-   "likes": 123,
+   "likes": 130,
    "pipeline": "text-to-image",
    "url": "https://huggingface.co/lodestones/Kromoss"
   },
@@ -20,7 +20,7 @@
    "repo": "drowzeys/keys-DeepSeek-V4.1-Flash-1017-Abliterated",
    "created": "2026-10-18T13:34:32.000Z",
    "downloads": 0,
-   "likes": 42,
+   "likes": 44,
    "pipeline": "image-text-to-text",
    "url": "https://huggingface.co/drowzeys/keys-DeepSeek-V4.1-Flash-1017-Abliterated"
   },
@@ -30,7 +30,7 @@
    "repo": "incoai/Qwen3.8-Flash-Next-DFlash2",
    "created": "2026-10-19T07:58:34.000Z",
    "downloads": 0,
-   "likes": 34,
+   "likes": 40,
    "pipeline": "text-generation",
    "url": "https://huggingface.co/incoai/Qwen3.8-Flash-Next-DFlash2"
   },
@@ -40,9 +40,29 @@
    "repo": "migtissera/Tess-4.5-27B",
    "created": "2026-10-18T18:32:14.000Z",
    "downloads": 15,
-   "likes": 32,
+   "likes": 35,
    "pipeline": "image-text-to-text",
    "url": "https://huggingface.co/migtissera/Tess-4.5-27B"
+  },
+  {
+   "source": "hf-trending",
+   "org": "malcolmrey",
+   "repo": "malcolmrey/moss-serenity",
+   "created": "2026-10-19T08:57:44.000Z",
+   "downloads": 0,
+   "likes": 33,
+   "pipeline": "text-to-image",
+   "url": "https://huggingface.co/malcolmrey/moss-serenity"
+  },
+  {
+   "source": "hf-trending",
+   "org": "vllm-sr",
+   "repo": "vllm-sr/d3-turbo",
+   "created": "2026-10-19T02:14:31.000Z",
+   "downloads": 136,
+   "likes": 31,
+   "pipeline": "zero-shot-classification",
+   "url": "https://huggingface.co/vllm-sr/d3-turbo"
   }
  ],
  "reddit": [
@@ -150,13 +170,6 @@
    "title": "MiniMax-M3.1-Flash is coming",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x9suvs/minimaxm31flash_is_coming/",
    "updated": "2026-10-19T10:05:08+00:00"
-  },
-  {
-   "source": "reddit",
-   "sub": "LocalLLaMA",
-   "title": "incoai/Qwen3.8-Flash-Next-DFlash2",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x9rq3r/incoaiqwen38flashnextdflash2/",
-   "updated": "2026-10-19T08:55:02+00:00"
   }
  ],
  "nvidia_forum": [
@@ -505,59 +518,18 @@
    "pipeline": "image-text-to-text",
    "mac": "⚠️ ~10 tok/s Q4(16GB)超内存,需Q3(12GB)",
    "spark": "✅ 1 台 ~17 tok/s"
+  },
+  {
+   "repo": "vllm-sr/d3-turbo",
+   "params_b": 12.7,
+   "active_b": null,
+   "moe": false,
+   "precision": "bf16",
+   "q4_gb": 7.4,
+   "fp8_gb": 13.4,
+   "pipeline": "zero-shot-classification",
+   "mac": "✅ ~15 tok/s",
+   "spark": "✅ 1 台 ~35 tok/s"
   }
- ],
- "summary": {
-  "model": "deepseek-v4-flash",
-  "generated_at": "2026-10-20T03:32:49.276083+00:00",
-  "overview": "今天抓到 4 个新模型，整体以中小体量和社区二次创作为主，没有旗舰级首发。主线有两条：一是围绕 DeepSeek-V4.1-Flash 与 Qwen3.8-Flash-Next 的衍生作品，包括去审查微调和极小尺寸、可能用于推测解码的轻量模型；二是可直接在本地运行的轻量多模态与图像模型。lodestones/Kromoss 2.5B 文生图凭借 Q4 约 1.4GB 的体积拿到 123 赞，是当日热度最高的新发布；migtissera/Tess-4.5-27B 作为 Qwen 系 27B 微调，已在社区出现讨论帖。值得注意的是，社区侧关于 DGX Spark 上 DeepSeek V4.1 Flash 的量化与多机部署数据大量出现，而当天真正在 Mac 或 Spark 上无需额外配置即可运行的新模型，仍以 0.3B–27B 的小模型为主。",
-  "models": [
-   {
-    "repo": "lodestones/Kromoss",
-    "category": "图像",
-    "what": "lodestones 发布的 2.5B 文生图模型，bf16 精度，定位为轻量、可在本地运行的图像生成。",
-    "pros": "Q4 量化后仅约 1.4GB，Mac M4 Air 24GB 和单台 DGX Spark 都能直接运行；发布一天即获 123 赞，热度远高于同日其他新模型。",
-    "cons": "下载量仅 264，画质、风格覆盖和提示词理解尚无第三方验证；新发布，暂无实测。",
-    "recommendation": "值得关注"
-   },
-   {
-    "repo": "drowzeys/keys-DeepSeek-V4.1-Flash-1017-Abliterated",
-    "category": "VLM",
-    "what": "社区用户 drowzeys 基于 DeepSeek-V4.1-Flash-1017 制作的去审查（Abliterated）二次分发版本，管线为 image-text-to-text 多模态。",
-    "pros": "紧跟当日最热的 DeepSeek V4.1 Flash 话题，42 个赞说明确实有需求；去除拒答特性对本地创作类用途有吸引力。",
-    "cons": "元数据未给参数与显存需求，这类大 MoE 模型实际通常需要多卡或多机，Mac 24GB 基本无望；去审查处理常伴随能力与安全性退化风险，新发布，暂无实测。",
-    "recommendation": "一般"
-   },
-   {
-    "repo": "incoai/Qwen3.8-Flash-Next-DFlash2",
-    "category": "LLM",
-    "what": "incoai 发布的 0.3B 级文本生成小模型，名称中的 DFlash 指向 Qwen3.8-Flash-Next 系的轻量化或草稿模型用途。",
-    "pros": "体积极小（Q4 约 0.2GB），部署评估显示 Mac 约 150 tok/s、单台 DGX Spark 约 341 tok/s，适合做推测解码草稿模型或边缘端常驻小助手。",
-    "cons": "下载量为 0，缺少模型卡与能力验证，是否真能加速对应基座取决于版本严格匹配；新发布，暂无实测。",
-    "recommendation": "值得关注"
-   },
-   {
-    "repo": "migtissera/Tess-4.5-27B",
-    "category": "VLM",
-    "what": "migtissera 的 Tess 系列新一代 27B 稠密多模态模型，据社区信息是基于 Qwen 系基座微调，面向对话、角色扮演类用途。",
-    "pros": "27B 稠密规模在质量与显存之间较平衡，Q4 约 15.7GB，单台 DGX Spark 可跑约 17 tok/s；当日社区已有讨论帖，跟进信息容易找。",
-    "cons": "Mac M4 Air 24GB 上 Q4 已超内存，需降到 Q3（约 12GB）且仅约 10 tok/s；微调后通用能力可能弱于原版基座，新发布，暂无实测。",
-    "recommendation": "值得关注"
-   }
-  ],
-  "picks": [
-   {
-    "repo": "migtissera/Tess-4.5-27B",
-    "reason": "当日社区唯一被点名讨论的新模型，27B 稠密在单台 DGX Spark 上有可用速度，是本地大模型用户最现实的可选方案。"
-   },
-   {
-    "repo": "lodestones/Kromoss",
-    "reason": "2.5B 文生图 Q4 仅 1.4GB，Mac 与 Spark 通吃，是今天最容易被普通用户真正运行起来并有高赞热度的发布。"
-   },
-   {
-    "repo": "incoai/Qwen3.8-Flash-Next-DFlash2",
-    "reason": "0.3B 体量在 Mac 和 Spark 上都有极高吞吐，若作为 Qwen3.8-Flash-Next 的草稿模型能直接提升本地推理速度，值得先下载验证。"
-   }
-  ]
- }
+ ]
 }
