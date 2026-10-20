@@ -20,6 +20,16 @@ jobs:
       - name: Assess deployment requirements
         run: python3 scripts/assess.py
 
+      - name: Summarize with LLM
+        env:
+          LLM_BASE_URL: ${{ secrets.LLM_BASE_URL }}
+          LLM_API_KEY: ${{ secrets.LLM_API_KEY }}
+          LLM_MODEL: ${{ secrets.LLM_MODEL }}
+        continue-on-error: true   # 总结失败/未配置不阻塞采集与建站
+        run: |
+          pip install --quiet openai
+          python3 scripts/summarize.py
+
       - name: Build site
         run: python3 scripts/build_site.py
 

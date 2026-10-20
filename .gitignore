@@ -1,0 +1,4 @@
+.env
+llm.json
+__pycache__/
+*.pyc

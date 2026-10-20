@@ -6,10 +6,11 @@
   2. HF trending: sort=trendingScore + downloads/likes 质量门(滤掉微调/转换仓)
   3. Reddit r/LocalLLaMA RSS: 社区第一时间讨论的新模型情报
 """
+import html
 import json
 import re
-import subprocess
 import sys
+import time
 import urllib.request
 from datetime import datetime, timedelta, timezone
 
@@ -28,16 +29,27 @@ CONVERT_RE = re.compile(r"(gguf|mlx|awq|gptq|exl2|onnx|mlc|ncnn|\.bin$|-quant)",
 JUNK_RE = re.compile(r"(finetune|fine-tune|-ft|-rl|lora|uncensored|merge|merged|v[0-9.]+-finetune)", re.I)
 
 
+def _fetch(url, timeout=30, retries=1):
+    """带一次重试的 GET; 返回 bytes"""
+    last = None
+    for i in range(retries + 1):
+        try:
+            req = urllib.request.Request(url, headers=UA)
+            with urllib.request.urlopen(req, timeout=timeout) as r:
+                return r.read()
+        except Exception as e:
+            last = e
+            if i < retries:
+                time.sleep(1.5)
+    raise last
+
+
 def get_json(url):
-    req = urllib.request.Request(url, headers=UA)
-    with urllib.request.urlopen(req, timeout=20) as r:
-        return json.loads(r.read())
+    return json.loads(_fetch(url))
 
 
 def get_text(url):
-    req = urllib.request.Request(url, headers=UA)
-    with urllib.request.urlopen(req, timeout=20) as r:
-        return r.read().decode("utf-8", "replace")
+    return _fetch(url).decode("utf-8", "replace")
 
 
 def collect_org_repos(since):
@@ -124,14 +136,53 @@ def collect_reddit():
         d = re.search(r"<updated>(.*?)</updated>", e)
         if not (t and u and d):
             continue
-        title = t.group(1)
+        title = html.unescape(t.group(1))
         if kw.search(title) and not noise.search(title):
             out.append({
                 "source": "reddit",
+                "sub": "LocalLLaMA",
                 "title": title,
                 "url": u.group(1),
                 "updated": d.group(1),
             })
+    return out
+
+
+# NVIDIA 开发者论坛(Discourse, 免鉴权 RSS): DGX Spark 官方板块, 部署情报优先级最高
+NV_FORUM = "https://forums.developer.nvidia.com"
+NV_CATS = [
+    ("/c/dgx-spark-gb10/719.rss", "DGX Spark"),
+    ("/c/dgx-spark-gb10/dgx-spark-gb10-projects/723.rss", "Spark Projects"),
+]
+
+
+def collect_nvidia_forum():
+    """NVIDIA 官方论坛 DGX Spark/GB10 板块 — 一手的本机部署实测"""
+    out, seen = [], set()
+    for path, label in NV_CATS:
+        try:
+            xml = get_text(f"{NV_FORUM}{path}")
+        except Exception as e:
+            print(f"  ! nvidia-forum/{label}: {e}", file=sys.stderr)
+            continue
+        # Discourse 板块 feed 是 RSS2.0(<item>/<link>元素/<pubDate>), 兼容 Atom(<entry>/href/<updated>)
+        entries = re.findall(r"<(?:item|entry)>(.*?)</(?:item|entry)>", xml, re.S)
+        for e in entries[:30]:
+            t = re.search(r"<title>(?:<!\[CDATA\[)?(.*?)(?:\]\]>)?</title>", e, re.S)
+            u = (re.search(r"<link[^>]*>\s*(https?://[^<\s\]]+)", e)
+                 or re.search(r'<link[^>]*href="([^"]+)"', e))
+            d = re.search(r"<(?:pubDate|updated)>(.*?)</(?:pubDate|updated)>", e)
+            if not (t and u and d) or u.group(1) in seen:
+                continue
+            seen.add(u.group(1))
+            out.append({
+                "source": "nvidia-forum",
+                "sub": label,
+                "title": html.unescape(t.group(1)).strip(),
+                "url": u.group(1),
+                "updated": d.group(1),
+            })
+        time.sleep(0.5)
     return out
 
 
@@ -146,6 +197,7 @@ def main():
         "hf_org": collect_org_repos(since),
         "hf_trending": collect_trending(since),
         "reddit": collect_reddit(),
+        "nvidia_forum": collect_nvidia_forum(),
     }
     out_path = f"data/{day}.json"
     import os
@@ -154,7 +206,7 @@ def main():
         json.dump(data, f, ensure_ascii=False, indent=1)
 
     print(f"org={len(data['hf_org'])} trending={len(data['hf_trending'])} "
-          f"reddit={len(data['reddit'])} -> {out_path}")
+          f"reddit={len(data['reddit'])} nvidia_forum={len(data['nvidia_forum'])} -> {out_path}")
 
 
 if __name__ == "__main__":
