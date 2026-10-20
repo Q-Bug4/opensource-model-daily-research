@@ -15,9 +15,24 @@
   - 单日页: 当天一段话总结 + 每个模型「是什么 / 优势 / 劣势 / 推荐度」
   - 今日推荐(picks): **首页直接展示**推荐模型 chips + 推荐理由
   - 未配置 API key 时自动跳过, 不影响采集与建站
-- GitHub Actions 每天 UTC 01:30(北京 09:30)跑 collect → assess → summarize → build,结果提交回本仓
-- GitHub Pages 从 `docs/` 出静态站: 首页按天索引(含每天推荐),单日页含 AI 总结 + 部署评估表 +
+- GitHub Actions 每天 UTC 01:30(北京 09:30)跑 collect → assess → summarize → build:
+  bot 只把 `data/` 当天新文件提交回 main;站点由 workflow 构建后以 **Pages artifact** 直接部署
+- GitHub Pages: 需在 Settings → Pages 把 Source 设为 **GitHub Actions**(docs/ 已不入库)
+- 站点: 首页按天索引(含每天推荐),单日页含 AI 总结 + 部署评估表 +
   情报分区(DGX Spark → 部署实践 → NVIDIA 动态 → 社区讨论)
+
+## 分支与同步(避免和 daily-bot 冲突)
+
+- `main` 上只有两类提交: bot 的 `daily: <date>`(纯新增 data 文件) + 人工的功能合并
+- 日常开发在 `dev` 分支;**生成物一律不提交**(docs/、当天 data/*.json、assess-cache 均已 gitignore)
+- 同步基线永远无冲突, 因为 bot 只新增 data 文件、dev 只改源码, 路径不相交:
+
+```bash
+git switch dev
+# ...改代码, 本地随便跑 pipeline 预览...
+git fetch origin && git rebase origin/main   # 零冲突
+git push -u origin dev                        # 然后 PR 或 ff 合进 main
+```
 
 ## AI 总结配置
 

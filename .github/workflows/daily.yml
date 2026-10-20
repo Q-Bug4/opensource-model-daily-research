@@ -7,10 +7,17 @@ on:
 
 permissions:
   contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: daily-collect
+  cancel-in-progress: false
 
 jobs:
   collect:
     runs-on: ubuntu-latest
+    environment: github-pages
     steps:
       - uses: actions/checkout@v4
 
@@ -33,10 +40,21 @@ jobs:
       - name: Build site
         run: python3 scripts/build_site.py
 
-      - name: Commit and push
+      # 分支策略: main 上 bot 只提交 data/(每天新文件, 天然无冲突);
+      # docs/ 不入库 — 构建产物直接作为 Pages artifact 部署,
+      # 需在 Settings → Pages 把 Source 切成 "GitHub Actions"
+      - name: Commit data and push
         run: |
           git config user.name "daily-bot"
           git config user.email "actions@github.com"
-          git add data/ docs/
+          git add data/
           git diff --cached --quiet && echo "no changes" || git commit -m "daily: $(date -u +%F) collection"
           git push
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: docs
+
+      - name: Deploy to GitHub Pages
+        uses: actions/deploy-pages@v4

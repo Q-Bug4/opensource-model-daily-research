@@ -1,4 +1,8 @@
 .env
 llm.json
+# 生成物不入库: docs 由 CI 构建后走 Pages artifact 部署, 本地 build 只用于预览
+docs/
+data/assess-cache.json
+data/*.html
 __pycache__/
 *.pyc
