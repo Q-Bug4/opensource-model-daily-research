@@ -1,0 +1,535 @@
+{
+ "date": "2026-10-24",
+ "generated_at": "2026-10-24T06:04:03.640245+00:00",
+ "window_hours": 48,
+ "hf_org": [
+  {
+   "source": "hf-org",
+   "org": "nvidia",
+   "repo": "nvidia/InternVideo2-CLIP-anomaly-detection",
+   "created": "2026-10-22T18:23:57.000Z",
+   "downloads": 0,
+   "likes": 3,
+   "pipeline": null,
+   "url": "https://huggingface.co/nvidia/InternVideo2-CLIP-anomaly-detection"
+  },
+  {
+   "source": "hf-org",
+   "org": "internlm",
+   "repo": "internlm/Atria-Dawn",
+   "created": "2026-10-23T03:21:40.000Z",
+   "downloads": 0,
+   "likes": 5,
+   "pipeline": null,
+   "url": "https://huggingface.co/internlm/Atria-Dawn"
+  },
+  {
+   "source": "hf-org",
+   "org": "internlm",
+   "repo": "internlm/Atria-Dawn-FP8",
+   "created": "2026-10-23T01:23:32.000Z",
+   "downloads": 0,
+   "likes": 3,
+   "pipeline": null,
+   "url": "https://huggingface.co/internlm/Atria-Dawn-FP8"
+  }
+ ],
+ "hf_trending": [
+  {
+   "source": "hf-trending",
+   "org": "chinoll",
+   "repo": "chinoll/Moss-Image-Edit",
+   "created": "2026-10-22T10:03:30.000Z",
+   "downloads": 0,
+   "likes": 73,
+   "pipeline": "image-to-image",
+   "url": "https://huggingface.co/chinoll/Moss-Image-Edit"
+  },
+  {
+   "source": "hf-trending",
+   "org": "LiconStudio",
+   "repo": "LiconStudio/Minimax-H3-VBVR",
+   "created": "2026-10-23T10:38:40.000Z",
+   "downloads": 0,
+   "likes": 36,
+   "pipeline": null,
+   "url": "https://huggingface.co/LiconStudio/Minimax-H3-VBVR"
+  }
+ ],
+ "reddit": [
+  {
+   "source": "reddit",
+   "sub": "LocalLLaMA",
+   "title": "Qwen4-27B PR found",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xdwrak/qwen427b_pr_found/",
+   "updated": "2026-10-24T02:16:02+00:00"
+  },
+  {
+   "source": "reddit",
+   "sub": "LocalLLaMA",
+   "title": "Built a home for 5 local companions on Gemma 4 26B: 3D rooms, journals, a D&D campaign, and they can text me on Discord",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xduy84/built_a_home_for_5_local_companions_on_gemma_4/",
+   "updated": "2026-10-24T00:42:44+00:00"
+  },
+  {
+   "source": "reddit",
+   "sub": "LocalLLaMA",
+   "title": "ISTA-DASLab/DeepSeek-V4.1-Flash-1017-GSQ-RCO",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xdtk7m/istadaslabdeepseekv41flash1017gsqrco/",
+   "updated": "2026-10-23T23:37:39+00:00"
+  },
+  {
+   "source": "reddit",
+   "sub": "LocalLLaMA",
+   "title": "Strata: Qwen3.8-FN IQ3_S on a rtx 3070 - 1000pp - 40tps decode",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xdoclb/strata_qwen38fn_iq3_s_on_a_rtx_3070_1000pp_40tps/",
+   "updated": "2026-10-23T19:57:56+00:00"
+  },
+  {
+   "source": "reddit",
+   "sub": "LocalLLaMA",
+   "title": "Mysterious Qwen4 Appearance by New GitHub Accounts",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xdmt2o/mysterious_qwen4_appearance_by_new_github_accounts/",
+   "updated": "2026-10-23T18:59:02+00:00"
+  },
+  {
+   "source": "reddit",
+   "sub": "LocalLLaMA",
+   "title": "qwen4exp : build the QSA selection without the kq_mask by sanmai · Pull Request #30965 · ggml-org/llama.cpp",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xdmek0/qwen4exp_build_the_qsa_selection_without_the_kq/",
+   "updated": "2026-10-23T18:43:46+00:00"
+  },
+  {
+   "source": "reddit",
+   "sub": "LocalLLaMA",
+   "title": "I ran all the popular Qwen 3.8 FN engines on a single 5090 + 128GB of RAM, here are the numbers",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xdlunp/i_ran_all_the_popular_qwen_38_fn_engines_on_a/",
+   "updated": "2026-10-23T18:22:56+00:00"
+  },
+  {
+   "source": "reddit",
+   "sub": "LocalLLaMA",
+   "title": "How I tried to like DeepSeek-V4.1-Flash-1017 only to realize that it is Opus 5.5 for poor",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xdkvmi/how_i_tried_to_like_deepseekv41flash1017_only_to/",
+   "updated": "2026-10-23T17:46:28+00:00"
+  },
+  {
+   "source": "reddit",
+   "sub": "LocalLLaMA",
+   "title": "Strata now supports Qwen 3.6 35B",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xdktmz/strata_now_supports_qwen_36_35b/",
+   "updated": "2026-10-23T17:44:20+00:00"
+  },
+  {
+   "source": "reddit",
+   "sub": "LocalLLaMA",
+   "title": "My favourite release in 2026? But do we really need smarter models?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xdkbrm/my_favourite_release_in_2026_but_do_we_really/",
+   "updated": "2026-10-23T17:25:19+00:00"
+  },
+  {
+   "source": "reddit",
+   "sub": "LocalLLaMA",
+   "title": "Baseten releases elephant-1 (9B, MIT, Qwen3.5-9B base), a decision model that ties d1-ultra on the AA Decision Index at about a quarter of the cost",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xdirky/baseten_releases_elephant1_9b_mit_qwen359b_base_a/",
+   "updated": "2026-10-23T16:26:41+00:00"
+  },
+  {
+   "source": "reddit",
+   "sub": "LocalLLaMA",
+   "title": "agentionai/Qwen3.8-Flash-Next-Gyro-Coder-GGUF · Hugging Face",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xdihql/agentionaiqwen38flashnextgyrocodergguf_hugging/",
+   "updated": "2026-10-23T16:16:38+00:00"
+  },
+  {
+   "source": "reddit",
+   "sub": "LocalLLaMA",
+   "title": "nvidia/NVIDIA-Nemotron-3.5-Bolt-E4B-4GB · Hugging Face",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xdiecx/nvidianvidianemotron35bolte4b4gb_hugging_face/",
+   "updated": "2026-10-23T16:13:05+00:00"
+  },
+  {
+   "source": "reddit",
+   "sub": "LocalLLaMA",
+   "title": "DeepSeek V4.1 Flash 1017 on 5× A40: TensorSharp vs llama.cpp, with YOCO on/off and quality measurements",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xdho58/deepseek_v41_flash_1017_on_5_a40_tensorsharp_vs/",
+   "updated": "2026-10-23T15:47:06+00:00"
+  },
+  {
+   "source": "reddit",
+   "sub": "LocalLLaMA",
+   "title": "Qwen 3.8 Flash Next Gyro Coder is out!",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xdhj4z/qwen_38_flash_next_gyro_coder_is_out/",
+   "updated": "2026-10-23T15:41:37+00:00"
+  },
+  {
+   "source": "reddit",
+   "sub": "LocalLLaMA",
+   "title": "Swift-1.5 QFN iq2_xxs (strata, 64k ctx) vs Swift-1.5 27B q4_k_l (llama.cpp, 128k ctx)",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xdfy9c/swift15_qfn_iq2_xxs_strata_64k_ctx_vs_swift15_27b/",
+   "updated": "2026-10-23T14:41:43+00:00"
+  }
+ ],
+ "nvidia_forum": [
+  {
+   "source": "nvidia-forum",
+   "sub": "DGX Spark",
+   "title": "How safe is it to update right now?",
+   "url": "https://forums.developer.nvidia.com/t/how-safe-is-it-to-update-right-now/386696",
+   "updated": "Fri, 23 Oct 2026 20:47:34 +0000"
+  },
+  {
+   "source": "nvidia-forum",
+   "sub": "DGX Spark",
+   "title": "Spark-GLM53: NVFP4 (B12X) + CUDA-Graph DFlash2 Engine for GLM-5.3-Flash on 2x DGX Spark",
+   "url": "https://forums.developer.nvidia.com/t/spark-glm53-nvfp4-b12x-cuda-graph-dflash2-engine-for-glm-5-3-flash-on-2x-dgx-spark/386646",
+   "updated": "Fri, 23 Oct 2026 07:44:20 +0000"
+  },
+  {
+   "source": "nvidia-forum",
+   "sub": "DGX Spark",
+   "title": "DGX Spark fieldiag fails on the thermal sensor",
+   "url": "https://forums.developer.nvidia.com/t/dgx-spark-fieldiag-fails-on-the-thermal-sensor/386626",
+   "updated": "Thu, 22 Oct 2026 23:15:19 +0000"
+  },
+  {
+   "source": "nvidia-forum",
+   "sub": "DGX Spark",
+   "title": "Wi-Fi on the Spark much slower than another machine on the same Wi-Fi 7 router (MT7925, MLO)",
+   "url": "https://forums.developer.nvidia.com/t/wi-fi-on-the-spark-much-slower-than-another-machine-on-the-same-wi-fi-7-router-mt7925-mlo/386604",
+   "updated": "Thu, 22 Oct 2026 18:05:49 +0000"
+  },
+  {
+   "source": "nvidia-forum",
+   "sub": "DGX Spark",
+   "title": "RTX Spark forum now available",
+   "url": "https://forums.developer.nvidia.com/t/rtx-spark-forum-now-available/386583",
+   "updated": "Thu, 22 Oct 2026 15:52:26 +0000"
+  },
+  {
+   "source": "nvidia-forum",
+   "sub": "DGX Spark",
+   "title": "Let’s optimize DeepSeek-V4.1-Flash-1017 for 2× DGX Spark",
+   "url": "https://forums.developer.nvidia.com/t/let-s-optimize-deepseek-v4-1-flash-1017-for-2x-dgx-spark/386574",
+   "updated": "Thu, 22 Oct 2026 14:56:50 +0000"
+  },
+  {
+   "source": "nvidia-forum",
+   "sub": "DGX Spark",
+   "title": "Stackcooler TP2: an aluminum stand that stacks two DGX Sparks using their built-in magnets (I'm the maker)",
+   "url": "https://forums.developer.nvidia.com/t/stackcooler-tp2-an-aluminum-stand-that-stacks-two-dgx-sparks-using-their-built-in-magnets-im-the-maker/386570",
+   "updated": "Thu, 22 Oct 2026 14:30:35 +0000"
+  },
+  {
+   "source": "nvidia-forum",
+   "sub": "DGX Spark",
+   "title": "DGX Spark: log-less hard power-off + implausible ACPI thermal sensor spikes — Field Diagnostics PASS (case 261014-000313)",
+   "url": "https://forums.developer.nvidia.com/t/dgx-spark-log-less-hard-power-off-implausible-acpi-thermal-sensor-spikes-field-diagnostics-pass-case-261014-000313/386556",
+   "updated": "Thu, 22 Oct 2026 11:28:10 +0000"
+  },
+  {
+   "source": "nvidia-forum",
+   "sub": "DGX Spark",
+   "title": "DGX Spark headless setup desktop solution w/BIOS access",
+   "url": "https://forums.developer.nvidia.com/t/dgx-spark-headless-setup-desktop-solution-w-bios-access/386509",
+   "updated": "Wed, 21 Oct 2026 22:00:10 +0000"
+  },
+  {
+   "source": "nvidia-forum",
+   "sub": "DGX Spark",
+   "title": "FW upgrade fail",
+   "url": "https://forums.developer.nvidia.com/t/fw-upgrade-fail/386507",
+   "updated": "Wed, 21 Oct 2026 19:26:02 +0000"
+  },
+  {
+   "source": "nvidia-forum",
+   "sub": "DGX Spark",
+   "title": "Eagle-4 Flexible Drafter",
+   "url": "https://forums.developer.nvidia.com/t/eagle-4-flexible-drafter/386501",
+   "updated": "Wed, 21 Oct 2026 17:40:09 +0000"
+  },
+  {
+   "source": "nvidia-forum",
+   "sub": "DGX Spark",
+   "title": "`sudo reboot now` and Spark doesn't come back.. started after installing updates today",
+   "url": "https://forums.developer.nvidia.com/t/sudo-reboot-now-and-spark-doesnt-come-back-started-after-installing-updates-today/386495",
+   "updated": "Wed, 21 Oct 2026 15:58:55 +0000"
+  },
+  {
+   "source": "nvidia-forum",
+   "sub": "DGX Spark",
+   "title": "Getting a 404 on the build the vllm use case example",
+   "url": "https://forums.developer.nvidia.com/t/getting-a-404-on-the-build-the-vllm-use-case-example/386493",
+   "updated": "Wed, 21 Oct 2026 15:11:11 +0000"
+  },
+  {
+   "source": "nvidia-forum",
+   "sub": "DGX Spark",
+   "title": "Two models on one DGX Spark: Qwen3.6-35B NVFP4 + Nemotron 3.5 Lightning with DSpark, numbers under shared load and a fix for cuDNN FP8 crashes",
+   "url": "https://forums.developer.nvidia.com/t/two-models-on-one-dgx-spark-qwen3-6-35b-nvfp4-nemotron-3-5-lightning-with-dspark-numbers-under-shared-load-and-a-fix-for-cudnn-fp8-crashes/386489",
+   "updated": "Wed, 21 Oct 2026 13:46:51 +0000"
+  },
+  {
+   "source": "nvidia-forum",
+   "sub": "DGX Spark",
+   "title": "DGX Spark Software Updates - October 2026 Release",
+   "url": "https://forums.developer.nvidia.com/t/dgx-spark-software-updates-october-2026-release/386341",
+   "updated": "Wed, 21 Oct 2026 11:30:48 +0000"
+  },
+  {
+   "source": "nvidia-forum",
+   "sub": "DGX Spark",
+   "title": "How to Set Up DGX Spark for Headless Access Using ThinLinc (VDI / Linux Remote Desktop)",
+   "url": "https://forums.developer.nvidia.com/t/how-to-set-up-dgx-spark-for-headless-access-using-thinlinc-vdi-linux-remote-desktop/386478",
+   "updated": "Wed, 21 Oct 2026 11:03:10 +0000"
+  },
+  {
+   "source": "nvidia-forum",
+   "sub": "DGX Spark",
+   "title": "DGX Spark: repeated hard resets (SBSA Generic Watchdog timeout, CPU 6 hangs) - gone for 10 days when deep cpuidle states are disabled",
+   "url": "https://forums.developer.nvidia.com/t/dgx-spark-repeated-hard-resets-sbsa-generic-watchdog-timeout-cpu-6-hangs-gone-for-10-days-when-deep-cpuidle-states-are-disabled/386469",
+   "updated": "Wed, 21 Oct 2026 08:34:45 +0000"
+  },
+  {
+   "source": "nvidia-forum",
+   "sub": "DGX Spark",
+   "title": "DGX Spark hardware fault confirmed, but manufacturer warranty declined",
+   "url": "https://forums.developer.nvidia.com/t/dgx-spark-hardware-fault-confirmed-but-manufacturer-warranty-declined/386465",
+   "updated": "Wed, 21 Oct 2026 07:43:35 +0000"
+  },
+  {
+   "source": "nvidia-forum",
+   "sub": "DGX Spark",
+   "title": "Qwen3-Omni-30B-A3B-Instruct on the DGX Spark with vLLM — recipe, with the evidence attached",
+   "url": "https://forums.developer.nvidia.com/t/qwen3-omni-30b-a3b-instruct-on-the-dgx-spark-with-vllm-recipe-with-the-evidence-attached/386464",
+   "updated": "Wed, 21 Oct 2026 07:38:24 +0000"
+  },
+  {
+   "source": "nvidia-forum",
+   "sub": "DGX Spark",
+   "title": "Flare - NVIDIA's new inference server in Rust",
+   "url": "https://forums.developer.nvidia.com/t/flare-nvidias-new-inference-server-in-rust/386436",
+   "updated": "Wed, 21 Oct 2026 01:11:49 +0000"
+  },
+  {
+   "source": "nvidia-forum",
+   "sub": "DGX Spark",
+   "title": "MiniMax M3.1 Flash comming (aka Bunny Speed)",
+   "url": "https://forums.developer.nvidia.com/t/minimax-m3-1-flash-comming-aka-bunny-speed/386377",
+   "updated": "Tue, 20 Oct 2026 08:51:58 +0000"
+  },
+  {
+   "source": "nvidia-forum",
+   "sub": "DGX Spark",
+   "title": "DGX Spark GB10: Magistral 24B BF16 ~4.85 tok/s, GEMV decode, allocation and NCU resource errors",
+   "url": "https://forums.developer.nvidia.com/t/dgx-spark-gb10-magistral-24b-bf16-4-85-tok-s-gemv-decode-allocation-and-ncu-resource-errors/386351",
+   "updated": "Tue, 20 Oct 2026 01:36:01 +0000"
+  },
+  {
+   "source": "nvidia-forum",
+   "sub": "DGX Spark",
+   "title": "DGX Spark EOL?",
+   "url": "https://forums.developer.nvidia.com/t/dgx-spark-eol/386322",
+   "updated": "Mon, 19 Oct 2026 14:25:35 +0000"
+  },
+  {
+   "source": "nvidia-forum",
+   "sub": "DGX Spark",
+   "title": "Will there be a separate sub-forum for RTX Spark?",
+   "url": "https://forums.developer.nvidia.com/t/will-there-be-a-separate-sub-forum-for-rtx-spark/386299",
+   "updated": "Mon, 19 Oct 2026 08:45:37 +0000"
+  },
+  {
+   "source": "nvidia-forum",
+   "sub": "DGX Spark",
+   "title": "DeepSeek-V4.1-Flash-1017 EXL3 (2.75 bpw experts) on 2× Spark with vLLM — KLD 0.0201, 320K ctx, vision, tools — weights + ready image",
+   "url": "https://forums.developer.nvidia.com/t/deepseek-v4-1-flash-1017-exl3-2-75-bpw-experts-on-2x-spark-with-vllm-kld-0-0201-320k-ctx-vision-tools-weights-ready-image/386295",
+   "updated": "Mon, 19 Oct 2026 08:27:33 +0000"
+  },
+  {
+   "source": "nvidia-forum",
+   "sub": "Spark Projects",
+   "title": "DeepSeek-V4.1-Flash-1017 on 4× DGX Spark (China OEM) with no switch: 90 tok/s single-stream, 296 tok/s at 8 streams, 1M-token prefill in under 6 minut",
+   "url": "https://forums.developer.nvidia.com/t/deepseek-v4-1-flash-1017-on-4x-dgx-spark-china-oem-with-no-switch-90-tok-s-single-stream-296-tok-s-at-8-streams-1m-token-prefill-in-under-6-minut/386285",
+   "updated": "Mon, 19 Oct 2026 06:39:54 +0000"
+  },
+  {
+   "source": "nvidia-forum",
+   "sub": "Spark Projects",
+   "title": "RAIDFLASH : 2.5× decode on 2×GB10 GLM-5.3-Flash (Tensofold engine)",
+   "url": "https://forums.developer.nvidia.com/t/raidflash-2-5x-decode-on-2xgb10-glm-5-3-flash-tensofold-engine/386130",
+   "updated": "Sun, 18 Oct 2026 03:12:39 +0000"
+  },
+  {
+   "source": "nvidia-forum",
+   "sub": "Spark Projects",
+   "title": "My Spark kept shutting down from heat (no logs, 95-97 C on acpitz). Turned out to be CPU threads, not the GPU. One taskset line fixed it",
+   "url": "https://forums.developer.nvidia.com/t/my-spark-kept-shutting-down-from-heat-no-logs-95-97-c-on-acpitz-turned-out-to-be-cpu-threads-not-the-gpu-one-taskset-line-fixed-it/386117",
+   "updated": "Sat, 17 Oct 2026 17:36:47 +0000"
+  },
+  {
+   "source": "nvidia-forum",
+   "sub": "Spark Projects",
+   "title": "Nemotron 3.5 Bolt and Super VL on one Spark, with one command",
+   "url": "https://forums.developer.nvidia.com/t/nemotron-3-5-bolt-and-super-vl-on-one-spark-with-one-command/386093",
+   "updated": "Sat, 17 Oct 2026 07:48:33 +0000"
+  },
+  {
+   "source": "nvidia-forum",
+   "sub": "Spark Projects",
+   "title": "Single Spark Dev Setup",
+   "url": "https://forums.developer.nvidia.com/t/single-spark-dev-setup/386075",
+   "updated": "Fri, 16 Oct 2026 18:18:53 +0000"
+  },
+  {
+   "source": "nvidia-forum",
+   "sub": "Spark Projects",
+   "title": "Per-cgroup GPU memory limits on GB10 (580 driver): a `memacct` backport, which cgroup pays for which CUDA allocation, and a request for review",
+   "url": "https://forums.developer.nvidia.com/t/per-cgroup-gpu-memory-limits-on-gb10-580-driver-a-memacct-backport-which-cgroup-pays-for-which-cuda-allocation-and-a-request-for-review/386057",
+   "updated": "Fri, 16 Oct 2026 16:43:17 +0000"
+  },
+  {
+   "source": "nvidia-forum",
+   "sub": "Spark Projects",
+   "title": "NVIDIA Nemotron-3.5-Bolt-74B-A9B-24GB and Nemotron-3.5-Super-VL-120B-A12B published - NVIDIAs new general purpose models especially for GB10",
+   "url": "https://forums.developer.nvidia.com/t/nvidia-nemotron-3-5-bolt-74b-a9b-24gb-and-nemotron-3-5-super-vl-120b-a12b-published-nvidias-new-general-purpose-models-especially-for-gb10/385978",
+   "updated": "Thu, 15 Oct 2026 17:30:48 +0000"
+  },
+  {
+   "source": "nvidia-forum",
+   "sub": "Spark Projects",
+   "title": "MiniCPM-V-4.7-35B-A3B on Spark?",
+   "url": "https://forums.developer.nvidia.com/t/minicpm-v-4-7-35b-a3b-on-spark/385922",
+   "updated": "Thu, 15 Oct 2026 09:35:27 +0000"
+  },
+  {
+   "source": "nvidia-forum",
+   "sub": "Spark Projects",
+   "title": "Qwen3.8-27B Benchmark Study on DGX Sparks: How speculative decoding results stack up",
+   "url": "https://forums.developer.nvidia.com/t/qwen3-8-27b-benchmark-study-on-dgx-sparks-how-speculative-decoding-results-stack-up/385801",
+   "updated": "Tue, 13 Oct 2026 18:32:51 +0000"
+  },
+  {
+   "source": "nvidia-forum",
+   "sub": "Spark Projects",
+   "title": "Cannot reach 200Gbps with 4x DGX Spark through MikroTik CRS 812 switches",
+   "url": "https://forums.developer.nvidia.com/t/cannot-reach-200gbps-with-4x-dgx-spark-through-mikrotik-crs-812-switches/385776",
+   "updated": "Tue, 13 Oct 2026 12:02:54 +0000"
+  },
+  {
+   "source": "nvidia-forum",
+   "sub": "Spark Projects",
+   "title": "The adventures of Nemohermes (Nemoclaw)",
+   "url": "https://forums.developer.nvidia.com/t/the-adventures-of-nemohermes-nemoclaw/385714",
+   "updated": "Mon, 12 Oct 2026 20:24:23 +0000"
+  },
+  {
+   "source": "nvidia-forum",
+   "sub": "Spark Projects",
+   "title": "Pixal3D (image-to-3D) on DGX Spark: what it takes on GB10, and why low_vram should be off",
+   "url": "https://forums.developer.nvidia.com/t/pixal3d-image-to-3d-on-dgx-spark-what-it-takes-on-gb10-and-why-low-vram-should-be-off/385703",
+   "updated": "Mon, 12 Oct 2026 15:42:11 +0000"
+  },
+  {
+   "source": "nvidia-forum",
+   "sub": "Spark Projects",
+   "title": "Dgxtop v2: unified memory visualization and GPU process history for DGX Spark",
+   "url": "https://forums.developer.nvidia.com/t/dgxtop-v2-unified-memory-visualization-and-gpu-process-history-for-dgx-spark/385664",
+   "updated": "Mon, 12 Oct 2026 08:31:54 +0000"
+  },
+  {
+   "source": "nvidia-forum",
+   "sub": "Spark Projects",
+   "title": "Ninfer-gb10",
+   "url": "https://forums.developer.nvidia.com/t/ninfer-gb10/385516",
+   "updated": "Sat, 10 Oct 2026 20:03:36 +0000"
+  },
+  {
+   "source": "nvidia-forum",
+   "sub": "Spark Projects",
+   "title": "Running EmbeddingGemma2 on DGX Spark",
+   "url": "https://forums.developer.nvidia.com/t/running-embeddinggemma2-on-dgx-spark/385373",
+   "updated": "Thu, 08 Oct 2026 13:46:02 +0000"
+  },
+  {
+   "source": "nvidia-forum",
+   "sub": "Spark Projects",
+   "title": "Qwen3.8-Flash-Next on 3 DGX Sparks — 3 Recipes, Full Debugging Journey, Final Reproducible Setup",
+   "url": "https://forums.developer.nvidia.com/t/qwen3-8-flash-next-on-3-dgx-sparks-3-recipes-full-debugging-journey-final-reproducible-setup/385316",
+   "updated": "Wed, 07 Oct 2026 17:02:46 +0000"
+  },
+  {
+   "source": "nvidia-forum",
+   "sub": "Spark Projects",
+   "title": "VibeVoice-ASR on DGX Spark: a 59-minute recording in one pass, with speakers and timestamps (no chunking)",
+   "url": "https://forums.developer.nvidia.com/t/vibevoice-asr-on-dgx-spark-a-59-minute-recording-in-one-pass-with-speakers-and-timestamps-no-chunking/385294",
+   "updated": "Wed, 07 Oct 2026 12:35:27 +0000"
+  },
+  {
+   "source": "nvidia-forum",
+   "sub": "Spark Projects",
+   "title": "Prioritizing Compute on the GB10",
+   "url": "https://forums.developer.nvidia.com/t/prioritizing-compute-on-the-gb10/385139",
+   "updated": "Mon, 05 Oct 2026 18:12:03 +0000"
+  },
+  {
+   "source": "nvidia-forum",
+   "sub": "Spark Projects",
+   "title": "[Community project] Thinkube: Kubernetes done right on your own Spark",
+   "url": "https://forums.developer.nvidia.com/t/community-project-thinkube-kubernetes-done-right-on-your-own-spark/385130",
+   "updated": "Mon, 05 Oct 2026 14:31:25 +0000"
+  },
+  {
+   "source": "nvidia-forum",
+   "sub": "Spark Projects",
+   "title": "GLM-5.3-Flash NVFP4 on 3x DGX Spark, stock DGX OS: ~3,300 tok/s prefill, 3M-token KV, up to 64 concurrent requests (kindling TP=3)",
+   "url": "https://forums.developer.nvidia.com/t/glm-5-3-flash-nvfp4-on-3x-dgx-spark-stock-dgx-os-3-300-tok-s-prefill-3m-token-kv-up-to-64-concurrent-requests-kindling-tp-3/385075",
+   "updated": "Mon, 05 Oct 2026 01:40:03 +0000"
+  },
+  {
+   "source": "nvidia-forum",
+   "sub": "Spark Projects",
+   "title": "Full GLM-5.3 (753B) on 4x DGX Spark - 3-bit EXL3 quant + TensorFold TP4 recipe",
+   "url": "https://forums.developer.nvidia.com/t/full-glm-5-3-753b-on-4x-dgx-spark-3-bit-exl3-quant-tensorfold-tp4-recipe/385042",
+   "updated": "Sun, 04 Oct 2026 09:48:13 +0000"
+  }
+ ],
+ "assessments": [
+  {
+   "repo": "nvidia/InternVideo2-CLIP-anomaly-detection",
+   "params_b": 0.2,
+   "active_b": null,
+   "moe": false,
+   "precision": "bf16",
+   "q4_gb": 0.1,
+   "fp8_gb": 0.2,
+   "pipeline": null,
+   "mac": "✅ ~150 tok/s",
+   "spark": "✅ 1 台 ~341 tok/s"
+  },
+  {
+   "repo": "internlm/Atria-Dawn",
+   "params_b": 367.5,
+   "active_b": 29.4,
+   "moe": true,
+   "precision": "bf16",
+   "q4_gb": 213.1,
+   "fp8_gb": 385.9,
+   "pipeline": null,
+   "mac": "❌  需 213GB > 16GB",
+   "spark": "✅ 3 台 TP ~47 tok/s"
+  },
+  {
+   "repo": "internlm/Atria-Dawn-FP8",
+   "params_b": 717.5,
+   "active_b": 57.4,
+   "moe": true,
+   "precision": "fp8",
+   "q4_gb": 416.1,
+   "fp8_gb": 753.3,
+   "pipeline": null,
+   "mac": "❌  需 416GB > 16GB",
+   "spark": "✅ 5 台 TP ~40 tok/s"
+  }
+ ]
+}
