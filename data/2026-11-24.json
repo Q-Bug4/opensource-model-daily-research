@@ -1,0 +1,78 @@
+{
+ "date": "2026-11-24",
+ "generated_at": "2026-11-24T11:12:13.855576+00:00",
+ "window_hours": 48,
+ "hf_org": [],
+ "hf_trending": [
+  {
+   "source": "hf-trending",
+   "org": "inclusionAI",
+   "repo": "inclusionAI/Ling-3.2-air",
+   "created": "2026-11-23T03:55:12.000Z",
+   "downloads": 733,
+   "likes": 144,
+   "pipeline": null,
+   "url": "https://huggingface.co/inclusionAI/Ling-3.2-air"
+  },
+  {
+   "source": "hf-trending",
+   "org": "baidu",
+   "repo": "baidu/ERNIE-5.5-Flash-Preview",
+   "created": "2026-11-23T09:00:29.000Z",
+   "downloads": 75,
+   "likes": 176,
+   "pipeline": "text-generation",
+   "url": "https://huggingface.co/baidu/ERNIE-5.5-Flash-Preview"
+  },
+  {
+   "source": "hf-trending",
+   "org": "baidu",
+   "repo": "baidu/ERNIE-5.5-Flash-Preview-FP8",
+   "created": "2026-11-23T09:00:47.000Z",
+   "downloads": 15,
+   "likes": 28,
+   "pipeline": "text-generation",
+   "url": "https://huggingface.co/baidu/ERNIE-5.5-Flash-Preview-FP8"
+  }
+ ],
+ "reddit": [],
+ "nvidia_forum": [],
+ "assessments": [
+  {
+   "repo": "inclusionAI/Ling-3.2-air",
+   "params_b": 62.4,
+   "active_b": 5.0,
+   "moe": true,
+   "precision": "bf16",
+   "q4_gb": 36.2,
+   "fp8_gb": 65.5,
+   "pipeline": null,
+   "mac": "❌  需 36GB > 16GB",
+   "spark": "✅ 1 台 ~80 tok/s"
+  },
+  {
+   "repo": "baidu/ERNIE-5.5-Flash-Preview",
+   "params_b": 146.1,
+   "active_b": 11.7,
+   "moe": true,
+   "precision": "bf16",
+   "q4_gb": 84.8,
+   "fp8_gb": 153.4,
+   "pipeline": "text-generation",
+   "mac": "❌  需 85GB > 16GB",
+   "spark": "✅ 1 台 ~37 tok/s"
+  },
+  {
+   "repo": "baidu/ERNIE-5.5-Flash-Preview-FP8",
+   "params_b": 285.3,
+   "active_b": 22.8,
+   "moe": true,
+   "precision": "fp8",
+   "q4_gb": 165.5,
+   "fp8_gb": 299.6,
+   "pipeline": "text-generation",
+   "mac": "❌  需 165GB > 16GB",
+   "spark": "✅ 2 台 TP ~40 tok/s"
+  }
+ ]
+}
